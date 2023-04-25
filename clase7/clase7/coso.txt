@@ -1,0 +1,4 @@
+DNI   33333333
+NOMBRE   erasmohector
+SUELDO   33000
+
