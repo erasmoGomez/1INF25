@@ -13,8 +13,12 @@
 
 #ifndef LIBRERIA_ESTATICA_FUNCIONES_HPP
 #define LIBRERIA_ESTATICA_FUNCIONES_HPP
-
+#include <fstream>
+#include <iostream>
+#include <iomanip>
+using namespace std;
 int suma(int, int);
+int operator >>(istream &, struct Persona &);
 
 
 #endif /* LIBRERIA_ESTATICA_FUNCIONES_HPP */
