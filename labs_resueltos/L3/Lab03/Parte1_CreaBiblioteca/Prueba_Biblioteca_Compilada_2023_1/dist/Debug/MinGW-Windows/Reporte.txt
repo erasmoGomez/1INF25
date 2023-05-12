@@ -1,0 +1,63 @@
+Prueba #1: Lectura de curso
+
+CÓDIGO         NOMBRE                                          CRÉDITOS
+INF263         Algoritmia                                        3.75                
+PROFESOR: INGA FLORES CESAR ADOLFO [35030611]
+Alumnos matriculados:
+  Semestre      Código
+  El curso no presenta alumnos matriculados.
+Número de alumnos: 0
+Total ingresado: 0.00
+
+Prueba #2: Agregación de curso a arreglo
+
+CÓDIGO         NOMBRE                                          CRÉDITOS
+INF263         Algoritmia                                        3.75                
+PROFESOR: INGA FLORES CESAR ADOLFO [35030611]
+Alumnos matriculados:
+  Semestre      Código
+  El curso no presenta alumnos matriculados.
+Número de alumnos: 0
+Total ingresado: 0.00
+
+Prueba #3: Lectura de alumno
+
+SEMESTRE  CODIGO    NOMBRE                                            MODALIDAD                     ESCALA
+20211     1260      GORDILLO/CASTRO/RONAL                             PRESENCIAL                    2
+Códigos de cursos matriculados:
+          El alumno no se ha matriculado en ningún curso.
+Número de cursos: 0
+Costo total: 0.00
+
+Prueba #4: Agregación de alumno a arreglo
+
+SEMESTRE  CODIGO    NOMBRE                                            MODALIDAD                     ESCALA
+20211     1260      GORDILLO/CASTRO/RONAL                             PRESENCIAL                    2
+Códigos de cursos matriculados:
+          El alumno no se ha matriculado en ningún curso.
+Número de cursos: 0
+Costo total: 0.00
+
+Prueba #5: Lectura de matrícula
+
+20231-8320 matriculado en INF263
+
+Prueba #6: Agregación de alumno a curso
+
+CÓDIGO         NOMBRE                                          CRÉDITOS
+INF263         Algoritmia                                        3.75                
+PROFESOR: INGA FLORES CESAR ADOLFO [35030611]
+Alumnos matriculados:
+  Semestre      Código
+20211          1260
+Número de alumnos: 1
+Total ingresado: 0.00
+
+Prueba #7: Agregación de curso a alumno
+
+SEMESTRE  CODIGO    NOMBRE                                            MODALIDAD                     ESCALA
+20211     1260      GORDILLO/CASTRO/RONAL                             PRESENCIAL                    2
+Códigos de cursos matriculados:
+          INF263
+Número de cursos: 1
+Costo total: 0.00
