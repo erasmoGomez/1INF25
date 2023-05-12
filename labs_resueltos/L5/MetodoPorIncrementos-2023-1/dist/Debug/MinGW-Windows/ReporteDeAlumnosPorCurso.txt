@@ -1,0 +1,161 @@
+                                  CURSOS EN EL CICLO 2023-1
+==========================================================================================
+                                RELACIÓN DE ALUMNOS POR CURSO
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   4
+INF263   Algoritmia                                                  
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20239927   PATINO MEZA MANUEL                                   1816.80
+   2       20239103   LEE VASQUEZ JENNY                                    2226.80
+   3       20238383   GORDILLO BOLANOS ARTURO GONZALO                      1816.80
+   4       20238320   NORABUENA RIVERA GLORIA YESSICA                      2667.60
+   5       20238318   TOKESHI GONZALES MARTIN                              1129.20
+   6       20238072   RIVERA MONTERO GLORIA OFELIA                         1816.80
+   7       20236517   ZEGARRA CUBA ANTONIO                                 1448.00
+   8       20236015   ALFARO FUENTES MAGDA                                 1816.80
+   9       20235763   CORREA AGUIRRE MOISES                                1448.00
+  10       20235724   VEGA SAENZ ALEXANDER RICHARD                         2226.80
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              18413.60
+==========================================================================================
+
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   4
+1INF13   Analisis de Datos                                           
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20233249   NORABUENA PAIRAZAMAN JULIAN                          1816.80
+   2       20233122   CUBA NARVAEZ PAUL JOHN                               1448.00
+   3       20233065   RETT SERRANO RAFAEL RHONY                            1448.00
+   4       20232501   CORTES REYES MARIBEL                                 1448.00
+   5       20232360   VILCA BARRERA CESAR EDGAR                            2667.60
+   6       20232050   LOYOLA HIJAR NICOLAS OSCAR                           2226.80
+   7       20232000   LANDA CUEVA JOHAN                                    2226.80
+   8       20231748   PATINO FUENTES MILAGROS MARIELLA                     2226.80
+   9       20231247   SERRANO JOLAY RHONY ROLANDO                          2667.60
+  10       20229773   SANCHEZ CUBA NATALIA ESTEFANIA                       2667.60
+  11       20229437   ZIMIC PAREDES SHIRLEY                                2226.80
+  12       20227316   RIVERO RETT RONY ANTONIO                             1448.00
+  13       20227030   LUNA POLO SONIA                                      1816.80
+  14       20226995   LARRIEGA ARCA ISABEL MADELEINE                       2667.60
+  15       20226929   BOLANOS FUENTES JORGE                                1448.00
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              30451.20
+==========================================================================================
+
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   5
+INF144   Tecnicas de Programacion                                    
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20213703   GAMARRA TABORI PAUL RONAL                            3334.50
+   2       20213402   VIZCARDO MORI LUCERO ZKENIA                          1411.50
+   3       20213373   ESCALANTE RARAZ BLANCA                               2271.00
+   4       20213223   DIAZ SEDANO YVONNE                                   2783.50
+   5       20212887   CABRERA AGUERO JESSICA                               1810.00
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              11610.50
+==========================================================================================
+
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   3
+MAT241   Metodos Numericos En Ingenieria                             
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20239103   LEE VASQUEZ JENNY                                    1670.10
+   2       20238383   GORDILLO BOLANOS ARTURO GONZALO                      1362.60
+   3       20238320   NORABUENA RIVERA GLORIA YESSICA                      2000.70
+   4       20238318   TOKESHI GONZALES MARTIN                               846.90
+   5       20238072   RIVERA MONTERO GLORIA OFELIA                         1362.60
+   6       20236517   ZEGARRA CUBA ANTONIO                                 1086.00
+   7       20236015   ALFARO FUENTES MAGDA                                 1362.60
+   8       20235763   CORREA AGUIRRE MOISES                                1086.00
+   9       20235724   VEGA SAENZ ALEXANDER RICHARD                         1670.10
+  10       20235643   IBEROS ZAMBRANO GONZALO                              1086.00
+  11       20239103   LEE VASQUEZ JENNY                                    1670.10
+  12       20238383   GORDILLO BOLANOS ARTURO GONZALO                      1362.60
+  13       20238320   NORABUENA RIVERA GLORIA YESSICA                      2000.70
+  14       20238318   TOKESHI GONZALES MARTIN                               846.90
+  15       20238072   RIVERA MONTERO GLORIA OFELIA                         1362.60
+  16       20236517   ZEGARRA CUBA ANTONIO                                 1086.00
+  17       20236015   ALFARO FUENTES MAGDA                                 1362.60
+  18       20235763   CORREA AGUIRRE MOISES                                1086.00
+  19       20235724   VEGA SAENZ ALEXANDER RICHARD                         1670.10
+  20       20235643   IBEROS ZAMBRANO GONZALO                              1086.00
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              27067.20
+==========================================================================================
+
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   5
+INF281   Lenguajes de Programacion 1                                 
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20213703   GAMARRA TABORI PAUL RONAL                            3334.50
+   2       20213402   VIZCARDO MORI LUCERO ZKENIA                          1411.50
+   3       20213373   ESCALANTE RARAZ BLANCA                               2271.00
+   4       20213223   DIAZ SEDANO YVONNE                                   2783.50
+   5       20212887   CABRERA AGUERO JESSICA                               1810.00
+   6       20212742   ZAVALETA LOPEZ KARIN VIRGINIA                        3334.50
+   7       20212598   MORI ZAVALETA LUZ LOURDES                            1411.50
+   8       20211791   GONZALES VELASQUEZ WALTER                            1411.50
+   9       20211397   ZEVALLOS PRADO RICARDO                               1810.00
+  10       20211260   GORDILLO CASTRO RONAL                                1810.00
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              21388.00
+==========================================================================================
+
+==========================================================================================
+CÓDIGO   Nombre                                                      Créditos:   2
+INF246   Bases De Datos                                              
+------------------------------------------------------------------------------------------
+RELACIÓN DE ALUMNOS MATRICULADOS:
+------------------------------------------------------------------------------------------
+            CODIGO    Nombre                                            Pago total
+------------------------------------------------------------------------------------------
+   1       20234919   CORTES CALIXTO ROSARIO                               1333.80
+   2       20233754   MALCA SAAVEDRA DORIS MILAGROS                         908.40
+   3       20233627   CHAVEZ CARO YVONNE                                    564.60
+   4       20233249   NORABUENA PAIRAZAMAN JULIAN                           908.40
+   5       20233122   CUBA NARVAEZ PAUL JOHN                                724.00
+   6       20233065   RETT SERRANO RAFAEL RHONY                             724.00
+   7       20232501   CORTES REYES MARIBEL                                  724.00
+   8       20232360   VILCA BARRERA CESAR EDGAR                            1333.80
+   9       20232050   LOYOLA HIJAR NICOLAS OSCAR                           1113.40
+  10       20232000   LANDA CUEVA JOHAN                                    1113.40
+  11       20231748   PATINO FUENTES MILAGROS MARIELLA                     1113.40
+  12       20231247   SERRANO JOLAY RHONY ROLANDO                          1333.80
+  13       20229773   SANCHEZ CUBA NATALIA ESTEFANIA                       1333.80
+  14       20229437   ZIMIC PAREDES SHIRLEY                                1113.40
+  15       20227316   RIVERO RETT RONY ANTONIO                              724.00
+  16       20227030   LUNA POLO SONIA                                       908.40
+  17       20226995   LARRIEGA ARCA ISABEL MADELEINE                       1333.80
+  18       20226929   BOLANOS FUENTES JORGE                                 724.00
+  19       20226453   MINAYA VIZCARRA JUVENAL                               908.40
+  20       20226249   WONG GALLO JANET MADELEINE                            564.60
+  21       20225778   MUNOZ ZIMIC ROCIO DELICIA                             724.00
+  22       20225494   DE_LA_HAZA CASTRO EMIGDIO JOHNNY                      724.00
+  23       20225067   JAUREGUI AGUERO HECTOR HENRY                         1113.40
+  24       20224918   PORTUGAL GUEVARA HELI JOHANA                         1333.80
+  25       20224712   CASANOVA CHUMPITAZ ALONSO                             724.00
+------------------------------------------------------------------------------------------
+                      TOTAL:                                              24124.60
+==========================================================================================
+
+  TOTAL RECAUDADO 2023-1:                                                     0.00
