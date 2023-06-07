@@ -1,0 +1,12 @@
+Dato en la mochila N: 1
+Dato en la mochila N: 2
+Dato en la mochila N: 3
+Item en la mochila
+ID: 0
+Name: 
+Description: 
+Type: 0
+ID: 3
+Name: Great Ball
+Description: A good high-performance Poke Ball that provides a higher Pokemon catch rate than a standard Poke Ball.
+Type: 1
