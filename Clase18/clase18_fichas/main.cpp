@@ -11,18 +11,23 @@
  * Created on June 14, 2023, 10:45 PM
  */
 
-#include "ficha.hpp"
-#include "fa.hpp"
+#include "MovimientosTablero.hpp"
 
 /*
  * 
  */
 int main(int argc, char** argv) {
-    Fa f;
-    f.asigna("F1", 5, 10);
-    ofstream arch("salida.txt", ios::out);
-    f.imprime(arch);
-    
+//    Fa f;
+//    f.asigna("F1", 5, 10);
+//    ofstream arch("salida.txt", ios::out);
+//    f.imprime(arch);
+//    Tablero t;
+//    ifstream arch("Fichas.txt", ios::in);
+//    ifstream arch2("Movimientos.txt", ios::in);
+//    t.leer_fichas(arch);
+//    t.leer_movimiento(arch2);
+    MovimientosTablero juego;
+    juego.cargar_mover_fichas("Fichas.txt", "Movimientos.txt", "Salida.txt");
     return 0;
 }
 

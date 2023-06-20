@@ -5,23 +5,22 @@
  */
 
 /* 
- * File:   fa.hpp
+ * File:   fb.hpp
  * Author: erasmog
  *
- * Created on June 14, 2023, 10:59 PM
+ * Created on June 20, 2023, 7:07 AM
  */
 
-#ifndef FA_HPP
-#define FA_HPP
+#ifndef FB_HPP
+#define FB_HPP
 #include <fstream>
 #include "ficha.hpp"
 using namespace std;
-
-class Fa : public Ficha {
+class Fb : public Ficha {
 public:
     void imprime(ofstream &);
     void mover(char, int);
 };
 
-#endif /* FA_HPP */
+#endif /* FB_HPP */
 

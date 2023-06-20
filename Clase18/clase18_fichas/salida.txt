@@ -1,1 +1,46 @@
-TIPOA: F1       5   10
+Posiciones iniciales de las fichas
+TIPOC: F1       8   15
+TIPOC: F2      15    9
+TIPOA: F3      24    9
+TIPOA: F4      25    9
+TIPOA: F5       2    4
+TIPOB: F6      20   24
+TIPOC: F7      11   13
+TIPOA: F8      18   11
+TIPOC: F9      11    9
+TIPOB: F10      5    9
+TIPOC: F11     22   14
+TIPOC: F12      4   12
+TIPOC: F13      3   22
+TIPOC: F14     19    2
+TIPOB: F15      9   20
+TIPOC: F16     18   23
+TIPOC: F17     11   10
+TIPOA: F18     12    2
+TIPOB: F19      8   14
+TIPOA: F20      7   19
+TIPOC: F21     16   23
+
+
+Posiciones finales de las fichas
+TIPOC: F1      12   13
+TIPOC: F2      15    9
+TIPOA: F3      24    9
+TIPOA: F4      25    9
+TIPOA: F5       2    4
+TIPOB: F6      20   24
+TIPOC: F7      11   13
+TIPOA: F8      18   11
+TIPOC: F9      11    9
+TIPOB: F10      5    9
+TIPOC: F11     22   14
+TIPOC: F12      4   12
+TIPOC: F13      3   22
+TIPOC: F14     19    2
+TIPOB: F15      9   20
+TIPOC: F16     18   23
+TIPOC: F17     11   10
+TIPOA: F18     12    2
+TIPOB: F19      8   14
+TIPOA: F20      7   19
+TIPOC: F21     16   23

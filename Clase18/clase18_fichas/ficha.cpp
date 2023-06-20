@@ -10,6 +10,10 @@ Ficha::Ficha(){
     id = nullptr;
 }
 
+Ficha::~Ficha(){
+    if(id!=nullptr) delete id;
+}
+
 void Ficha::SetCol(int col) {
     this->col = col;
 }

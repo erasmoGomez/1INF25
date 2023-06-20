@@ -23,6 +23,7 @@ private:
     int col;
 public:
     Ficha();
+    virtual ~Ficha();
     void SetCol(int col);
     int GetCol() const;
     void SetFil(int fil);
@@ -31,7 +32,7 @@ public:
     void GetId(char *) const;
     void asigna(char*, int, int);
     virtual void imprime(ofstream &) = 0;
-    //virtual void mover(char, int) = 0;
+    virtual void mover(char, int) = 0;
 };
 
 #endif /* FICHA_HPP */

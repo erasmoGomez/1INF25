@@ -5,23 +5,24 @@
  */
 
 /* 
- * File:   fa.hpp
+ * File:   fc.hpp
  * Author: erasmog
  *
- * Created on June 14, 2023, 10:59 PM
+ * Created on June 20, 2023, 7:10 AM
  */
 
-#ifndef FA_HPP
-#define FA_HPP
+#ifndef FC_HPP
+#define FC_HPP
 #include <fstream>
 #include "ficha.hpp"
 using namespace std;
 
-class Fa : public Ficha {
+class Fc : public Ficha {
 public:
     void imprime(ofstream &);
     void mover(char, int);
 };
 
-#endif /* FA_HPP */
+
+#endif /* FC_HPP */
 

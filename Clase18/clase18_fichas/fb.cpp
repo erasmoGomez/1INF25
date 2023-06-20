@@ -3,31 +3,36 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 #include <iomanip>
 #include <fstream>
 using namespace std;
-#include "fa.hpp"
+#include "fb.hpp"
 
-void Fa::imprime(ofstream &arch){
+void Fb::imprime(ofstream &arch){
     char ident[10];
     GetId(ident);
-    arch<<"TIPOA: "<<left<<setw(5)<<ident
+    arch<<"TIPOB: "<<left<<setw(5)<<ident
                     <<right<<setw(5)<<GetFil()
                     <<setw(5)<<GetCol()<<endl;
 }
 
-void Fa::mover(char dir, int cant){
+void Fb::mover(char dir, int cant){
     switch(dir){
         case 'P':
             SetFil(GetFil()-cant);
+            SetCol(GetCol()-cant);
             break;
         case 'Q':
+            SetFil(GetFil()-cant);
             SetCol(GetCol()+cant);
             break;
         case 'R':
             SetFil(GetFil()+cant);
+            SetCol(GetCol()+cant);
             break;
         case 'S':
+            SetFil(GetFil()+cant);
             SetCol(GetCol()-cant);
             break;
     }

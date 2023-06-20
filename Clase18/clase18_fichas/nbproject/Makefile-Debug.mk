@@ -36,8 +36,12 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 # Object Files
 OBJECTFILES= \
 	${OBJECTDIR}/fa.o \
+	${OBJECTDIR}/fb.o \
+	${OBJECTDIR}/fc.o \
 	${OBJECTDIR}/ficha.o \
-	${OBJECTDIR}/main.o
+	${OBJECTDIR}/main.o \
+	${OBJECTDIR}/movimientostablero.o \
+	${OBJECTDIR}/tablero.o
 
 
 # C Compiler Flags
@@ -69,6 +73,16 @@ ${OBJECTDIR}/fa.o: fa.cpp
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/fa.o fa.cpp
 
+${OBJECTDIR}/fb.o: fb.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/fb.o fb.cpp
+
+${OBJECTDIR}/fc.o: fc.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/fc.o fc.cpp
+
 ${OBJECTDIR}/ficha.o: ficha.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
@@ -78,6 +92,16 @@ ${OBJECTDIR}/main.o: main.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/main.o main.cpp
+
+${OBJECTDIR}/movimientostablero.o: movimientostablero.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/movimientostablero.o movimientostablero.cpp
+
+${OBJECTDIR}/tablero.o: tablero.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/tablero.o tablero.cpp
 
 # Subprojects
 .build-subprojects:

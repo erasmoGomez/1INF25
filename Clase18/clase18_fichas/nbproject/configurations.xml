@@ -4,8 +4,12 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>MovimientosTablero.hpp</itemPath>
       <itemPath>fa.hpp</itemPath>
+      <itemPath>fb.hpp</itemPath>
+      <itemPath>fc.hpp</itemPath>
       <itemPath>ficha.hpp</itemPath>
+      <itemPath>tablero.hpp</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -15,8 +19,12 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>fa.cpp</itemPath>
+      <itemPath>fb.cpp</itemPath>
+      <itemPath>fc.cpp</itemPath>
       <itemPath>ficha.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
+      <itemPath>movimientostablero.cpp</itemPath>
+      <itemPath>tablero.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -40,15 +48,31 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="MovimientosTablero.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="fa.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="fa.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fb.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fb.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fc.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fc.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="ficha.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="ficha.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="movimientostablero.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tablero.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tablero.hpp" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -71,15 +95,31 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="MovimientosTablero.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="fa.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="fa.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fb.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fb.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fc.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fc.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="ficha.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="ficha.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="movimientostablero.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tablero.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tablero.hpp" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
   </confs>
