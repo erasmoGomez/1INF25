@@ -1,0 +1,173 @@
+                                                                              REPORTE DE DEUDAS
+============================================================================================================================================================================================================================
+Fecha             Cod. Med           Nombre de Medicina                                           Cant.           Precio           Total          DNI/Codigo           Nombre/Especialidad
+============================================================================================================================================================================================================================
+2023/02/12         41379             FLUNARICINA 10 MG T20                                          5                1.7                0            50611            Urologia
+2023/02/13         30796             PROPANOLOL 40 MG C/20 TAB                                      5               54.4                0         51642950            Miranda/Alfonso
+2023/02/13         53846             CLENBUTEROL .02MG 50T                                         17               47.6                0         51642950            Miranda/Alfonso
+2022/08/20         61039             NISTATINA GI C/12 TAB                                         28               78.2                0            15092            Dermatologia
+2022/08/20         22232             LEVETIRACETAM                                                 21               69.7                0            15092            Dermatologia
+2023/03/18         17804             PIROXICAM 30 GM CRA                                            5               10.2                0         54815159            Patino/Delicia
+2023/03/18         75565             MICONAZOL 20 GR CRA                                           26              46.75                0         54815159            Patino/Delicia
+2023/03/18         36711             TIBOLONA 2.5MG 30T                                            16              84.15                0         54815159            Patino/Delicia
+2023/03/18         46000             HIDROX--MAGNESIO+ALUMINIO 240ML                               33              50.15                0            60184            Traumatologia
+2022/09/06         72061             DEFLAZACORT 30MG 10T                                          28                 51                0         15290194            Hernandez/Guillermo
+2022/08/23         79996             LANSOPRAZOL 15 MG C/14                                        10              31.45                0         35347567            Sedano/Elia
+2022/11/27         34066             SULINDACO 200MG/20 TAB                                         6              51.85                0         52313890            Rivero/Wilver
+2022/11/27         85641             TAMOXIFENO 10MG 30T                                           30               28.9                0            70233            Ginecologia
+2022/11/27         85641             TAMOXIFENO 10MG 30T                                            5               28.9                0            70233            Ginecologia
+2022/10/26         15098             LISINA CLOHRIDRATO 125MG T10                                  17               81.6                0         93282118            Zambrano/Ofelia
+2022/08/01         67784             LOSARTAN 50MG C/10T                                           20              73.95                0            90907            Dermatologia
+2022/08/04         82528             LORATADINA T/10 10MG                                          35              19.55                0            60934            Neumologia
+2022/09/15         77466             RAMIPRIL 16 TAB/5 MG                                           6               5.95                0         93939698            Henriquez/Silvana
+2022/09/01         97465             GLIBENCLAMIDA 5 MG C/50                                       27               4.25                0         86988155            Cerna/Cinthia
+2022/08/04         85641             TAMOXIFENO 10MG 30T                                           17               28.9                0            70269            Dermatologia
+2022/09/01         24733             CALCIO+MAGNESIO 30T                                           11               59.5                0            53556            Pediatria
+2023/02/28         61039             NISTATINA GI C/12 TAB                                         13               78.2                0            70612            Traumatologia
+2022/09/13         53846             CLENBUTEROL .02MG 50T                                         16               47.6                0         37282858            Soma/Lourdes
+2022/11/29         18672             TINIDAZOL 500MG 8T                                             5               15.3                0         93939698            Henriquez/Silvana
+2022/08/03         57269             SIMVASTATINA 10 MG C14                                        34                 34                0         95656771            Raffo/Rolando
+2023/04/18         92517             ISOCONAZOL CR 20GR GI                                          5               11.9                0         57182371            Moscoso/Fiorella
+2023/03/27         50450             SERTRALINA 50MG C/14 T                                        12               74.8                0         93231760            Zarate/Alexander
+2022/08/01         85325             AMOXICILINA 250MG C12                                          5               56.1                0            35451            Pediatria
+2023/01/24         28992             ALUMUMINIO+MAGNESIO SUSP 240ML                                19               64.6                0            70992            Gastroenterologia
+2023/02/02         59121             DESLORATADINA 5MG 10T                                          8               81.6                0         36471787            Pena/Glenda
+2022/08/21         70116             LACTULOSA 125ML                                               35               23.8                0         45914393            Lozada/Antonio
+2022/08/01         61039             NISTATINA GI C/12 TAB                                          5               78.2                0            70789            Pediatria
+2022/08/01         14962             HIERRO DEXTRANO AMP4                                          27              46.75                0         53420926            Prado/Juan
+2022/08/01         60685             NITROFURANTOINA C40 100MG                                     26               79.9                0            70789            Pediatria
+2023/04/18         60685             NITROFURANTOINA C40 100MG                                     26               79.9                0            18262            Urologia
+2023/03/15         89839             ACIDO MEFENAMICO 500MG C10 TAB                                20              73.95                0            14655            Oncologia
+2022/08/27         65536             NEOM/POLIMIX/GRAMIC 15 ML GTS                                 18                1.7                0            80227            Pediatria
+2023/01/16         28892             GLIMEPIRIDA 2MG C30                                           32              26.35                0            34115            Cardiologia
+2023/02/23         85865             PLANTAGO PSYLLIUM 400GR. GI                                   15                8.5                0            80040            Endocrinologia
+2022/08/08         94415             PRAVASTATINA 10 MG C/15                                       21              68.85                0         13731806            Salamanca/Virginia
+2022/10/17         94415             PRAVASTATINA 10 MG C/15                                       35              68.85                0         62126128            Durand/Enrique
+2022/11/08         73972             VITAMINA E 400 MG C90 CAPS                                     8               54.4                0         22598563            Sueldo/Adria
+2022/11/08         63555             FAMOTIDINA 20MG 30C                                           28              43.35                0            90562            Dermatologia
+2023/03/30         68539             METENAMINA 30T 500MG                                          16                5.1                0            91509            Cardiologia
+2022/09/01         89839             ACIDO MEFENAMICO 500MG C10 TAB                                15              73.95                0            30557            Neumologia
+2023/04/07         58200             FLUCONAZOL 150MG. 1C                                          31               56.1                0         20371464            Lozada/Heli
+2023/03/10         70226             CALCIO+VITAMINA D SUSP                                        25              39.95                0         32538825            Hijar/Martin
+2023/01/16         90198             NITROFURAL 6MG 6/OV                                           20               44.2                0         35852072            Jauregui/Victor
+2022/08/09         68346             TOLBUTAMIDA 50T 500MG                                         18               10.2                0            52063            Traumatologia
+2023/03/18         70807             LINCOMICINA 600 MG INY C/3                                    14              22.95                0         93282118            Zambrano/Ofelia
+2023/04/03         11370             KETOROLACO 4T 30MG SUBLINGUAL                                  5               2.55                0         35606314            Mercado/Elia
+2023/04/03         43222             AMBROXOL GOTAS 30ML                                           21              11.05                0            19777            Oftalmologia
+2022/10/26         12388             PROTEINAS+CREATINA 500 GR 30T                                 11               76.5                0         57182371            Moscoso/Fiorella
+2022/10/26         92517             ISOCONAZOL CR 20GR GI                                         13               11.9                0         57182371            Moscoso/Fiorella
+2022/08/27         57036             OXOLAMINA JBE 100ML                                           14              38.25                0         62126128            Durand/Enrique
+2023/03/18         42861             BENCIDAMIDA CRA 5% 60GR                                       25               23.8                0            60184            Traumatologia
+2022/08/06         93578             SUCRALFATO 40 TAB/1G                                          13              55.25                0         65912822            Camacho/Ydali
+2023/04/18         65667             SUBSALICILATO/BISMUTO SUSP 120MLGinecologia                  28               61.2                0            80786            Ginecologia
+2022/12/06         28892             GLIMEPIRIDA 2MG C30                                           14              26.35                0            70233            Ginecologia
+2022/09/16         61039             NISTATINA GI C/12 TAB                                          7               78.2                0            89213            Gastroenterologia
+2022/08/26         76238             BEZOCAINA 10GR GEL                                            23              56.95                0         68114999            Rios/Ines
+2022/10/25         62302             BEZAFIBRATO 200MG C/30TAB                                     30              41.65                0            60934            Neumologia
+2023/01/14         16681             SIBUTRAMINA 10 MG C15                                         34               22.1                0         12484697            Diaz/Enrique
+2023/01/14         36711             TIBOLONA 2.5MG 30T                                            10              84.15                0         12484697            Diaz/Enrique
+2023/03/30         88266             PREDNISONA 20MG C30 TAB GI                                    16              73.95                0            60049            Gastroenterologia
+2023/03/03         70024             METILDOPA 250 MG 30 TAB                                       29              68.85                0         58643376            Arroyo/Natalia
+2022/10/27         25684             DEXAMETASONA 0.5MG T/30                                       14              84.15                0            53556            Pediatria
+2023/04/07         13364             MULTIVITAMINAS Y MINERALES C60                                 7               13.6                0         35347567            Sedano/Elia
+2022/08/28         22306             NIMESULIDA 25MG 20ML                                          26               76.5                0            64405            Oftalmologia
+2023/02/06         61508             DEXTROMETORFANO 300MG JBE 120 MLOftalmologia                  6               4.25                0            90929            Oftalmologia
+2022/10/22         30796             PROPANOLOL 40 MG C/20 TAB                                     26               54.4                0         51465986            Sam/Ines
+2022/10/22         34080             ELECTROLIT FRESA 500ML                                        14              60.35                0         51465986            Sam/Ines
+2022/08/19         91653             SAL DE UVAS PICOT                                             21               40.8                0         71422479            Lozada/Felicita
+2023/02/12         22842             AMIKACINA 500MG C/1 AMP                                       12               47.6                0            80138            Geriatria
+2023/03/07         84771             BETAMETASONA CREMA 30GR                                        8               39.1                0            35451            Pediatria
+2022/12/17         39779             OMEPRAZOL 20 MG C/14                                          33                 85                0         59561864            Rosemberg/Julio
+2023/03/28         42856             FELODIPINO 5 MG 20T                                           28               10.2                0            49768            Cardiologia
+2023/03/28         36822             CLARITROMICINA 125MG SUSP                                     15               9.35                0         77324146            Moscoso/Janet
+2023/03/28         33276             INDOMETACINA C30Moscoso/Janet                                16              11.05                0         77324146            Moscoso/Janet
+2022/08/02         33390             CORTILONA CRA 30GR                                             8               28.9                0         80694546            Ramirez/Karina
+2022/08/05         60086             METAMISOL 500 MG T10                                          35               23.8                0            70789            Pediatria
+2023/04/03         44215             DICICLOVERINA 10MG 30T                                        15              33.15                0            18262            Urologia
+2023/01/27         81960             CEFALEXINA 500MG C/20 CAP                                     17               81.6                0            14655            Oncologia
+2022/12/29         59395             VITAMINICO GERIATRICO C30                                     12              16.15                0         72973662            Vargas/Daniel
+2022/08/25         62302             BEZAFIBRATO 200MG C/30TAB                                      6              41.65                0            34115            Cardiologia
+2022/08/23         30796             PROPANOLOL 40 MG C/20 TAB                                     31               54.4                0         27709566            Ortiz/Raul
+2022/12/20         70226             CALCIO+VITAMINA D SUSP                                        24              39.95                0         45914393            Lozada/Antonio
+2022/12/20         67784             LOSARTAN 50MG C/10T                                           19              73.95                0            25448            Endocrinologia
+2023/02/06         60685             NITROFURANTOINA C40 100MG                                     33               79.9                0            40414            Ginecologia
+2022/08/29         39172             IBUPROFENO 400MG T10                                          27              41.65                0         30246960            Escalante/Ines
+2022/12/15         37007             DIFENHIDRAMINA 250MG JBE 120ML                                31               47.6                0         61061535            Solis/Maria
+2022/11/22         36822             CLARITROMICINA 125MG SUSP                                     11               9.35                0         77324146            Moscoso/Janet
+2022/11/22         22306             NIMESULIDA 25MG 20ML                                          17               76.5                0            30557            Neumologia
+2023/01/26         58200             FLUCONAZOL 150MG. 1C                                          35               56.1                0         85395219            Fuentes/Patricia
+2023/01/24         60509             AMPICILINA 125MG SUSP 90ML                                    33              58.65                0            30082            Cardiologia
+2022/08/09         53166             ASTEMIZOL SUSP 200MG                                          32               5.95                0         72330000            Vega/Carmela
+2022/09/01         44215             DICICLOVERINA 10MG 30T                                        12              33.15                0            52063            Traumatologia
+2022/11/27         57036             OXOLAMINA JBE 100ML                                           34              38.25                0         62287143            Wong/Beatriz
+2022/12/06         76360             DICLOXACILINA 250 MG C20                                      13               32.3                0         35852072            Jauregui/Victor
+2022/08/21         16813             VANCOMICINA 500MG SOL INY                                     33               5.95                0         45201670            Guevara/Milena
+2022/08/20         60888             CAPTOPRIL 25MG 30T                                            16               7.65                0            15092            Dermatologia
+2022/08/03         47697             CLINDAMICINA 300 MG C/16                                      15              14.45                0            60184            Traumatologia
+2022/12/04         46000             HIDROX--MAGNESIO+ALUMINIO 240ML                               15              50.15                0            90798            Traumatologia
+2022/08/19         76360             DICLOXACILINA 250 MG C20                                      23               32.3                0         68114999            Rios/Ines
+2022/08/03         91282             LEVONORGESTREL 1.5MG /1 TAB                                   21                6.8                0         59561864            Rosemberg/Julio
+2023/03/28         84555             PARACETAMOL 300MG C/5 SUP                                     26               4.25                0            89213            Gastroenterologia
+2022/08/29         63555             FAMOTIDINA 20MG 30C                                           31              43.35                0            90907            Dermatologia
+2022/08/17         26754             SILDENAFIL 50MG C/1-TAB                                       16                 68                0            60934            Neumologia
+2022/08/15         28219             NITAZOXANIDA 200 MG T6                                        18              82.45                0            14787            Traumatologia
+2022/08/26         42053             TRETINOINA 30G CREMA 0.05%                                    35               10.2                0            60049            Gastroenterologia
+2022/10/04         60888             CAPTOPRIL 25MG 30T                                            20               7.65                0            70269            Dermatologia
+2022/10/04         98261             ACICLOVIR 200 MG C/25 CPR                                     35              70.55                0         81539774            Alfaro/Erick
+2022/10/04         24522             LEVOFLOXACINO 500MG C/7 TAB                                   11              43.35                0            70269            Dermatologia
+2023/02/06         34027             DANAZOL 100MG 50T                                             33              79.05                0         85395219            Fuentes/Patricia
+2022/08/17         77203             ONDANSETRON 8MG C10T                                           9              80.75                0         36934113            Serrano/Arturo
+2023/02/12         17804             PIROXICAM 30 GM CRA                                           17               10.2                0         54815159            Patino/Delicia
+2023/02/12         30796             PROPANOLOL 40 MG C/20 TAB                                     15               54.4                0         54815159            Patino/Delicia
+2022/08/30         79851             CEFOTAXIMA 1GR IM                                             32              84.15                0         80694546            Ramirez/Karina
+2022/08/29         59121             DESLORATADINA 5MG 10T                                          5               81.6                0         54815159            Patino/Delicia
+2022/09/01         68860             METFORMINA 850MG T30                                          29               59.5                0            18708            Ginecologia
+2022/08/16         86828             FENAZOPIRIDINA 100 MG C/20 TAB                                15               32.3                0            80138            Geriatria
+2022/12/15         53846             CLENBUTEROL .02MG 50T                                         27               47.6                0         51465986            Sam/Ines
+2023/04/04         67784             LOSARTAN 50MG C/10T                                           34              73.95                0            70992            Gastroenterologia
+2022/08/01         86451             TRIMEBUTINA 100MG/5ML SUSP                                    34              21.25                0            49768            Cardiologia
+2022/10/01         39088             NORFLOXACINO T20 400MG                                        10               11.9                0         93961840            Pairazaman/Tatiana
+2022/10/27         67784             LOSARTAN 50MG C/10T                                            5              73.95                0            70789            Pediatria
+2023/04/26         22306             NIMESULIDA 25MG 20ML                                          22               76.5                0            18262            Urologia
+2022/09/06         65536             NEOM/POLIMIX/GRAMIC 15 ML GTS                                 25                1.7                0            14655            Oncologia
+2023/04/11         62302             BEZAFIBRATO 200MG C/30TAB                                     24              41.65                0            80227            Pediatria
+2022/08/30         12388             PROTEINAS+CREATINA 500 GR 30T                                 27               76.5                0         20371464            Lozada/Heli
+2023/02/09         41403             VITAMINAS Y MINERALES 30-30T                                  34              43.35                0            80040            Endocrinologia
+2023/01/16         16055             AMBROXOL C/20 TAB                                             12               45.9                0         65912822            Camacho/Ydali
+2022/08/10         73972             VITAMINA E 400 MG C90 CAPS                                    29               54.4                0         22598563            Sueldo/Adria
+2022/08/10         79996             LANSOPRAZOL 15 MG C/14                                        23              31.45                0         22598563            Sueldo/Adria
+2022/08/10         84771             BETAMETASONA CREMA 30GR                                        4               39.1                0            40414            Ginecologia
+2023/02/28         57036             OXOLAMINA JBE 100ML                                           10              38.25                0         62126128            Durand/Enrique
+2022/12/29         34070             FEXOFENADINA C/10 180MG                                       18               73.1                0         51873364            Calixto/Erick
+2022/08/08         74924             TAMSULOSINA 0.4 MG CAPS 20                                    33               37.4                0         13731806            Salamanca/Virginia
+2022/08/20         95540             NAPROXENO 500 MG C/10 TAB                                      8              28.05                0         77440060            Escalante/Emigdio
+2022/08/06         44253             PROGESTERONA+ESTRADIOL 50/5 AMP                               26              36.55                0            30082            Cardiologia
+2023/02/16         58252             KETOTIFENO SOL 120ML                                          30              34.85                0         51642949            Miranda/Alfonso
+2022/08/02         72969             ISOSORBIDE 10MG T/20                                          21              58.65                0         61061535            Solis/Maria
+2022/10/30         27016             ACECLOFENACO 100MG 10T                                        24                 51                0            80063            Gastroenterologia
+2022/09/09         75565             MICONAZOL 20 GR CRA                                           31              46.75                0         99891737            Contreras/Johana
+2022/10/26         11592             TERBINAFINA 1% CRA 20 GR                                      24                 68                0         90367684            Sinche/Yvonne
+2022/10/02         31189             CEFADROXILO 500MG C/16CAP                                     15               40.8                0         93961840            Pairazaman/Tatiana
+2022/08/14         27447             OXIDO DE ZINC TUBO PASTA 30GR                                 10               59.5                0            60184            Traumatologia
+2022/08/29         96031             CETIRIZINA 10 MG TABS C/10                                    10               45.9                0         32538825            Hijar/Martin
+2022/11/22         42053             TRETINOINA 30G CREMA 0.05%                                     9               10.2                0            80786            Ginecologia
+2022/11/22         36711             TIBOLONA 2.5MG 30T                                             5              84.15                0         54815159            Patino/Delicia
+2022/11/22         75565             MICONAZOL 20 GR CRA                                           21              46.75                0         54815159            Patino/Delicia
+2022/08/27         49644             HIDROCORTISONA CRA 30GR                                       26              73.95                0            70233            Ginecologia
+2023/03/18         30796             PROPANOLOL 40 MG C/20 TAB                                     29               54.4                0         27709566            Ortiz/Raul
+2022/08/19         67784             LOSARTAN 50MG C/10T                                            9              73.95                0            90907            Dermatologia
+2023/04/04         39088             NORFLOXACINO T20 400MG                                         9               11.9                0         93939698            Henriquez/Silvana
+2022/08/29         81960             CEFALEXINA 500MG C/20 CAP                                      5               81.6                0            14787            Traumatologia
+2022/08/29         44215             DICICLOVERINA 10MG 30T                                        28              33.15                0            14787            Traumatologia
+2022/08/29         55021             AMOXICILINA 500MG/5ML SUSP                                    21              82.45                0         36934113            Serrano/Arturo
+2022/08/29         86828             FENAZOPIRIDINA 100 MG C/20 TAB                                33               32.3                0            14787            Traumatologia
+2023/03/30         26920             HIDRALAZINA 20T 10MG                                          20              45.05                0            60049            Gastroenterologia
+2023/03/27         26754             SILDENAFIL 50MG C/1-TAB                                       18                 68                0            70269            Dermatologia
+2022/08/14         39088             NORFLOXACINO T20 400MG                                         9               11.9                0         15290194            Hernandez/Guillermo
+2022/08/29         62008             LISINOPRIL T/30 10 MG                                         13              17.85                0            70612            Traumatologia
+2022/09/14         77203             ONDANSETRON 8MG C10T                                          34              80.75                0         86988155            Cerna/Cinthia
+2023/04/18         68860             METFORMINA 850MG T30                                          11               59.5                0            90929            Oftalmologia
+2023/03/28         89528             CLORMADINONA 2MG 20T                                          18               13.6                0            70367            Urologia
+2023/01/11         22553             FLUCINOLONA+NEOMICINA CRA 30G                                 13               39.1                0            18708            Ginecologia
+2023/01/11         85325             AMOXICILINA 250MG C12                                         24               56.1                0            18708            Ginecologia
+2023/01/11         74924             TAMSULOSINA 0.4 MG CAPS 20                                    31               37.4                0         13731806            Salamanca/Virginia
