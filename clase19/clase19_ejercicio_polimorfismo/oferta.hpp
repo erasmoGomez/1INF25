@@ -28,8 +28,8 @@ public:
         Oferta();
         Oferta(const Oferta& orig);
         virtual ~Oferta();
-        void SetPoferta(Medicamento*);
-        Medicamento* GetPoferta() const;
+        void SetPoferta(Medicamento*); //No se usa
+        Medicamento* GetPoferta() const; // No se usa
         void operator=(class Medicamento *);
         bool operator!=(class Medicamento *);
         void obtener_especialidad_medico(int, char*);
