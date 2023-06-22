@@ -44,8 +44,8 @@ void Oferta::obtener_especialidad_medico(int codMedico, char* especialidadMedico
     
     // Definicion de variables
     int codigoMedico;
-    char nombreMedico[100];
-    char espMedico[100];
+    char nombreMedico[200];
+    char espMedico[200];
     
     // Recorre archivo medicos en busca del codMedico
     while (1)
@@ -57,8 +57,8 @@ void Oferta::obtener_especialidad_medico(int codMedico, char* especialidadMedico
             return;
         }
         archMedicos.get(); // lee coma
-        archMedicos.getline(nombreMedico, 100, ',');
-        archMedicos.getline(espMedico, 100, '\n');
+        archMedicos.getline(nombreMedico, 200, ',');
+        archMedicos.getline(espMedico, 200, '\n');
         
         if (codMedico == codigoMedico)
         {
@@ -77,20 +77,20 @@ void Oferta::asigna_medicamento(ifstream &archRecetas) {
     char aux;
     int codMedico;
     int dniPaciente;
-    char nombrePaciente[100];
+    char nombrePaciente[200];
     //Medicamento* pMedicamento;
 
     archRecetas >> codMedicamento;
     if (archRecetas.eof()) return;
     archRecetas >> aux >> cantMedicamento >> aux >> dia >> aux >> mes >> aux >> anho >> aux >> codMedico >> aux >> dniPaciente >> aux;
-    archRecetas.getline(nombrePaciente, 100, '\n');
+    archRecetas.getline(nombrePaciente, 200, '\n');
 
     fecha = (anho * 10000) + (mes * 100) + dia;
 
     // Medicamento con receta
     if (codMedicamento / 10000 % 2 == 0) {
         poferta = new class ConReceta;
-        char especialidadMedico[100];
+        char especialidadMedico[200];
         obtener_especialidad_medico(codMedico, especialidadMedico);
         poferta->lee_medicamento(codMedicamento, codMedico, especialidadMedico);
     } else {

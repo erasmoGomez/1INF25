@@ -52,7 +52,7 @@ int Medicamento::GetCantidad() const {
 
 void Medicamento::SetNombre(const char* cad) {
     if (nombre != nullptr) delete nombre;
-    nombre = new char[strlen(cad)];
+    nombre = new char[strlen(cad)+1];
     strcpy(nombre, cad);
 }
 
@@ -82,7 +82,7 @@ void Medicamento::lee_medicamento(int codMedicamento, int auxI, char* auxC)
     
     // Definicion de variables
     int codigo;
-    char nombreMedicamento[100];
+    char nombreMedicamento[200];
     double precio;
     
     // Lectura
@@ -91,7 +91,7 @@ void Medicamento::lee_medicamento(int codMedicamento, int auxI, char* auxC)
         archMedicamentos >> codigo;
         if (archMedicamentos.eof()) return;
         archMedicamentos.get(); // lee coma
-        archMedicamentos.getline(nombreMedicamento, 100, ',');
+        archMedicamentos.getline(nombreMedicamento, 200, ',');
         archMedicamentos >> precio;
         
         if (codigo == codMedicamento)

@@ -59,7 +59,7 @@ Fecha             Cod. Med           Nombre de Medicina                         
 2022/08/27         57036             OXOLAMINA JBE 100ML                                           14              38.25                0         62126128            Durand/Enrique
 2023/03/18         42861             BENCIDAMIDA CRA 5% 60GR                                       25               23.8                0            60184            Traumatologia
 2022/08/06         93578             SUCRALFATO 40 TAB/1G                                          13              55.25                0         65912822            Camacho/Ydali
-2023/04/18         65667             SUBSALICILATO/BISMUTO SUSP 120MLGinecologia                  28               61.2                0            80786            Ginecologia
+2023/04/18         65667             SUBSALICILATO/BISMUTO SUSP 120ML                              28               61.2                0            80786            Ginecologia
 2022/12/06         28892             GLIMEPIRIDA 2MG C30                                           14              26.35                0            70233            Ginecologia
 2022/09/16         61039             NISTATINA GI C/12 TAB                                          7               78.2                0            89213            Gastroenterologia
 2022/08/26         76238             BEZOCAINA 10GR GEL                                            23              56.95                0         68114999            Rios/Ines
@@ -71,7 +71,7 @@ Fecha             Cod. Med           Nombre de Medicina                         
 2022/10/27         25684             DEXAMETASONA 0.5MG T/30                                       14              84.15                0            53556            Pediatria
 2023/04/07         13364             MULTIVITAMINAS Y MINERALES C60                                 7               13.6                0         35347567            Sedano/Elia
 2022/08/28         22306             NIMESULIDA 25MG 20ML                                          26               76.5                0            64405            Oftalmologia
-2023/02/06         61508             DEXTROMETORFANO 300MG JBE 120 MLOftalmologia                  6               4.25                0            90929            Oftalmologia
+2023/02/06         61508             DEXTROMETORFANO 300MG JBE 120 ML                               6               4.25                0            90929            Oftalmologia
 2022/10/22         30796             PROPANOLOL 40 MG C/20 TAB                                     26               54.4                0         51465986            Sam/Ines
 2022/10/22         34080             ELECTROLIT FRESA 500ML                                        14              60.35                0         51465986            Sam/Ines
 2022/08/19         91653             SAL DE UVAS PICOT                                             21               40.8                0         71422479            Lozada/Felicita
@@ -80,7 +80,7 @@ Fecha             Cod. Med           Nombre de Medicina                         
 2022/12/17         39779             OMEPRAZOL 20 MG C/14                                          33                 85                0         59561864            Rosemberg/Julio
 2023/03/28         42856             FELODIPINO 5 MG 20T                                           28               10.2                0            49768            Cardiologia
 2023/03/28         36822             CLARITROMICINA 125MG SUSP                                     15               9.35                0         77324146            Moscoso/Janet
-2023/03/28         33276             INDOMETACINA C30Moscoso/Janet                                16              11.05                0         77324146            Moscoso/Janet
+2023/03/28         33276             INDOMETACINA C30                                              16              11.05                0         77324146            Moscoso/Janet
 2022/08/02         33390             CORTILONA CRA 30GR                                             8               28.9                0         80694546            Ramirez/Karina
 2022/08/05         60086             METAMISOL 500 MG T10                                          35               23.8                0            70789            Pediatria
 2023/04/03         44215             DICICLOVERINA 10MG 30T                                        15              33.15                0            18262            Urologia
