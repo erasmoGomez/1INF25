@@ -1,0 +1,11 @@
+Con el archivo original
+1) Contabilizar el número de ejemplares y la cantidad total que se podrían recaudar si se venden todos los ejemplares. Imprimir estos valores al final.
+Con Libros_Modificado.csv
+2) Imprimir correctamente los libros.
+- Todos los nombres están en mayúsculas. Tienen que transformar a minúsculas los necesarios.
+- Solo se deben conservar en mayúsculas la primera letra y las que originalmente eran mayúsculas. Las podrán reconocer porque hay dos espacios en blanco antes de estas mayúsculas (en lugar de uno).
+Ejemplo:
+ESTÁ:		EL  DUQUE EN SU TERRITORIO (DUQUE tiene dos espacios antes de la D, por lo que la D conserva su mayúscula)
+DEBE ESTAR:	El Duque en su territorio
+3) Imprimir correctamente los autores.
+- Solo hay que imprimir en mayúscula la primera letra de cada nombre o apellido.
