@@ -1,11 +1,6 @@
-SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20231      20082060Kelvin Zacalla                  Semi-PresencialCON 30%            5
-Codigos de cursos matriculados:
-Numero de cursos: 0
-Costo total: 0
-CODIGO              NOMBRE                        CREDITOS  
-INF263            Algoritmia                         3.75      
-PROFESOR:                                         [35030611]
+CODIGO              NOMBRE                                                      CREDITOS            
+INF263            Algoritmia                                                  3.75      
+PROFESOR: INGA_FLORES_CESAR_ADOLFO                [35030611]
 Alumnos matriculados:
 Semestre  Codigo
 20231          8320
@@ -27,9 +22,9 @@ Semestre  Codigo
 20221          1325
 Numero de alumnos: 17
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-MEC270            Procesos_De_Manufactura            4         
-PROFESOR:                                         [83265244]
+CODIGO              NOMBRE                                                      CREDITOS            
+MEC270            Procesos_De_Manufactura                                     4         
+PROFESOR: PAIRAZAMAN_ALAMO_MOISES_MIGUEL          [83265244]
 Alumnos matriculados:
 Semestre  Codigo
 20211          1397
@@ -54,9 +49,9 @@ Semestre  Codigo
 20212          7344
 Numero de alumnos: 20
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-MEC289            Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25      
-PROFESOR:                                         [49516360]
+CODIGO              NOMBRE                                                      CREDITOS            
+MEC289            Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo         4.25      
+PROFESOR: DELGADO_GONZALES_GUILLERMO_ALFONSO      [49516360]
 Alumnos matriculados:
 Semestre  Codigo
 20231          2000
@@ -76,9 +71,9 @@ Semestre  Codigo
 20231          8320
 Numero de alumnos: 15
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-MAT241            Metodos_Numericos_En_Ingenieria    3         
-PROFESOR:                                         [17750908]
+CODIGO              NOMBRE                                                      CREDITOS            
+MAT241            Metodos_Numericos_En_Ingenieria                             3         
+PROFESOR: HERNANDEZ_BARRIOS_EMILIO                [17750908]
 Alumnos matriculados:
 Semestre  Codigo
 20221          6453
@@ -106,9 +101,9 @@ Semestre  Codigo
 20231          2050
 Numero de alumnos: 23
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-MEC206            Termodinamica_1                    4.5       
-PROFESOR:                                         [66152145]
+CODIGO              NOMBRE                                                      CREDITOS            
+MEC206            Termodinamica_1                                             4.5       
+PROFESOR: SALAS_AGUERO_DANIEL_                    [66152145]
 Alumnos matriculados:
 Semestre  Codigo
 20221          5494
@@ -128,9 +123,9 @@ Semestre  Codigo
 20221          6453
 Numero de alumnos: 15
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-INF246            Bases_De_Datos                     3.75      
-PROFESOR:                                         [65071478]
+CODIGO              NOMBRE                                                      CREDITOS            
+INF246            Bases_De_Datos                                              3.75      
+PROFESOR: MEJIA_DIAZ_BLANCA_MILAGROS              [65071478]
 Alumnos matriculados:
 Semestre  Codigo
 20231          3754
@@ -160,9 +155,9 @@ Semestre  Codigo
 20211          9707
 Numero de alumnos: 25
 Total ingresado: 0
-CODIGO              NOMBRE                        CREDITOS  
-FIS220            Tecnicas_Computacionales_En_Fisica 4.5       
-PROFESOR:                                         [37500242]
+CODIGO              NOMBRE                                                      CREDITOS            
+FIS220            Tecnicas_Computacionales_En_Fisica                          4.5       
+PROFESOR: VASQUEZ_PAZ_ALEX_MARTIN                 [37500242]
 Alumnos matriculados:
 Semestre  Codigo
 20212          5775
@@ -196,24 +191,24 @@ INF246
 Numero de cursos: 2
 Costo total: 0
 SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20211      1397   ZEVALLOS/PRADO/RICARDO          Semi-PresencialCON 50%            2
+20211      1397   ZEVALLOS/PRADO/RICARDO          Semi-Presencial con 50%            2
 Codigos de cursos matriculados:
 MEC270         
 FIS220         
 Numero de cursos: 2
 Costo total: 0
 SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20211      2598   MORI/ZAVALETA/LUZ-LOURDES       Semi-PresencialCON 20%            1
+20211      2598   MORI/ZAVALETA/LUZ-LOURDES       Semi-Presencial con 20%            1
 Codigos de cursos matriculados:
 Numero de cursos: 0
 Costo total: 0
 SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20211      2887   CABRERA/AGUERO/JESSICA          Semi-PresencialCON 50%            2
+20211      2887   CABRERA/AGUERO/JESSICA          Semi-Presencial con 50%            2
 Codigos de cursos matriculados:
 Numero de cursos: 0
 Costo total: 0
 SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20211      3223   DIAZ/SEDANO/YVONNE              Semi-PresencialCON 30%            4
+20211      3223   DIAZ/SEDANO/YVONNE              Semi-Presencial con 30%            4
 Codigos de cursos matriculados:
 MEC270         
 Numero de cursos: 1
@@ -224,7 +219,7 @@ Codigos de cursos matriculados:
 Numero de cursos: 0
 Costo total: 0
 SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
-20211      4285   CHAVARRI/ALDAVE/FERNANDO-MARTIN Semi-PresencialCON 25%            2
+20211      4285   CHAVARRI/ALDAVE/FERNANDO-MARTIN Semi-Presencial con 25%            2
 Codigos de cursos matriculados:
 MEC289         
 Numero de cursos: 1

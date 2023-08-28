@@ -39,6 +39,7 @@ int main(int argc, char** argv) {
         if (!b) break;
 //        cout<<cursos[i].codigoDelCurso<<endl;
 //        cout<<cursos[i].nombreDelCurso<<endl;
+//        cout<<cursos[i].creditos<<endl;
 //        cout<<cursos[i].codigoDelProfesor<<endl;
 //        cout<<cursos[i].nombreDelProfesor<<endl;
         i++;
@@ -73,7 +74,7 @@ int main(int argc, char** argv) {
     StCurso nuevo_curso;
     strcpy(nuevo_curso.codigoDelCurso,"INF2081");
     strcpy(nuevo_curso.nombreDelCurso,"Lenguajes de Programacion 1");
-    strcpy(nuevo_curso.codigoDelProfesor,"20082060");
+    nuevo_curso.codigoDelProfesor = 20082060;
     strcpy(nuevo_curso.nombreDelProfesor,"Erasmo Montoya");
     nuevo_curso.creditos = 5;
             
@@ -90,7 +91,7 @@ int main(int argc, char** argv) {
     nuevo_alumno.porcentaje = 30;
             
     alumnos+=nuevo_alumno;
-    output<<alumnos[n_alumnos]; //El ultimo alumno
+    //output<<alumnos[n_alumnos]; //El ultimo alumno
     for (int i = 0; i<n_registros-1;i++){
         cursos*=registros[i];
     }
