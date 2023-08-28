@@ -1,0 +1,231 @@
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20231      20082060Kelvin Zacalla                  Semi-PresencialCON 30%            5
+Codigos de cursos matriculados:
+Numero de cursos: 0
+Costo total: 0
+CODIGO              NOMBRE                        CREDITOS  
+INF263            Algoritmia                         3.75      
+PROFESOR:                                         [35030611]
+Alumnos matriculados:
+Semestre  Codigo
+20231          8320
+20212          5400
+20231          9103
+20231          3065
+20231          5527
+20211          5802
+20221          7030
+20212          7660
+20231          2050
+20231          8072
+20222          2447
+20231          8383
+20231          8318
+20212          7344
+20222          4569
+20212          9735
+20221          1325
+Numero de alumnos: 17
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+MEC270            Procesos_De_Manufactura            4         
+PROFESOR:                                         [83265244]
+Alumnos matriculados:
+Semestre  Codigo
+20211          1397
+20212          9719
+20222          6929
+20222          5778
+20221          6453
+20231          5643
+20231          2360
+20221          9437
+20222          4569
+20231          1247
+20211          3223
+20222          6249
+20231          2501
+20212          5400
+20212          5775
+20231          3754
+20231          5724
+20211          9153
+20211          9958
+20212          7344
+Numero de alumnos: 20
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+MEC289            Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25      
+PROFESOR:                                         [49516360]
+Alumnos matriculados:
+Semestre  Codigo
+20231          2000
+20221          4204
+20221          9437
+20222          7316
+20231          3122
+20211          1260
+20211          9707
+20212          9735
+20211          4285
+20222          6249
+20211          6963
+20211          5802
+20231          2360
+20221          5067
+20231          8320
+Numero de alumnos: 15
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+MAT241            Metodos_Numericos_En_Ingenieria    3         
+PROFESOR:                                         [17750908]
+Alumnos matriculados:
+Semestre  Codigo
+20221          6453
+20222          5400
+20231          8320
+20212          1791
+20221          9773
+20212          5400
+20222          5778
+20231          5724
+20231          3249
+20212          9785
+20211          6038
+20231          5763
+20231          3122
+20221          1325
+20231          9927
+20231          9103
+20231          5318
+20211          4739
+20221          4712
+20231          1247
+20211          9958
+20231          5400
+20231          2050
+Numero de alumnos: 23
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+MEC206            Termodinamica_1                    4.5       
+PROFESOR:                                         [66152145]
+Alumnos matriculados:
+Semestre  Codigo
+20221          5494
+20211          5802
+20222          3508
+20231          3122
+20231          2000
+20222          4569
+20212          6490
+20212          5607
+20231          2501
+20231          2050
+20211          4739
+20221          5067
+20211          6963
+20212          5775
+20221          6453
+Numero de alumnos: 15
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+INF246            Bases_De_Datos                     3.75      
+PROFESOR:                                         [65071478]
+Alumnos matriculados:
+Semestre  Codigo
+20231          3754
+20221          4204
+20231          2360
+20222          5400
+20221          4712
+20231          1748
+20211          1260
+20231          6015
+20221          3745
+20211          9958
+20231          5318
+20231          5527
+20222          5778
+20231          5643
+20231          5724
+20221          9773
+20212          3373
+20211          6038
+20231          8318
+20212          9719
+20231          9103
+20231          8383
+20212          3402
+20231          3249
+20211          9707
+Numero de alumnos: 25
+Total ingresado: 0
+CODIGO              NOMBRE                        CREDITOS  
+FIS220            Tecnicas_Computacionales_En_Fisica 4.5       
+PROFESOR:                                         [37500242]
+Alumnos matriculados:
+Semestre  Codigo
+20212          5775
+20231          3249
+20231          8320
+20231          5400
+20221          5494
+20222          3508
+20231          9103
+20222          4569
+20212          5607
+20222          6929
+20211          9153
+20212          9719
+20231          1748
+20212          9735
+20231          2360
+20211          6963
+20231          6015
+20231          2000
+20212          2742
+20211          5400
+20211          1397
+Numero de alumnos: 21
+Total ingresado: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      1260   GORDILLO/CASTRO/RONAL           Presencial                         2
+Codigos de cursos matriculados:
+MEC289         
+INF246         
+Numero de cursos: 2
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      1397   ZEVALLOS/PRADO/RICARDO          Semi-PresencialCON 50%            2
+Codigos de cursos matriculados:
+MEC270         
+FIS220         
+Numero de cursos: 2
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      2598   MORI/ZAVALETA/LUZ-LOURDES       Semi-PresencialCON 20%            1
+Codigos de cursos matriculados:
+Numero de cursos: 0
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      2887   CABRERA/AGUERO/JESSICA          Semi-PresencialCON 50%            2
+Codigos de cursos matriculados:
+Numero de cursos: 0
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      3223   DIAZ/SEDANO/YVONNE              Semi-PresencialCON 30%            4
+Codigos de cursos matriculados:
+MEC270         
+Numero de cursos: 1
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      3758   SOMA/INGA/DIALY                 Presencial                         1
+Codigos de cursos matriculados:
+Numero de cursos: 0
+Costo total: 0
+SEMESTRE  CODIGO    NOMBRE                        MODALIDAD                     ESCALA    
+20211      4285   CHAVARRI/ALDAVE/FERNANDO-MARTIN Semi-PresencialCON 25%            2
+Codigos de cursos matriculados:
+MEC289         
+Numero de cursos: 1
+Costo total: 0

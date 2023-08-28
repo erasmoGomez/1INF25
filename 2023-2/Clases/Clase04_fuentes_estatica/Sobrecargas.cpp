@@ -52,7 +52,7 @@ bool operator >> (ifstream & input, struct StCurso & c){
     input>>extra;
     input.getline(c.nombreDelProfesor, 60, ',');
     input>>c.codigoDelProfesor;
-    input>>extra; //Para el fin de linea
+    input.get(); //Para el fin de linea
     return true;
 }
 
@@ -80,8 +80,8 @@ void get_info(char *buffer,struct StAlumno & alumno_info){
     }
     second_part[s] = 0;
     //Repito aqui se va a hacer una transformacion de los str a int
-    alumno_info.codigo = atoi(first_part);
-    alumno_info.semestre = atoi(second_part);
+    alumno_info.semestre = atoi(first_part);
+    alumno_info.codigo = atoi(second_part);
 }
 
 bool operator >> (ifstream & input, struct StAlumno & alumno_info){
@@ -138,4 +138,94 @@ bool operator >> (ifstream & input, struct StRegistroDeMatricula & reg_mat_info)
     input>>reg_mat_info.codigodelAlumno;
     input.get();
     return true;
+}
+
+//Asignacion
+
+void operator += (struct StCurso *arreglo, const struct StCurso &curso){
+    int i=0;
+    while(strcmp(arreglo[i].codigoDelCurso,"XXXXXX")!=0){
+        i++;
+    }
+    //cout<<i<<endl;
+    strcpy(arreglo[i].codigoDelCurso,curso.codigoDelCurso);
+    strcpy(arreglo[i].codigoDelProfesor,curso.codigoDelProfesor);
+    arreglo[i].creditos = curso.creditos;
+    arreglo[i].ingresos = curso.ingresos;
+    strcpy(arreglo[i].nombreDelCurso,curso.nombreDelCurso);
+    strcpy(arreglo[i].nombreDelProfesor,curso.nombreDelProfesor);
+    strcpy(arreglo[i+1].codigoDelCurso,"XXXXXX");
+}
+
+
+void operator += (struct StAlumno arreglo[], const struct StAlumno &alumno){
+    int i=0;
+    while(arreglo[i].codigo!=0){
+        i++;
+    }
+    arreglo[i].codigo = alumno.codigo;
+    arreglo[i].costoTotal = alumno.costoTotal;
+    arreglo[i].escala = alumno.escala;
+    strcpy(arreglo[i].modalidad,alumno.modalidad);
+    strcpy(arreglo[i].nombre,alumno.nombre);
+    arreglo[i].numeroDeCursos = alumno.numeroDeCursos;
+    arreglo[i].porcentaje = alumno.porcentaje;
+    arreglo[i].semestre = alumno.semestre;
+    arreglo[i+1].codigo = 0;
+}
+
+void operator *= (struct StCurso *arreglo, const struct StRegistroDeMatricula &registro){
+    int i=0;
+    //cout<<arreglo[2].codigoDelCurso<<endl;
+    while(strcmp(arreglo[i].codigoDelCurso,registro.codigoDelCurso)!=0){
+        i++;
+    }
+    int semcod = registro.semestreDelAlumno*10000 + registro.codigodelAlumno;
+    arreglo[i].alumnos[arreglo[i].numeroDeAlumnos] = semcod; 
+    arreglo[i].numeroDeAlumnos++;
+}
+
+void operator *= (struct StAlumno *arreglo, const struct StRegistroDeMatricula &registro){
+    int i=0;
+    while(arreglo[i].codigo != registro.codigodelAlumno){
+        i++;
+    }
+    int cantcursos = arreglo[i].numeroDeCursos;
+    arreglo[i].cursos[cantcursos] = new char [8];
+    strcpy(arreglo[i].cursos[cantcursos],registro.codigoDelCurso); 
+    arreglo[i].numeroDeCursos++;
+}
+
+//Impresion
+
+void operator << (ofstream &arch, const struct StCurso &curso){
+    arch<<left<<setw(20)<<"CODIGO"<<setw(30)<<"NOMBRE"<<setw(10)<<"CREDITOS"<<endl;
+    arch<<setw(18)<<curso.codigoDelCurso<<setw(35)<<curso.nombreDelCurso<<setw(10)<<curso.creditos<<endl;
+    arch<<"PROFESOR: "<<setw(40)<<curso.nombreDelProfesor<<"["<<curso.codigoDelProfesor<<"]"<<endl;
+    arch<<"Alumnos matriculados:"<<endl;
+    arch<<setw(10)<<"Semestre"<<"Codigo"<<endl;
+    int semcod,semestre,cod;
+    for(int i=0; i<curso.numeroDeAlumnos; i++){
+        semcod = curso.alumnos[i];
+        semestre = semcod/10000;
+        cod = semcod%10000;
+        arch<<setw(15)<<semestre<<cod<<endl;
+    }
+    arch<<"Numero de alumnos: "<<curso.numeroDeAlumnos<<endl;
+    arch<<"Total ingresado: "<<curso.ingresos<<endl;
+}
+
+void operator << (ofstream &arch, const struct StAlumno &alumno){
+    arch<<left<<setw(10)<<"SEMESTRE"<<setw(10)<<"CODIGO"<<setw(30)<<"NOMBRE"<<setw(30)<<"MODALIDAD"<<setw(10)<<"ESCALA"<<endl;
+    arch<<setw(11)<<alumno.semestre<<setw(7)<<alumno.codigo<<setw(32)<<alumno.nombre<<setw(12)<<alumno.modalidad;
+    if(alumno.porcentaje>0 and alumno.porcentaje < 100){
+        arch<<"CON "<<alumno.porcentaje<<setw(13)<<"%";
+    }else arch<<setw(23)<<" ";
+    arch<<alumno.escala<<endl;
+    arch<<"Codigos de cursos matriculados:"<<endl;
+    for(int i=0; i<alumno.numeroDeCursos; i++){
+        arch<<setw(15)<<alumno.cursos[i]<<endl;
+    }
+    arch<<"Numero de cursos: "<<alumno.numeroDeCursos<<endl;
+    arch<<"Costo total: "<<alumno.costoTotal<<endl;
 }
