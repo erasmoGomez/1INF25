@@ -126,6 +126,16 @@ bool operator >> (ifstream & input, struct StAlumno & alumno_info){
     return true;
 }
 
-bool operator >> (ifstream & input, struct registroMat & reg_mat_info){
-    
+bool operator >> (ifstream & input, struct StRegistroDeMatricula & reg_mat_info){
+    //INF263,20222,4569
+    //CODIGO DEL CURSO, SEMESTRE, CODIGO ALUMNO
+    input.getline(reg_mat_info.codigoDelCurso, 7, ',');
+    if(input.eof()){
+        return false;   
+    }
+    input>>reg_mat_info.semestreDelAlumno;
+    input.get();
+    input>>reg_mat_info.codigodelAlumno;
+    input.get();
+    return true;
 }

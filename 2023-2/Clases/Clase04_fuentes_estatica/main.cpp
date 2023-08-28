@@ -26,8 +26,10 @@ using namespace std;
 int main(int argc, char** argv) {
     ifstream input_cursos("cursos.csv", ios::in);
     ifstream input_alumnos("alumnos.csv", ios::in);
+    ifstream input_registros("matricula.csv", ios::in);
     StCurso cursos[10];
     StAlumno alumnos[200];
+    StRegistroDeMatricula registros[200];
     int i = 0;
     bool b;
     while (true){
@@ -38,6 +40,15 @@ int main(int argc, char** argv) {
         cout<<alumnos[i].nombre<<endl;
         cout<<alumnos[i].escala<<endl;
         cout<<alumnos[i].modalidad<<endl;
+        i++;
+    }
+    i=0;
+    while (true){
+        b = input_registros >> registros[i];
+        if (!b) break;
+        cout<<registros[i].codigoDelCurso<<endl;
+        cout<<registros[i].codigodelAlumno<<endl;
+        cout<<registros[i].semestreDelAlumno<<endl;
         i++;
     }
     return 0;
