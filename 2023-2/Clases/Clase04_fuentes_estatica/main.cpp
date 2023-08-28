@@ -15,6 +15,7 @@
 #include <iomanip>
 #include <cstring>
 #include <fstream>
+#include "Estructuras.hpp"
 #include "Persona.hpp"
 #include "Sobrecargas.hpp"
 using namespace std;
@@ -23,19 +24,21 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    struct Persona persona1{123456, "Erasmo Gomez", 1.5};
-    struct Persona persona2{654321, "Cyndi Alaarcon", 1.5};
-    struct Persona persona3{111111, "Xtian Juarez", 1.5};
-    struct Persona persona4{6666666, "David Huingo", 1.5};
-    fstream output ("salida.txt", ios::out);
-    persona1 *= 1.2;
-    cout.precision(2);
-    cout<<persona1<<"Continuo"<<endl;
-    
-    persona3 = persona1 + persona2;
-    cout<<persona3;
-    //output<<persona1;
-    //cout<<fixed<<persona2<<persona1;
-    
+    ifstream input_cursos("cursos.csv", ios::in);
+    ifstream input_alumnos("alumnos.csv", ios::in);
+    StCurso cursos[10];
+    StAlumno alumnos[10];
+    int i = 0;
+    bool b;
+    while (true){
+        b = input_alumnos >> alumnos[i];
+        if (!b) break;
+        cout<<alumnos[i].codigo<<endl;
+        cout<<alumnos[i].semestre<<endl;
+        cout<<alumnos[i].nombre<<endl;
+        cout<<alumnos[i].escala<<endl;
+        cout<<alumnos[i].modalidad<<endl;
+        i++;
+    }
     return 0;
 }

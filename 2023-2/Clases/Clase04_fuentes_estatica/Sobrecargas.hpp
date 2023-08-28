@@ -19,5 +19,7 @@ using namespace std;
 void operator *= (struct Persona &, double);
 struct Persona operator + (const struct Persona &, const struct Persona &);
 ostream & operator << (ostream &, const struct Persona &);
+bool operator >> (ifstream &, struct StCurso &);
+bool operator >> (ifstream &, struct StAlumno &);
 #endif /* SOBRECARGAS_HPP */
 

@@ -13,7 +13,7 @@ struct StCurso{
     char codigoDelCurso[7];
     char nombreDelCurso[60];
     double creditos;
-    int codigoDelProfesor;
+    char codigoDelProfesor[8];
     char nombreDelProfesor[60];
     int alumnos[50]; //Aquí colocará el semestre unido al código (202213456)
     int numeroDeAlumnos;
