@@ -125,3 +125,7 @@ bool operator >> (ifstream & input, struct StAlumno & alumno_info){
     input.get(); //Para el fin de linea
     return true;
 }
+
+bool operator >> (ifstream & input, struct registroMat & reg_mat_info){
+    
+}

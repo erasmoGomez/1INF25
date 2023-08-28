@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     ifstream input_cursos("cursos.csv", ios::in);
     ifstream input_alumnos("alumnos.csv", ios::in);
     StCurso cursos[10];
-    StAlumno alumnos[10];
+    StAlumno alumnos[200];
     int i = 0;
     bool b;
     while (true){
