@@ -158,7 +158,7 @@ void operator += (struct StCurso *arreglo, const struct StCurso &curso){
 }
 
 
-void operator += (struct StAlumno arreglo[], const struct StAlumno &alumno){
+void operator += (struct StAlumno *arreglo, const struct StAlumno &alumno){
     int i=0;
     while(arreglo[i].codigo!=0){
         i++;
