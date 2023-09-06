@@ -1,0 +1,75 @@
+5802      MINAYA AMEZQUITA RHONY JAIME                                P    100       5         
+2050      LOYOLA HIJAR NICOLAS OSCAR                                  V    0         4         
+7660      CHANG ARGUEDAS HENRY ANTONIO                                S    25        4         
+5527      JUSTINO COLLADO LUZ DELICIA                                 S    30        3         
+8320      NORABUENA RIVERA GLORIA YESSICA                             V    0         5         
+9735      MENDOZA CORREA JESUS CHRISTIAN                              S    50        5         
+8072      RIVERA MONTERO GLORIA OFELIA                                V    0         3         
+8383      GORDILLO BOLANOS ARTURO GONZALO                             P    100       3         
+7030      LUNA POLO SONIA                                             V    0         3         
+4569      RIVERA PASQUEL OFELIA CINTHIA                               P    100       5         
+8318      TOKESHI GONZALES MARTIN                                     S    50        1         
+7344      DEL_POZO QUIO CESAR                                         V    0         3         
+9103      LEE VASQUEZ JENNY                                           V    0         4         
+3065      RETT SERRANO RAFAEL RHONY                                   V    0         2         
+2447      VILCA JUSTINO MELVIN                                        V    0         1         
+3703      GAMARRA TABORI PAUL RONAL                                   S    30        5         
+1325      MORI ARROYO SHIRLEY                                         P    100       3         
+5400      SANTISTEBAN JUGO NESTOR                                     S    30        1         
+2501      CORTES REYES MARIBEL                                        V    0         2         
+5494      DE_LA_HAZA CASTRO EMIGDIO JOHNNY                            S    30        2         
+5778      MUNOZ ZIMIC ROCIO DELICIA                                   S    50        2         
+2000      LANDA CUEVA JOHAN                                           V    0         4         
+6015      ALFARO FUENTES MAGDA                                        V    0         3         
+2360      VILCA BARRERA CESAR EDGAR                                   S    50        5         
+9719      MAEIREIZO VASQUEZ LOURDES SILVIA                            P    100       2         
+3249      NORABUENA PAIRAZAMAN JULIAN                                 P    100       3         
+9611      MALDONADO CORREA LUCERO CAROLA                              P    100       2         
+5067      JAUREGUI AGUERO HECTOR HENRY                                S    50        4         
+6490      TAVERA CORREA FERNANDO                                      S    50        2         
+4712      CASANOVA CHUMPITAZ ALONSO                                   V    0         2         
+3122      CUBA NARVAEZ PAUL JOHN                                      P    100       2         
+5775      PRADO PAREDES JUAN                                          S    50        3         
+6995      LARRIEGA ARCA ISABEL MADELEINE                              P    100       5         
+5607      POZO JUGO ISABEL                                            P    100       2         
+9785      FARFAN RARAZ WALDEMAR                                       S    50        4         
+3758      SOMA INGA DIALY                                             P    100       1         
+3754      MALCA SAAVEDRA DORIS MILAGROS                               S    30        3         
+6249      WONG GALLO JANET MADELEINE                                  S    30        1         
+1155      CORRALES ZIMIC JAIME DANIEL                                 P    100       5         
+2887      CABRERA AGUERO JESSICA                                      S    75        2         
+3373      ESCALANTE RARAZ BLANCA                                      P    100       3         
+1791      ONZALES VELASQUEZ WALTER                                    S    25        1         
+9707      MIRANDA LARRIEGA JUVENAL NESTOR                             S    30        2         
+9437      ZIMIC PAREDES SHIRLEY                                       S    25        4         
+4918      PORTUGAL GUEVARA HELI JOHANA                                S    50        5         
+4285      CHAVARRI ALDAVE FERNANDO MARTIN                             S    25        2         
+9927      PATINO MEZA MANUEL                                          V    0         3         
+9153      MENDOZA ARIAS HENRY                                         P    100       4         
+6517      ZEGARRA CUBA ANTONIO                                        P    100       2         
+3745      CARO QUISPE JORGE                                           V    0         1         
+4204      DIAZ IBEROS GLENDA YESSICA                                  S    50        4         
+3508      AURIS JOLAY HENRY EDILBERTO                                 S    50        5         
+1247      SERRANO JOLAY RHONY ROLANDO                                 P    100       5         
+4628      PALOMARES GUEVARA KARINA                                    P    100       5         
+3627      CHAVEZ CARO YVONNE                                          V    0         1         
+6038      SAONA ARIAS ALBERTO                                         S    25        4         
+4739      VELASQUEZ CANO FERNANDO                                     S    50        4         
+1397      ZEVALLOS PRADO RICARDO                                      S    50        2         
+1748      PATINO FUENTES MILAGROS MARIELLA                            V    0         4         
+9773      SANCHEZ CUBA NATALIA ESTEFANIA                              S    50        5         
+1260      GORDILLO CASTRO RONAL                                       P    100       2         
+6929      BOLANOS FUENTES JORGE                                       S    50        2         
+5763      CORREA AGUIRRE MOISES                                       S    30        2         
+2598      MORI ZAVALETA LUZ LOURDES                                   S    25        1         
+9958      QUISPE BERROCAL ANTONIO ALVARO DANIEL                       P    100       3         
+5724      VEGA SAENZ ALEXANDER RICHARD                                S    50        4         
+5318      FLORENCIO LAM PAUL RONALD                                   P    100       3         
+4919      CORTES CALIXTO ROSARIO                                      S    50        5         
+5643      IBEROS ZAMBRANO GONZALO                                     P    100       2         
+2742      ZAVALETA LOPEZ KARIN VIRGINIA                               P    100       5         
+6963      CORTEZ LEIVA SURAMI SILVIA                                  S    30        4         
+6453      MINAYA VIZCARRA JUVENAL                                     S    25        3         
+3223      DIAZ SEDANO YVONNE                                          S    30        4         
+7316      RIVERO RETT RONY ANTONIO                                    S    30        2         
+3402      VIZCARDO MORI LUCERO ZKENIA                                 P    100       1         
