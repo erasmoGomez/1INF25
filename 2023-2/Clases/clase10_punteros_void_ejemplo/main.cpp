@@ -8,10 +8,10 @@
  * File:   main.cpp
  * Author: Erasmo G. Montoya
  *
- * Created on September 12, 2023, 4:54 AM
+ * Created on September 13, 2023, 7:44 AM
  */
 
-#include <iostream>
+#include "funciones.hpp"
 
 using namespace std;
 
@@ -19,11 +19,10 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    void *puntero; //El unico e inigualable puntero generico
-    void **puntero_doble; //No es un puntero generico, es un arreglo de punteros genericos
-    void ***puntero_triple; //No es un puntero generico, es un arreglo de arreglos de punteros genericos
-    
-    
+    void *alumnos;
+    cargar_alumnos(alumnos);
+    probar_alumnos(alumnos);
+    cargar_notas(alumnos);
     return 0;
 }
 
