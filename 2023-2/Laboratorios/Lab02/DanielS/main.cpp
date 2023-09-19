@@ -369,6 +369,9 @@ void reporteDeEnvioDePedidos(const char *filename, char ***productos, int *stock
 	constexpr int total_ingresos_w = 20;
 	constexpr int total_w = dni_w + codigo_w + descripcion_w + cantidad_w + precio_w + total_ingresos_w;
 
+	out.precision(2);
+	out << std::fixed;
+
 	for (int i = 0; fechaPedidos[i] > 0; i += 1)
 	{
 		printDelimiter(out, '=', total_w);
@@ -411,8 +414,8 @@ void reporteDeEnvioDePedidos(const char *filename, char ***productos, int *stock
 			int cantidad = dni_cantidad[1];
 			out << std::setw(cantidad_w - 3) << std::right << cantidad << "   ";
 
-			// e.g. "         375.09"
-			double precio = precios[j];
+			// e.g. "         586.02"
+			double precio = precios[producto_index];
 			out << std::setw(precio_w) << std::right << precio;
 
 			double total_de_ingresos = cantidad * precio;
