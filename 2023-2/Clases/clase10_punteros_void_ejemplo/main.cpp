@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     cargar_alumnos(alumnos);
     probar_alumnos(alumnos);
     cargar_notas(alumnos);
+    calcular_promedios(alumnos);
     return 0;
 }
 

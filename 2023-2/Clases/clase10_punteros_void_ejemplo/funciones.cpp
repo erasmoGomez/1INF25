@@ -159,4 +159,37 @@ void cargar_notas(void *&alumnos){
         else
             while(input.get()!='\n');  
     }
+    
+}
+
+int obtener_nota(void *curso){
+    void ** registro_curso = (void**)curso;
+    int *nota = (int*)registro_curso[NOTACURSO];
+    return *nota;
+}
+
+double *promedio(void * alumno_nota){
+    void **cursos = (void **) alumno_nota;
+    int suma =0, n_datos = 0;
+    double * promedio_cursos = new double;
+    for(int i =0; cursos[i];i++){
+        suma += obtener_nota(cursos[i]);
+        n_datos++;
+    }
+    *promedio_cursos = (double)suma/n_datos;
+    return promedio_cursos;
+        
+}
+
+void promediar_alumno(void *&alumno){
+    void **registro = (void **)alumno;
+    if(registro[NOTA]){
+        registro[PROMEDIO] = promedio(registro[NOTA]);
+    }
+}
+
+void calcular_promedios(void *&alumnos){
+    void **todos_alumnos = (void **)alumnos;
+    for(int i=0;todos_alumnos[i];i++)
+        promediar_alumno(todos_alumnos[i]);
 }

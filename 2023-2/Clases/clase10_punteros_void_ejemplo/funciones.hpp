@@ -22,5 +22,6 @@ char *leer_cadena(ifstream &, char = '\n');
 void cargar_alumnos(void *&);
 void probar_alumnos(void *);
 void cargar_notas(void *&);
+void calcular_promedios(void *&);
 #endif /* FUNCIONES_HPP */
 
