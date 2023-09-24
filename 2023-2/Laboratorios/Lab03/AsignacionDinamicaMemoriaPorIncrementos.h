@@ -33,5 +33,16 @@ void insertarEnMemoriaProductos(char***&, int*&, double*&, const char*, const ch
 void almacenarCadenaDinamica(const char*, char*&);
 void imprimirLinea(ofstream&, char, int);
 
+int determinarFecha(int, int, int);
+void incrementarMemoriaPedidos(int*&, char***&, int***&, int&, int&, int*&,
+        int*&);
+void insertarEnMemoriaPedidos(int*&, char***&, int***&, const char*, int, int, int,
+        int&, int&, int*&, int*&);
+int buscarFecha(int*, int, int);
+void insertarNuevaFecha(int*&, char***&, int***&, int, int*&, int*&, int, int);
+void insertarEnPunteros(char***&, int***&, int, const char*, int, int, int*,
+        int*);
+void incrementarMemoriaPedidosEnFecha(char***&, int***&, int, int, int*);
+
 #endif /* ASIGNACIONDINAMICAMEMORIAPORINCREMENTOS_H */
 
