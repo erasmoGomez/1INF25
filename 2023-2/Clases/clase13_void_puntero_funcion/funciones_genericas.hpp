@@ -23,6 +23,7 @@ void leer_datos_personal(void*&, int &);
 int funcion_comparacion_codigos(const void *, const void *);
 int funcion_comparacion_nombres(const void *, const void *);
 int funcion_comparacion_propia_codigos(const void *, const void *);
+int funcion_comparacion_propia_sueldos(const void *, const void *);
 void imprimir_datos(void*, int );
 void ordenar_personal(void *, int izq,int der, int (*)(const void*, const void*));
 #endif /* FUNCIONES_GENERICAS_HPP */

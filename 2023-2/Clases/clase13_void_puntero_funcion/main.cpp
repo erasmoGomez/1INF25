@@ -22,10 +22,22 @@ using namespace std;
 int main(int argc, char** argv) {
     void *personal;
     int n_datos;
-    leer_datos_personal(personal, n_datos);   
-    //qsort(personal, n_datos, sizeof(void*),funcion_comparacion_nombres);
+    cout<<"DATOS LEIDOS"<<endl;
+    leer_datos_personal(personal, n_datos);
+    imprimir_datos(personal, n_datos);
+    cout<<"---------------------------------------------"<<endl;
+    cout<<"DATOS ORDENADOS QSORT"<<endl;
+    qsort(personal, n_datos, sizeof(void*),funcion_comparacion_nombres);
+    imprimir_datos(personal, n_datos);
+    cout<<"---------------------------------------------"<<endl;
+    cout<<"DATOS ORDENANOS GENERICO CODIGO"<<endl;
     ordenar_personal(personal,0,n_datos-1,funcion_comparacion_propia_codigos);
     imprimir_datos(personal, n_datos);
+    cout<<"---------------------------------------------"<<endl;
+    cout<<"DATOS ORDENANOS GENERICO SUELDO"<<endl;
+    ordenar_personal(personal,0,n_datos-1,funcion_comparacion_propia_sueldos);
+    imprimir_datos(personal, n_datos);
+    cout<<"---------------------------------------------"<<endl;
     return 0;
 }
 

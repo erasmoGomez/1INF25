@@ -50,7 +50,7 @@ void ordenar_personal(void *personal, int izq,int der, int (*fcmp)(const void*, 
     if(izq>=der) return;
     cambiar(arreglo, izq, (izq + der)/2);
     limite = izq;
-    for(int i=izq+1; i<der; i++)
+    for(int i=izq+1; i<=der; i++)
         if(fcmp(arreglo[izq],arreglo[i])>0)
             cambiar(arreglo, ++limite, i);
     cambiar(arreglo, izq,limite);
@@ -65,6 +65,16 @@ int funcion_comparacion_propia_codigos(const void *a, const void *b){
     
     int *codigo_a = (int*)registro_a[CODIGO];
     int *codigo_b = (int*)registro_b[CODIGO];
-    //cout<<*codigo_a<<"     "<<*codigo_b<<endl;
-    return 0;
+    return *codigo_a - *codigo_b;
+}
+
+int funcion_comparacion_propia_sueldos(const void *a, const void *b){
+    //Aterrizamos a la persona
+    
+    void **registro_a= (void **)a;
+    void **registro_b = (void **)b;
+    
+    double *sueldo_a = (double*)registro_a[SUELDO];
+    double *sueldo_b = (double*)registro_b[SUELDO];
+    return *sueldo_a - *sueldo_b;
 }
