@@ -1,0 +1,24 @@
+Process:         main-leaks [27958]
+Path:            /Users/USER/Library/CloudStorage/*/main-leaks
+Load Address:    0x104144000
+Identifier:      main-leaks
+Version:         0
+Code Type:       ARM64
+Platform:        macOS
+Parent Process:  leaks [27957]
+
+Date/Time:       2023-09-29 12:05:46.097 -0500
+Launch Time:     2023-09-29 12:05:45.380 -0500
+OS Version:      macOS 13.4.1 (22F82)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+
+Physical footprint:         36.4M
+Physical footprint (peak):  36.4M
+Idle exit:                  untracked
+----
+
+leaks Report Version: 3.0
+Process 27958: 1 nodes malloced for 0 KB
+Process 27958: 0 leaks for 0 total leaked bytes.
+
