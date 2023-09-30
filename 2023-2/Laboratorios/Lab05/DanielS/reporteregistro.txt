@@ -1,0 +1,472 @@
+Camion 01:    Peso:         399.90
+              CIM-038            5    225.00
+              TYF-885            4      8.00
+              OQI-373            3    135.00
+              AHB-459            3      5.10
+              IDO-503            6     15.00
+              BCK-361            3      1.80
+
+Camion 02:    Peso:         398.50
+              TMJ-043            3    120.00
+              OFS-384            5      8.50
+              BRD-969            4    240.00
+              IDO-503            6     15.00
+
+Camion 03:    Peso:         396.00
+              AVM-258            4    200.00
+              QHC-492            2     40.00
+              SJD-818            1     55.00
+              FQG-293            1      1.00
+
+Camion 04:    Peso:         393.60
+              ZVA-180            6    330.00
+              BZS-261            1     50.00
+              KBY-991            6     12.00
+
+Camion 05:    Peso:         393.00
+              QUU-384            4    160.00
+              OWN-701            5      7.50
+              BTO-226            4     80.00
+              BRD-969            1     60.00
+              ZEX-027            3      4.50
+              DFJ-952            1     50.00
+              RDT-761            6     30.00
+
+Camion 06:    Peso:         390.00
+              BWD-036            3    135.00
+              EVN-510            5    250.00
+
+Camion 07:    Peso:         390.00
+              DUG-251            4    200.00
+              QJO-060            6     30.00
+              YMU-875            3    150.00
+              VRR-793            4      4.00
+
+Camion 08:    Peso:         388.10
+              QHC-492            6    120.00
+              CIM-038            4    180.00
+              CRU-009            2     80.00
+              AHB-459            3      5.10
+
+Camion 09:    Peso:         388.30
+              YUQ-590            2    110.00
+              AQS-362            1      0.50
+              RSE-049            6      6.00
+              III-576            6     60.00
+              UXG-019            6    120.00
+              VRR-793            2      2.00
+              EJW-346            6     60.00
+              BCK-361            3      1.80
+              AWB-345            6     18.00
+              FCN-617            1      5.00
+              AQS-362            1      0.50
+
+Camion 010:    Peso:         386.00
+              GBD-525            5    275.00
+              JFC-432            5    100.00
+              FLJ-040            6      6.00
+              TMN-884            2      2.00
+
+Camion 11:    Peso:         385.00
+              QTK-083            3    180.00
+              BCN-855            4    200.00
+              QFP-254            2      3.00
+
+Camion 12:    Peso:         384.00
+              YUQ-590            6    330.00
+              OTH-462            1     40.00
+              CSZ-863            2      4.00
+
+Camion 13:    Peso:         383.50
+              OBI-353            6    120.00
+              AWB-345            6     18.00
+              CSZ-863            5     10.00
+              UWA-476            5      3.50
+              MLE-193            4    200.00
+              UOD-420            4     12.00
+
+Camion 14:    Peso:         383.00
+              JDQ-505            6    240.00
+              III-576            6     60.00
+              JXD-139            4     80.00
+
+Camion 15:    Peso:         383.00
+              CIM-038            4    180.00
+              XZR-640            5    200.00
+
+Camion 16:    Peso:         380.00
+              XLF-273            5    300.00
+
+Camion 17:    Peso:         376.00
+              QTK-083            6    360.00
+
+Camion 18:    Peso:         372.00
+              CNQ-172            1     60.00
+              UWA-476            2      1.40
+              JDQ-505            5    200.00
+              XSD-310            2    110.00
+
+Camion 19:    Peso:         370.00
+              SNY-500            4    200.00
+              GXF-122            2     20.00
+
+Camion 20:    Peso:         370.00
+              CNQ-172            6    360.00
+              ZWF-661            1      5.00
+
+Camion 21:    Peso:         370.00
+              XOA-735            2    120.00
+              DFJ-952            2    100.00
+
+Camion 22:    Peso:         369.00
+              NSM-283            2    100.00
+              VJI-529            2     10.00
+              TYF-885            2      4.00
+              YZD-580            5     15.00
+
+Camion 23:    Peso:         366.50
+              TKM-141            4    200.00
+              DFF-034            5      2.50
+              DEN-125            4      4.00
+              SNY-500            3    150.00
+
+Camion 24:    Peso:         365.75
+              SSE-115            4    220.00
+              VXS-438            3      0.75
+              MTF-868            6     30.00
+              OXP-732            3     15.00
+              OPJ-039            1     45.00
+              RDT-761            5     25.00
+
+Camion 25:    Peso:         365.40
+              YJD-279            5    250.00
+              QIL-029            4     12.00
+              QTK-083            1     60.00
+              YGV-332            1      5.00
+              ARS-231            4      2.40
+              FCN-617            6     30.00
+
+Camion 26:    Peso:         364.90
+              BRD-969            3    180.00
+              QFP-254            6      9.00
+              VRR-793            5      5.00
+              HLR-109            1      1.80
+              LDR-510            2      6.00
+              YYU-726            1      1.60
+              OWN-701            1      1.50
+              ZAF-449            2      2.00
+              ISU-815            6      3.00
+              WZD-331            2    110.00
+
+Camion 27:    Peso:         360.00
+
+Camion 28:    Peso:         360.00
+              SSD-176            5    275.00
+              GXF-122            5     50.00
+              MTF-868            5     25.00
+              QRC-609            5      5.00
+
+Camion 29:    Peso:         359.50
+              QFR-958            3    150.00
+              AQS-362            1      0.50
+              ZEX-027            6      9.00
+
+Camion 30:    Peso:         357.00
+              CIM-038            2     90.00
+              YOT-530            1      4.00
+              BWD-036            1     45.00
+              OTW-288            3     60.00
+              QUU-384            1     40.00
+              BMJ-772            1     55.00
+              GBJ-693            3      3.00
+
+Camion 31:    Peso:         355.30
+              YYK-309            3    165.00
+              OTS-581            5      2.50
+              AWB-345            1      3.00
+              IHG-413            3      4.80
+              KQQ-136            6     30.00
+              OQI-373            3    135.00
+
+Camion 32:    Peso:         350.00
+              KQA-580            2     90.00
+              RAH-420            3    150.00
+
+Camion 33:    Peso:         350.00
+              CNN-411            5    300.00
+
+Camion 34:    Peso:         350.00
+              JFC-432            4     80.00
+              DFJ-952            5    250.00
+
+Camion 35:    Peso:         345.00
+              XSD-310            6    330.00
+
+Camion 36:    Peso:         342.00
+              TZY-323            3     60.00
+              LWG-915            4    200.00
+              TMN-884            2      2.00
+
+Camion 37:    Peso:         341.20
+              BRD-969            5    300.00
+              HFC-845            6     30.00
+              UWA-476            1      0.70
+              QFP-254            4      6.00
+              FQG-293            4      4.00
+
+Camion 38:    Peso:         341.00
+              EBI-299            6    300.00
+              AFL-718            1     10.00
+              OPT-996            2      6.00
+
+Camion 39:    Peso:         340.00
+              WZD-331            3    165.00
+              BIT-434            4     40.00
+              AWT-354            4      4.00
+              III-576            5     50.00
+              KCO-488            5     25.00
+              KCO-488            4     20.00
+              JFC-432            1     20.00
+
+Camion 40:    Peso:         339.00
+              CIM-038            3    135.00
+              FLJ-040            2      2.00
+              HFM-021            6     30.00
+              AQS-362            2      1.00
+              TYF-885            5     10.00
+              OQI-373            2     90.00
+              QVJ-982            5     25.00
+              VRR-793            1      1.00
+
+Camion 41:    Peso:         337.00
+              JCW-489            5    300.00
+              KWP-672            3     30.00
+              VDD-853            2      4.00
+
+Camion 42:    Peso:         335.00
+              GBD-525            6    330.00
+              DON-719            3      3.00
+
+Camion 43:    Peso:         334.00
+              SJD-818            4    220.00
+              GLC-370            2      4.00
+
+Camion 44:    Peso:         331.00
+              ICX-503            1     50.00
+              DFF-034            2      1.00
+              VCL-867            3    150.00
+              TZY-323            6    120.00
+
+Camion 45:    Peso:         329.50
+              OQI-373            5    225.00
+              ONB-903            3      4.50
+
+Camion 46:    Peso:         330.00
+
+Camion 47:    Peso:         329.00
+              KQA-580            6    270.00
+              JXD-139            2     40.00
+              KCO-488            2     10.00
+
+Camion 48:    Peso:         330.00
+
+Camion 49:    Peso:         330.00
+              JXD-139            4     80.00
+
+Camion 50:    Peso:         329.00
+              XLF-273            5    300.00
+              RSE-049            5      5.00
+              CJE-310            5     15.00
+
+Camion 51:    Peso:         330.10
+              VCL-867            1     50.00
+              YUQ-590            5    275.00
+
+Camion 52:    Peso:         328.00
+              EBI-299            5    250.00
+              DFF-034            3      1.50
+              SSD-176            1     55.00
+              ZEX-027            1      1.50
+
+Camion 53:    Peso:         325.30
+              SSE-115            5    275.00
+              OQI-373            1     45.00
+              HLR-109            2      3.60
+
+Camion 54:    Peso:         325.00
+              ICX-503            2    100.00
+              RBE-789            2     20.00
+              UDR-957            1     50.00
+              KJX-387            4     20.00
+
+Camion 55:    Peso:         320.00
+              JXD-139            6    120.00
+
+Camion 56:    Peso:         319.00
+              YYK-309            3    165.00
+              UDR-957            3    150.00
+
+Camion 57:    Peso:         314.25
+              SSD-176            4    220.00
+              BWD-036            2     90.00
+              FLJ-040            4      4.00
+
+Camion 58:    Peso:         300.00
+
+Camion 59:    Peso:         300.00
+
+Camion 60:    Peso:         300.00
+
+Camion 61:    Peso:         300.00
+
+Camion 62:    Peso:         295.00
+              DIQ-718            4     20.00
+              BIT-434            6     60.00
+              TMN-884            5      5.00
+              OXP-732            2     10.00
+
+Camion 63:    Peso:         280.00
+              UJV-290            4    200.00
+
+Camion 64:    Peso:         278.40
+              BWD-036            3    135.00
+              AFL-718            5     50.00
+              AWB-345            4     12.00
+              YYU-726            4      6.40
+              JJN-837            1     40.00
+              ZWF-661            1      5.00
+
+Camion 65:    Peso:         274.00
+              PFD-286            4    220.00
+              MQR-442            1      1.00
+              JYQ-045            6     30.00
+              AFL-718            1     10.00
+              AFL-718            1     10.00
+
+Camion 66:    Peso:         274.00
+              WLL-607            1     45.00
+              SSD-176            4    220.00
+              VDD-853            4      8.00
+
+Camion 67:    Peso:         271.70
+              OPT-996            6     18.00
+              VVS-017            4      3.20
+              QUU-384            1     40.00
+              YOT-530            2      8.00
+              ISU-815            5      2.50
+              III-576            5     50.00
+
+Camion 68:    Peso:         270.00
+              TKM-141            5    250.00
+              HFM-021            1      5.00
+
+Camion 69:    Peso:         270.00
+
+Camion 70:    Peso:         268.00
+              TMJ-043            6    240.00
+              DFF-034            2      1.00
+              KJX-387            3     15.00
+
+Camion 71:    Peso:         268.00
+              QTK-083            3    180.00
+              JJN-837            2     80.00
+
+Camion 72:    Peso:         265.00
+              YJD-279            5    250.00
+
+Camion 73:    Peso:         262.00
+              CIM-038            3    135.00
+              SPR-580            3      3.00
+              VVS-017            5      4.00
+              KWP-672            6     60.00
+
+Camion 74:    Peso:         260.00
+              NSM-283            5    250.00
+
+Camion 75:    Peso:         259.00
+              ADX-669            4    200.00
+              CJE-310            3      9.00
+
+Camion 76:    Peso:         254.20
+              EBI-299            5    250.00
+
+Camion 77:    Peso:         253.00
+              UJV-290            5    250.00
+
+Camion 78:    Peso:         250.00
+
+Camion 79:    Peso:         242.10
+              XLF-273            4    240.00
+
+Camion 80:    Peso:         240.00
+
+Camion 81:    Peso:         239.00
+              EUZ-452            6     30.00
+              OPT-996            3      9.00
+
+Camion 82:    Peso:         233.00
+              YUQ-590            2    110.00
+              TZY-323            6    120.00
+
+Camion 83:    Peso:         227.80
+              BWD-036            5    225.00
+
+Camion 84:    Peso:         225.00
+
+Camion 85:    Peso:         220.00
+
+Camion 86:    Peso:         216.65
+              QUU-384            3    120.00
+              MTF-868            2     10.00
+              VXS-438            1      0.25
+              VTV-269            4     80.00
+
+Camion 87:    Peso:         215.00
+              WZD-331            3    165.00
+              RDT-761            5     25.00
+
+Camion 88:    Peso:         207.50
+              BCN-855            4    200.00
+
+Camion 89:    Peso:         204.00
+              BXY-119            4    180.00
+              KCO-488            4     20.00
+              PQH-935            2      2.00
+
+Camion 90:    Peso:         201.50
+              FEG-454            4    200.00
+
+Camion 91:    Peso:         200.00
+
+Camion 92:    Peso:         200.00
+
+Camion 93:    Peso:         200.00
+
+Camion 94:    Peso:         200.00
+
+Camion 95:    Peso:         197.80
+              OQI-373            3    135.00
+              FQG-293            1      1.00
+              BTO-226            3     60.00
+              DEN-125            1      1.00
+
+Camion 96:    Peso:         180.75
+              ZXK-295            4    180.00
+
+Camion 97:    Peso:         165.00
+
+Camion 98:    Peso:         157.80
+              QFR-958            3    150.00
+              SJQ-827            1      1.80
+
+Camion 99:    Peso:         149.20
+              QFP-254            5      7.50
+              AVM-258            2    100.00
+              UWA-476            3      2.10
+              ARS-231            6      3.60
+              KQQ-136            6     30.00
+
+Camion 100:    Peso:         135.70
+              OTH-462            3    120.00
+              QIL-029            5     15.00
+
