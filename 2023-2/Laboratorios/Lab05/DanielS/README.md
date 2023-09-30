@@ -7,3 +7,7 @@ To compile:
 $ clang++ -std=c++11 -stdlib=libc++ -g -fsanitize=address ./main.cpp -o ./main
 ```
 
+To run:
+```
+$ ./main
+```

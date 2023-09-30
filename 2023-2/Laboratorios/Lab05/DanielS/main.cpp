@@ -129,11 +129,11 @@ void muestracamiones(void *flota, int num_camiones, void(imprime)(std::ofstream 
 		void **ultimo_nodo = (void **)((void **)pila)[0];
 		while (true)
 		{
+			imprime(arch, ultimo_nodo[1]);
 			if (ultimo_nodo[0] == nullptr)
 			{
 				break;
 			}
-			imprime(arch, ultimo_nodo[1]);
 			ultimo_nodo = (void **)ultimo_nodo[0];
 		}
 		arch << std::endl;
