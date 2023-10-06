@@ -20,21 +20,13 @@ void inicializarPila(void *&pila)
 
 void push(void *pila, void *dato)
 {
-	void **ultimo_nodo = (void **)pila;
-	while (true)
-	{
-		if (ultimo_nodo[0] == nullptr)
-		{
-			break;
-		}
-		ultimo_nodo = (void **)ultimo_nodo[0];
-	}
-
 	void **nuevo_nodo = new void *[2];
 	nuevo_nodo[0] = nullptr;
 	nuevo_nodo[1] = dato;
 
-	ultimo_nodo[0] = (void *)nuevo_nodo;
+	void **cabeza = (void **)pila;
+	nuevo_nodo[0] = cabeza[0];
+	cabeza[0] = nuevo_nodo;
 }
 
 double *obtenerPesoDelCamionPtr(void *pila)
