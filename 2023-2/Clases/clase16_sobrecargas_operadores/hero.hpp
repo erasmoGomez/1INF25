@@ -28,6 +28,7 @@ private:
     int posy;
 public:
     Hero();
+    Hero(const class Hero &);
     virtual ~Hero();
     void SetPosy(int posy);
     int GetPosy() const;
@@ -40,6 +41,8 @@ public:
     void SetName(const char* name);
     void GetName(char*) const;
     void Display();
+    void Copia(const class Hero&);
+    void Copia2(const class Hero&);
     void operator++(void);
     void operator++(int);
     void operator--(void);

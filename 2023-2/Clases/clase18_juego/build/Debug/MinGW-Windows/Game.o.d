@@ -1,0 +1,10 @@
+build/Debug/MinGW-Windows/Game.o: Game.cpp Game.hpp Hero.hpp utils.hpp \
+ Item.hpp
+
+Game.hpp:
+
+Hero.hpp:
+
+utils.hpp:
+
+Item.hpp:

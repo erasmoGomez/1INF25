@@ -65,6 +65,17 @@ int main(int argc, char** argv) {
     h1.SetPosy(10);
     class Map mapita("mapa.txt", h1);
     mapita.Draw(out);
+    
+    class Hero *equipo1;
+    equipo1 = new class Hero[5];
+    equipo1[0].SetName("Zeus");
+    equipo1[1].SetName("La Vaquita");
+    equipo1[2].SetName("Chaparro");
+    equipo1[3].SetName("ElGordo");
+    equipo1[4].SetName("Goat");
+    
+    delete []   equipo1;
+    
     return 0;
 }
 

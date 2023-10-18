@@ -14,6 +14,15 @@ Hero::Hero(){
     attack = 100;
 }
 
+Hero::Hero(const class Hero& h){
+    name = nullptr;
+    hp = 0;
+    attack = 0;
+    posx = -1;
+    posy = -1;
+    *this = h;
+}
+
 Hero::~Hero(){
     if(name !=nullptr) delete name;
 }
@@ -76,6 +85,16 @@ void Hero::Display(){
     cout<<"Ataque del Heroe: "<<GetAttack()<<endl;
 }
 
+void Hero::Copia(const class Hero&h){
+    char buffer[20];
+    h.GetName(buffer);
+    SetName(buffer);
+    SetAttack(h.GetAttack());
+}
+
+void Hero::Copia2(const class Hero&h){
+    *this = h;
+}
 //Sobrecargas dentro de la clase
 void Hero::operator++(void){
     SetPosy(GetPosy()+1);
