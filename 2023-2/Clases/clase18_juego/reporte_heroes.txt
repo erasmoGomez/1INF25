@@ -6,3 +6,4 @@ ID        Name      HP               ATT
 2         Link      100              150
 3         Sora      75               175
 4         Steve     35               180
+5         Auron     100              200

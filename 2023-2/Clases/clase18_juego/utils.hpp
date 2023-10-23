@@ -21,7 +21,7 @@
 #define N_COLUMNS 4
 using namespace std;
 
-void imprime_linea(ofstream &);
-void imprime_headers(ofstream &);
+void imprime_linea(ofstream &, int);
+void imprime_headers(ofstream &, const char*, const char*);
 #endif /* UTILS_HPP */
 

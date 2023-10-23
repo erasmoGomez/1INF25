@@ -26,11 +26,14 @@ public:
     void mostrar();
     void actualizar();
     void carga_heroes(ifstream &);
+    void carga_items(ifstream &);
     void mostrar_heroes();
+    void mostrar_items();
 private:
     class Hero heroes[5];
     class Item items[50];
     int n_heroes;
+    int n_items;
 
 };
 

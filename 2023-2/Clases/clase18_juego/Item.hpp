@@ -13,18 +13,35 @@
 
 #ifndef ITEM_HPP
 #define ITEM_HPP
+#include "utils.hpp"
+using namespace std;
 
 class Item {
 public:
     Item();
     Item(const Item& orig);
     virtual ~Item();
+    void SetValue(int value);
+    int GetValue() const;
+    void SetCodigo_hero(int codigo_hero);
+    int GetCodigo_hero() const;
+    void SetDescription(const char* description);
+    void GetDescription(char *description) const;
+    void SetName(const char* name);
+    void GetName(char *name) const;
+    void SetCode(int code);
+    int GetCode() const;
+    void mostrar_item(ofstream &) const;
 private:
     int code;
     char *name;
     char *description;
     int codigo_hero;
+    int value;
 };
+
+void operator>>(ifstream&, class Item&);
+void operator<<(ofstream&, const class Item&);
 
 #endif /* ITEM_HPP */
 

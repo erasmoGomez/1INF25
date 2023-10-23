@@ -21,7 +21,6 @@ using namespace std;
 int main(int argc, char** argv) {
     class Game juego;
     juego.cargar();
-    cout<<"sss"<<endl;
     juego.mostrar();
 //    juego.actualizar();
     return 0;

@@ -14,6 +14,7 @@
 #include "Hero.hpp"
 
 Hero::Hero() {
+    name = nullptr;
 }
 
 Hero::Hero(const Hero& orig) {
