@@ -15,6 +15,7 @@
 
 Hero::Hero() {
     name = nullptr;
+    n_items = 0;
 }
 
 Hero::Hero(const Hero& orig) {
@@ -83,6 +84,10 @@ void Hero::mostrar_hero(ofstream &output) const{
     output<<left<<setw(COLUMN_SIZE)<<name;
     output<<left<<setw(COLUMN_SIZE)<<GetHp();
     output<<right<<setw(COLUMN_SIZE)<<GetAtt()<<endl;
+}
+
+void Hero::operator +=(Item i){
+    mochila[n_items] = i;
 }
 
 void operator>>(ifstream& input, class Hero &h) {

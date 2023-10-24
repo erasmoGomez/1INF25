@@ -102,6 +102,7 @@ void operator>>(ifstream& input, class Item &item) {
     item.SetName(name);
     item.SetDescription(description);
     item.SetValue(value);
+    item.SetCodigo_hero(code_hero);
 
 }
 

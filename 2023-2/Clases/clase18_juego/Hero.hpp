@@ -14,6 +14,7 @@
 #ifndef HERO_HPP
 #define HERO_HPP
 #include "utils.hpp"
+#include "Item.hpp"
 using namespace std;
 
 class Hero {
@@ -34,6 +35,7 @@ public:
     void SetCode(int code);
     int GetCode() const;
     void mostrar_hero(ofstream &) const;
+    void operator +=(class Item);
 private:
     int code;
     char* name;
@@ -41,6 +43,8 @@ private:
     int posy;
     int att;
     int hp;
+    class Item mochila[5];
+    int n_items;
 };
 
 void operator>>(ifstream&, class Hero&);

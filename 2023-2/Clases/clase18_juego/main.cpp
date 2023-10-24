@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     class Game juego;
     juego.cargar();
     juego.mostrar();
-//    juego.actualizar();
+    juego.actualizar();
     return 0;
 }
 

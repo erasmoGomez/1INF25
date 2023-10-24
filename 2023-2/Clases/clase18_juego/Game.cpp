@@ -73,6 +73,10 @@ void Game::mostrar() {
 }
 
 void Game::actualizar() {
-
+    int index_hero = 0;
+    for(int i = 0; i<n_items; i++){
+        index_hero = items[i].GetCodigo_hero();
+        heroes[index_hero] += items[i];
+    }
 }
 
