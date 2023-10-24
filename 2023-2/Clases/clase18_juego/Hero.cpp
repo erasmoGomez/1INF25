@@ -84,10 +84,16 @@ void Hero::mostrar_hero(ofstream &output) const{
     output<<left<<setw(COLUMN_SIZE)<<name;
     output<<left<<setw(COLUMN_SIZE)<<GetHp();
     output<<right<<setw(COLUMN_SIZE)<<GetAtt()<<endl;
+    if (n_items > 0){
+        output<<"ITEMS in MOCHILA"<<endl;
+        for(int i = 0; i<n_items; i++)
+            this->mochila[i].mostrar_item(output);
+    }
 }
 
-void Hero::operator +=(Item i){
+void Hero::operator +=(const class Item &i){
     mochila[n_items] = i;
+    n_items++;
 }
 
 void operator>>(ifstream& input, class Hero &h) {

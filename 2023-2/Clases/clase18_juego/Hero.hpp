@@ -35,7 +35,7 @@ public:
     void SetCode(int code);
     int GetCode() const;
     void mostrar_hero(ofstream &) const;
-    void operator +=(class Item);
+    void operator +=(const class Item &);
 private:
     int code;
     char* name;
@@ -43,7 +43,7 @@ private:
     int posy;
     int att;
     int hp;
-    class Item mochila[5];
+    class Item mochila[20];
     int n_items;
 };
 

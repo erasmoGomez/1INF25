@@ -23,6 +23,7 @@ int main(int argc, char** argv) {
     juego.cargar();
     juego.mostrar();
     juego.actualizar();
+    juego.mostrar_actualizado();
     return 0;
 }
 

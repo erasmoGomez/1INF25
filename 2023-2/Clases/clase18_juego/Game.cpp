@@ -67,6 +67,13 @@ void Game::mostrar_items() {
         output_items<<items[i];
 }
 
+void Game::mostrar_actualizado() {
+    ofstream output_items("reporte_heroes_items.txt", ios::out);
+    imprime_headers(output_items, "DETAILED INFORMATION PER HERO", "heroes");
+    for(int i=0;i<n_heroes;i++)
+        output_items<<heroes[i];
+}
+
 void Game::mostrar() {
     mostrar_heroes();
     mostrar_items();
@@ -76,7 +83,7 @@ void Game::actualizar() {
     int index_hero = 0;
     for(int i = 0; i<n_items; i++){
         index_hero = items[i].GetCodigo_hero();
-        heroes[index_hero] += items[i];
+        heroes[index_hero-1] += items[i];
     }
 }
 
