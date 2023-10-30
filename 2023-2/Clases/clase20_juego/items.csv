@@ -1,0 +1,50 @@
+1,Sword,Weapon,A sharp and sturdy sword.,147,3
+2,Potion,Consumable,A healing potion that restores health.,130,4
+3,Leather Armor,Armor,Lightweight leather armor for protection.,173,4
+4,Fire Scroll,Consumable,A magical scroll that casts a fire spell.,157,4
+5,Health Elixir,Consumable,An elixir that greatly restores health.,160,3
+6,Bow,Weapon,A ranged weapon for shooting arrows.,173,1
+7,Steel Helmet,Armor,A sturdy steel helmet for head protection.,168,2
+8,Lightning Wand,Weapon,A wand that shoots bolts of lightning.,147,2
+9,Mana Potion,Consumable,A potion that restores mana.,136,5
+10,Chainmail Armor,Armor,Heavy chainmail armor for protection.,136,5
+11,Invisibility Cloak,Armor,A cloak that grants invisibility.,156,1
+12,Holy Water,Consumable,Water blessed by a priest for healing.,166,4
+13,Staff,Weapon,A wooden staff for casting spells.,119,3
+14,Diamond Ring,Armor,A valuable diamond ring for extra charisma.,171,1
+15,Scroll of Healing,Consumable,A magical scroll that heals wounds.,189,1
+16,Leather Gloves,Armor,Leather gloves for hand protection.,176,2
+17,Amulet of Strength,Weapon,An amulet that increases strength.,114,4
+18,Ice Staff,Weapon,A staff that casts icy spells.,196,3
+19,Speed Potion,Consumable,A potion that boosts speed temporarily.,124,1
+20,Plate Armor,Armor,Heavy plate armor for maximum protection.,110,1
+21,Teleportation Scroll,Consumable,A scroll for teleporting to a location.,140,1
+22,Ruby Necklace,Weapon,A necklace adorned with rubies.,166,2
+23,Fire Resistance Potion,Consumable,A potion that grants fire resistance.,129,1
+24,Dagger,Weapon,A small and agile dagger for quick attacks.,162,5
+25,Silver Shield,Armor,A silver shield for blocking attacks.,185,5
+26,Health Crystal,Consumable,A crystal that restores health.,119,4
+27,Robe of Wisdom,Armor,A magical robe that enhances wisdom.,170,5
+28,Light Sword,Weapon,A sword that emits light when wielded.,179,5
+29,Gold Coin,Consumable,A valuable gold coin.,186,3
+30,Shield of Protection,Armor,A shield that provides strong defense.,163,4
+31,Magic Ring,Weapon,A ring with mystical enchantments.,124,2
+32,Wand of Healing,Weapon,A wand that heals injuries.,124,5
+33,Mana Crystal,Consumable,A crystal that restores mana.,173,5
+34,Dragon Scale Armor,Armor,Armor made from dragon scales.,119,4
+35,Scroll of Fireball,Consumable,A scroll that casts a powerful fireball.,110,5
+36,Amulet of Luck,Weapon,An amulet that brings luck.,165,5
+37,Enchanted Bow,Weapon,A bow with enchanted arrows.,138,4
+38,Potion of Invisibility,Consumable,A potion that grants invisibility.,141,2
+39,Elven Cloak,Armor,A cloak crafted by elves for stealth.,127,4
+40,Staff of Lightning,Weapon,A staff that conjures deadly lightning.,166,4
+41,Scroll of Teleportation,Consumable,A scroll that teleports instantly.,167,5
+42,Diamond Tiara,Armor,A tiara adorned with diamonds.,198,5
+43,Potion of Strength,Consumable,A potion that enhances strength.,129,1
+44,Demon Blade,Weapon,A cursed blade with dark powers.,158,1
+45,Dark Armor,Armor,Armor infused with dark magic.,108,2
+46,Scroll of Resurrection,Consumable,A scroll that revives the fallen.,109,2
+47,Amulet of Wisdom,Armor,An amulet that enhances wisdom.,199,4
+48,Black Crystal,Consumable,A crystal with mysterious properties.,140,2
+49,Cursed Ring,Armor,A cursed ring that brings misfortune.,172,2
+50,Legendary Sword,Weapon,A sword of legend with untold power.,139,4

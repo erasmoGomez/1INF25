@@ -33,9 +33,10 @@ int Derivada2::GetD2() const {
 }
 
 void Derivada2::mostrar(){
-    cout<<"Estamos en la clase Derivada2"<<endl;
-    //cout<<"B = "<<Base::GetB()<<endl<<endl;
-    cout<<"B = "<<GetB()<<endl<<endl;
+//    cout<<"Estamos en la clase Derivada2"<<endl;
+//    //cout<<"B = "<<Base::GetB()<<endl<<endl;
+//    cout<<"B = "<<GetB()<<endl<<endl;
+    Base::mostrar();
     cout<<"D2 = "<<d2<<endl<<endl;
 }
 

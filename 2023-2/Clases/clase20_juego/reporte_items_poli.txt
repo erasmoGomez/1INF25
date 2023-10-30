@@ -1,0 +1,50 @@
+incremento ATT: 247
+incremento HP: 130
+incremento Def: Lightweight leather armor for protection. Se Incrementa: 273 a la defensa.
+incremento HP: 157
+incremento HP: 160
+incremento ATT: 273
+incremento Def: A sturdy steel helmet for head protection. Se Incrementa: 268 a la defensa.
+incremento ATT: 247
+incremento HP: 136
+incremento Def: Heavy chainmail armor for protection. Se Incrementa: 236 a la defensa.
+incremento Def: A cloak that grants invisibility. Se Incrementa: 256 a la defensa.
+incremento HP: 166
+incremento ATT: 219
+incremento Def: A valuable diamond ring for extra charisma. Se Incrementa: 271 a la defensa.
+incremento HP: 189
+incremento Def: Leather gloves for hand protection. Se Incrementa: 276 a la defensa.
+incremento ATT: 214
+incremento ATT: 296
+incremento HP: 124
+incremento Def: Heavy plate armor for maximum protection. Se Incrementa: 210 a la defensa.
+incremento HP: 140
+incremento ATT: 266
+incremento HP: 129
+incremento ATT: 262
+incremento Def: A silver shield for blocking attacks. Se Incrementa: 285 a la defensa.
+incremento HP: 119
+incremento Def: A magical robe that enhances wisdom. Se Incrementa: 270 a la defensa.
+incremento ATT: 279
+incremento HP: 186
+incremento Def: A shield that provides strong defense. Se Incrementa: 263 a la defensa.
+incremento ATT: 224
+incremento ATT: 224
+incremento HP: 173
+incremento Def: Armor made from dragon scales. Se Incrementa: 219 a la defensa.
+incremento HP: 110
+incremento ATT: 265
+incremento ATT: 238
+incremento HP: 141
+incremento Def: A cloak crafted by elves for stealth. Se Incrementa: 227 a la defensa.
+incremento ATT: 266
+incremento HP: 167
+incremento Def: A tiara adorned with diamonds. Se Incrementa: 298 a la defensa.
+incremento HP: 129
+incremento ATT: 258
+incremento Def: Armor infused with dark magic. Se Incrementa: 208 a la defensa.
+incremento HP: 109
+incremento Def: An amulet that enhances wisdom. Se Incrementa: 299 a la defensa.
+incremento HP: 140
+incremento Def: A cursed ring that brings misfortune. Se Incrementa: 272 a la defensa.
+incremento ATT: 239
