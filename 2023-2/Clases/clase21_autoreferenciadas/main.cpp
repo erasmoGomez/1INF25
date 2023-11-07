@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     class Lista lista;
     lista.crear();
     lista.imprimir();
-    lista.imprimir_recursivo();
+    //lista.imprimir_recursivo();
     return 0;
 }
 

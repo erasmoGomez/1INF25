@@ -14,6 +14,7 @@
 #include "Lista.hpp"
 using namespace std;
 Lista::Lista() {
+    lista = nullptr;
 }
 
 Lista::Lista(const Lista& orig) {
@@ -53,7 +54,12 @@ void Lista::insertar_elemento(const class hero &h){
 void Lista::imprimir() {
     ofstream out("reporte.txt", ios::out);
     class Node *ptr = lista;
-    cout<<"Heroes en la lista"<<endl;
+    out<<"Heroes en la lista"<<endl;
+    out<<left<<setw(5)<<"Code"<<left<<setw(15)<<"Name"<<right<<setw(10)<<"ATT"<<endl;
+    
+    out<<right<<setw(30)<<setfill('=')<<""<<endl;
+    out<<setfill(' ');
+    
     while(ptr){
         out<<ptr->dato;
         ptr = ptr->sig;

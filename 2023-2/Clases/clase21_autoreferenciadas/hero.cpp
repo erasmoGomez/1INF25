@@ -84,6 +84,6 @@ ifstream & operator>>(ifstream &input, class hero & h){
 ofstream & operator<<(ofstream &output, class hero & h){
     char nombre[100];
     h.GetName(nombre);
-    output<<setw(20)<<h.GetCode()<<setw(60)<<nombre<<setw(20)<<h.GetAtt()<<endl;
+    output<<left<<setw(5)<<h.GetCode()<<left<<setw(15)<<nombre<<right<<setw(10)<<h.GetAtt()<<endl;
     return output;
 }
