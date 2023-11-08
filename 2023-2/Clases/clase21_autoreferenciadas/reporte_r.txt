@@ -1,0 +1,5 @@
+3    Sora               500.21
+1    Ash                 200.5
+2    Link                123.6
+5    Auron                 7.6
+4    Steve                 2.8

@@ -8,20 +8,26 @@
  * File:   main.cpp
  * Author: Erasmo G. Montoya
  *
- * Created on October 31, 2023, 7:33 AM
+ * Created on November 7, 2023, 12:39 AM
  */
 
-#include "Lista.hpp"
+#include "Arbol.hpp"
+
 using namespace std;
 
 /*
  * 
  */
 int main(int argc, char** argv) {
-    class Lista lista;
-    lista.crear();
-    lista.imprimir();
-    lista.imprimir_recursivo();
+    class Arbol equipo;
+    equipo.crear("heroes.csv");
+    equipo.en_orden();
+    class Hero heroe;
+    heroe = equipo.buscar("Ash");
+    if(heroe.GetCode()!=-1)
+        cout<<"Dato buscado: "<<heroe<<endl;
+    else
+        cout<<"NO se encontro"<<endl;
     return 0;
 }
 
