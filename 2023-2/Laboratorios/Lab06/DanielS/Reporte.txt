@@ -1,0 +1,1244 @@
+                                 REPORTE PRODUCTOS
+==========================================================================================
+CODIGO         DESCRIPCION                                                  PRECIO  STOCK
+==========================================================================================
+BIT-434        Campana Extractora modelo Glass                              375.09      8
+
+Clientes atendidos:   71378466  59407188
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SSE-115        Refrigeradora  CoolStyle 311N Steel                         3243.58      0
+
+Clientes atendidos:   89863424  79420973  26976877
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+NMV-644        Lavadora Automatica                                         3272.48      4
+
+Clientes atendidos:   94080926
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+MLE-193        Cocina a gas Ingenious                                      2779.41      9
+
+Clientes atendidos:   87813843
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YYK-309        Refrigeradora Door in Door                                  4079.44     22
+
+Clientes atendidos:   22777006  11602775  64394265
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QVJ-982        Horno Microondas 0.7 p3                                     1352.76      9
+
+Clientes atendidos:   77191257  79372768  41036366
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VZV-827        Refrigeradora Top Mount                                     1784.27      0
+
+Clientes atendidos:   54761731  45783712
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+HFC-845        Televisor Serie LED R555A                                   3736.75      0
+
+Clientes atendidos:   13245501  86241107
+Clientes no atendidos:   36008913
+------------------------------------------------------------------------------------------
+AVM-258        Cocina a gas Toscana                                        2831.23      5
+
+Clientes atendidos:   35584593  45828535  62566305  77191257  73185299
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YUQ-590        Refrigeradora  CoolStyle 395N Steel                         1979.07      2
+
+Clientes atendidos:   45783712  88956889  77484838  20864087  85949265  64394265  26976877
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FLJ-040        Parlantes portatiles SOUNDSHOOTER                           3703.37     15
+
+Clientes atendidos:   73535476  40348917  38637282  27912250
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+EUZ-452        Impresora Mutifuncional Led Color                           3623.88      8
+
+Clientes atendidos:   90365520  87800799  79372768
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SPR-580        Dispensador de Agua                                          404.35      0
+
+Clientes atendidos:   54716824  20864087  94080926
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+WLL-607        Cocina Electronica Convencion                               1525.04      0
+
+Clientes atendidos:   91897732
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UWA-476        Autoradio MEX BT3150U                                       1191.39     10
+
+Clientes atendidos:   77484838  73535476  17972674  37110873  71463316  88956889  88956889  26233063  33713901
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YOT-530        Deshumedecedor DM-190H                                       941.73      8
+
+Clientes atendidos:   43053402  31611146  89298238  89298238  57263719
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+NSR-955        Cocina a gas Blogna                                         2591.44     13
+
+Clientes atendidos:   93845419
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SJD-818        Refrigeradora  CoolStyle 281A Steel                         3387.75     21
+
+Clientes atendidos:   41036366  55552996
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BCK-361        Tablets 10.1                                                1872.53      0
+
+Clientes atendidos:   49087435  97403853
+Clientes no atendidos:   80048864  29847168  40112594
+------------------------------------------------------------------------------------------
+ZAF-449        Tablet Cardle                                                816.43     14
+
+Clientes atendidos:   26233063  99842319
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OBI-353        Terma Milenium                                              2960.56     13
+
+Clientes atendidos:   79901434  73914283  73914283
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SNY-500        Cocina a gas Praga Quarzo                                   3297.09      8
+
+Clientes atendidos:   40348917  43877279  44229880  45783712
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+CSZ-863        Video Filmadora                                             1713.57      4
+
+Clientes atendidos:   57690875  95015539  79901434
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+TMJ-043        Lavadora EcoBubble                                          2400.79      0
+
+Clientes atendidos:   85949265  78078115  11602775
+Clientes no atendidos:   69975105
+------------------------------------------------------------------------------------------
+MTF-868        Impresora Monocromatica WorkForce M205                       971.59      8
+
+Clientes atendidos:   83236386  79464412  32821689  88995291
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BMJ-772        Refrigeradora Side by Side                                   936.32     11
+
+Clientes atendidos:   40348917  12663268
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+MYC-756        Cocina a gas Leganza INOX                                    1506.8     19
+
+Clientes atendidos:   85871751  88956889
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FCN-617        Televisor Plasma 60                                         4121.05      4
+
+Clientes atendidos:   22777006  37110873
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ONB-903        Reproductor BLU-RAY 3D                                       653.67     14
+
+Clientes atendidos:   32821689  53166028
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VXS-438        Mouse Blue Tooth                                              60.11     11
+
+Clientes atendidos:   13245501  89429489  69324480  15210391  50375303  58187172
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+GLC-370        Video Proyector Power Lite 95                                552.24     16
+
+Clientes atendidos:   28390487  79372768  42928709
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OPT-996        Mini componente GPX88                                       1367.48      1
+
+Clientes atendidos:   25171011  83236386  69639726
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+PFD-286        Refrigeradora cap. 415 litros                               2776.02      4
+
+Clientes atendidos:   90237332  89298238  76388967  91897732
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KBY-991        Home Theater E4100                                          1101.08      1
+
+Clientes atendidos:   90365520  58187172  45877001
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KQQ-136        Impresora Laser EPSON                                       1139.56     12
+
+Clientes atendidos:   97403853  79475585  26976877  96659352  32904023
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+NSM-283        Cocina a gas FFG3053SL                                       936.81     11
+
+Clientes atendidos:   79464412  42928709
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ICX-503        Cocina a gas Roma                                           1221.02     11
+
+Clientes atendidos:   27912250  87800799  66409237  89298238
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+LDR-510        Mini componente ESX9                                        2701.87     21
+
+Clientes atendidos:   62324793  73535476  87813843  85949265
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+PJG-338        Impresora Mutifuncional Inalambricar                         1067.8     17
+
+Clientes atendidos:   63437380  45877001  49087435  78078115
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ISB-205        Camara fotografica 16MP                                     2976.43      3
+
+Clientes atendidos: NO SE ATENDIERON PRODUCTOS
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UDR-957        Refrigeradora ECOTT 423 IXL                                   861.7     17
+
+Clientes atendidos:   77484838  54716824
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+RAH-420        Cocina a gas Pro 6550 INOX                                   157.01      0
+
+Clientes atendidos:   12663268
+Clientes no atendidos:   15561764
+------------------------------------------------------------------------------------------
+JDQ-505        Lavadora Modelo Aquamatic                                   1572.31     22
+
+Clientes atendidos:   20864087  48467976
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+PPX-620        Aire acondicionado tipo split                               2873.42      7
+
+Clientes atendidos:   80048864
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XZG-521        Secadora Electrica FAQE7001LW                                704.27     20
+
+Clientes atendidos:   52097922  26976877
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VJI-529        Horno Empotrable Electrico                                  1102.67     12
+
+Clientes atendidos:   95161027  33397650  69324480  35565959
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JCW-489        Conservadora Exibidora CMVE-250                             2064.97      9
+
+Clientes atendidos:   69324480  13245501
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OTS-581        Galaxy Note 8.0                                              2653.1     22
+
+Clientes atendidos:   42157219  54761731
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UTN-601        Autoradio XAV-601 BT                                         562.51      2
+
+Clientes atendidos:   52097922  17972674
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+TZY-323        Terma a gas                                                 2341.01      0
+
+Clientes atendidos:   57263719  15210391  16151792  45828535
+Clientes no atendidos:   71984468  26290971  77191257  50365593  95161027
+------------------------------------------------------------------------------------------
+TXM-139        Televisor LED FULL HD 3D                                    1092.95      0
+
+Clientes atendidos:   19829266  94080926  43043986  48184351  53166028
+Clientes no atendidos:   79901434
+------------------------------------------------------------------------------------------
+ADX-669        Refrigeradora cap. 220 litros                               1239.38      1
+
+Clientes atendidos:   96659352
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QRC-609        Camara de video EOS                                         1806.66     12
+
+Clientes atendidos:   25171011  35565959  87800799  89863424  79140840
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YJD-279        Cocina a gas Florencia                                      1028.43      0
+
+Clientes atendidos:   62324793  50375303  17913944
+Clientes no atendidos:   97403853
+------------------------------------------------------------------------------------------
+AHB-459        Reproductor DVD Portatil TV 7                                 685.5      7
+
+Clientes atendidos:   12663268  79901434
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+MMA-577        Congeladora Horizontal 252 Lts.                              1780.3     11
+
+Clientes atendidos:   43053402  32821689  52097922
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VCL-867        Cocina a gas Rubi 2                                          699.07      5
+
+Clientes atendidos:   25171011  25171011  89429489  81114108
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JDC-028        Puntero Laser                                                 30.48     16
+
+Clientes atendidos:   31193794  50365593  87800799
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JXD-139        Terma Evolucion Soltu                                        586.02      3
+
+Clientes atendidos:   50375303  44229880  79464412  26976877  89298238  35565959  79140840
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KQA-580        Cocina Empotrable Glassy Plus                               2907.92     13
+
+Clientes atendidos:   50375303  63437380  96659352  48184351
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XSD-310        Refrigeradora No frost                                      2259.93     10
+
+Clientes atendidos:   12663268  22280452  45828535  87813843  52097922  31611146  71378466
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YYU-726        Reproductor DVD Portatil                                     767.82     10
+
+Clientes atendidos:   12663268  93160528  77642521  67418025
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+EVN-510        Cocina a gas FFG3011LB                                       2672.3     14
+
+Clientes atendidos:   67418025
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+LZK-729        Cocina a gas Kristel                                        2850.91      3
+
+Clientes atendidos: NO SE ATENDIERON PRODUCTOS
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+AQS-362        Teclado Inalambrico USB                                      233.05      0
+
+Clientes atendidos:   55552996  42798099  41036366  16151792  73786035  16151792  15210391
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+AWT-354        Galaxy Gear                                                 3409.22     20
+
+Clientes atendidos:   71463316  66409237
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+CJE-310        Mini componente GPX33                                       3643.39     14
+
+Clientes atendidos:   79464412  98140264
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KWP-672        Televisor UHD TV                                             1625.3     19
+
+Clientes atendidos:   87800799  46462527  90365520  42157219  77191257
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DOV-560        Impresora Laser Mutifuncion Monocromatica                   1203.14      1
+
+Clientes atendidos:   76388967  57263719
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+RBE-789        Televisor SMART TV                                          3303.07      4
+
+Clientes atendidos:   81114108  86402303  32904023
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KCO-488        Ventilador de pared                                           679.6      0
+
+Clientes atendidos:   46462527  71463316
+Clientes no atendidos:   24995742  42157219  35584593
+------------------------------------------------------------------------------------------
+KSO-608        Secadora Modelo Italica                                      914.17     19
+
+Clientes atendidos:   40112594  26233063
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+TKM-141        Cocina a gas Marsella                                        402.24      0
+
+Clientes atendidos:   89148118  78922174  23928045  32565207
+Clientes no atendidos:   90237332
+------------------------------------------------------------------------------------------
+QUU-384        Lavavajilla Blue Touch                                      2545.54      0
+
+Clientes atendidos:   37110873
+Clientes no atendidos:   77642521  67418025  73185299  89429489  43877279
+------------------------------------------------------------------------------------------
+VRR-793        Rack Giratorio 32/60                                         241.71      0
+
+Clientes atendidos:   87800799  81114108  98589725  22280452  43053402  85949265
+Clientes no atendidos:   40348917
+------------------------------------------------------------------------------------------
+SAM-013        Cocina a gas FFG3047SL                                      2275.18      0
+
+Clientes atendidos:   79372768
+Clientes no atendidos:   32904023
+------------------------------------------------------------------------------------------
+YMU-875        Cocina a gas Plermo Quarzo                                   3232.1      6
+
+Clientes atendidos:   24995742  45828535  45783712
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SSD-176        Refrigeradora Linea Gallery                                  567.71      6
+
+Clientes atendidos:   35584593  37110873  43043986  43877279  55552996  78078115  45783712
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DFJ-952        Cocina a gas Prestige 60 INOX                               3342.77     12
+
+Clientes atendidos:   84165595  77642521  35565959  78078115  25171011  40348917
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BZS-261        Cocina a gas Trento                                         3087.87      7
+
+Clientes atendidos:   35565959
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ARS-231        Audifonos Stereos                                            327.62      1
+
+Clientes atendidos:   71378466  78757121
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+SJQ-827        Reproductor Multimedia Touch Screen                         1719.56     18
+
+Clientes atendidos:   76388967  49087435  50375303
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UJV-290        Cocina a gas Fassina Plus                                   2423.26      8
+
+Clientes atendidos:   83236386  89298238
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QTK-083        Congeladora Conservador Vertical 476 Lts.                   2682.73     12
+
+Clientes atendidos:   89298238  43488351  93160528  55552996
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+EQY-018        Radio AM/FM stereo RMU-51C                                   301.73      7
+
+Clientes atendidos: NO SE ATENDIERON PRODUCTOS
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OQI-373        Cocina Empotrable Premio Plus                                906.16      0
+
+Clientes atendidos:   78757121  86402303  42928709
+Clientes no atendidos:   42798099  90237332  86402303  71378466  87813843  78922174  95161027
+------------------------------------------------------------------------------------------
+OTH-462        Lavadora Semi-Automatica                                     531.04     15
+
+Clientes atendidos:   73185299  79140840  57263719  57263719  89863424
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XTE-383        Rack Fijo 32/60                                              261.01      9
+
+Clientes atendidos:   57690875
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ZVA-180        Refrigeradora 322 litros                                    2903.13     10
+
+Clientes atendidos:   33713901  50365593  54761731
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BCN-855        Cocina a gas Bahia Can                                      4015.92      1
+
+Clientes atendidos:   38913831  81114108  71463316
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+PQH-935        Rack Giratorio 26/32                                          94.45     11
+
+Clientes atendidos:   71984468
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+LYZ-614        Impresore Mutifuncional Expression XP-211                   3510.84     12
+
+Clientes atendidos:   59407188
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FYF-898        Proyector a color                                           1160.46     14
+
+Clientes atendidos:   15561764
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OPJ-039        Secadora de Ropa                                            2765.64     10
+
+Clientes atendidos:   90365520  62324793
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+CNN-411        Congeladora Side by Side                                    2296.29     22
+
+Clientes atendidos:   16552775  42798099
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KJX-387        Ventilador de techo                                          613.19      5
+
+Clientes atendidos:   32904023  78757121  73535476  13245501
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JFC-432        DVD DVM-L79                                                  307.67      0
+
+Clientes atendidos:   20864087  85949265  89148118  38913831
+Clientes no atendidos:   26233063  84165595
+------------------------------------------------------------------------------------------
+EJW-346        Campana Extractora                                            359.7      9
+
+Clientes atendidos:   83505958  78922174
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+EBI-299        Cocina a gas Fridare                                        2287.57     10
+
+Clientes atendidos:   76388967  71463316  96258632  89148118  40112594
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FEG-454        Sillon masajeador                                            1695.7      5
+
+Clientes atendidos:   59162728  86241107  67418025
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YEZ-591        Lavadora WA                                                 1320.03      8
+
+Clientes atendidos:   63437380
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UXG-019        Terma de acumulacion                                         934.91     10
+
+Clientes atendidos:   32565207  55552996  66409237  86241107  19829266  89429489
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FVB-607        Cocina a gas Essenza BL                                     2953.07     11
+
+Clientes atendidos:   54761731  89863424
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+RDT-761        Horno Microondas con dorador                                 904.95     15
+
+Clientes atendidos:   84165595  80048864  59407188  19829266  42798099  45877001
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BWD-036        Cocina Empotrable Klimatica                                 1086.34      0
+
+Clientes atendidos:   60574154
+Clientes no atendidos:   57263719  79475585  24995742  95751208  77191257  80048864
+------------------------------------------------------------------------------------------
+TMN-884        Secadora de mano                                             310.65      0
+
+Clientes atendidos:   88956889
+Clientes no atendidos:   91897732  42798099  23928045  79140840  50365593
+------------------------------------------------------------------------------------------
+ZXK-295        Cocina Empotrable Electrica                                 3679.43      8
+
+Clientes atendidos:   78757121
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DIQ-718        Horno Microondas de Conveccion Cello                          390.8      0
+
+Clientes atendidos:   62566305  43488351  69324480
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BTO-226        Friobar                                                      863.19     23
+
+Clientes atendidos:   77484838  87800799
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DFF-034        Grabadora de voz digital portátil con USB integrado          259.25     19
+
+Clientes atendidos:   98140264  79140840  66409237  78078115  81114108
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OFS-384        Parlantes Bluetooth                                          805.22      4
+
+Clientes atendidos:   83236386  81114108  64394265  38637282
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YZD-580        Mini componente ESX8                                        1582.29      2
+
+Clientes atendidos:   37110873  38913831
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OTW-288        Cavba de Vinos GE cap. 34 botellas                          1119.18     11
+
+Clientes atendidos:   15210391  64394265  94080926
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UOD-420        Mini componente ESX6                                         828.94      8
+
+Clientes atendidos:   95751208  69324480
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+IDO-503        Laptop GamerVictus de 15.6                                  3935.17      1
+
+Clientes atendidos:   32565207  16151792
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VDD-853        Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2                    1095.67     13
+
+Clientes atendidos:   49087435  37110873  90365520
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VTV-269        Extractor de aire                                            854.48      8
+
+Clientes atendidos:   26976877
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XZR-640        Lavadora-Secadora FWD                                       2390.58     11
+
+Clientes atendidos:   78078115  91897732  49087435
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DON-719        Secadora de Cabello SG-3035                                  360.69      9
+
+Clientes atendidos:   24995742  15210391  69639726
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+HTY-123        Refrigeradora GM-S604ULV                                    1173.33      1
+
+Clientes atendidos: NO SE ATENDIERON PRODUCTOS
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+LWG-915        Cocina a gas Murano                                         1101.47     10
+
+Clientes atendidos:   50365593  27912250  46462527  23928045  27912250
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JYQ-045        Horno Microondas 1.2 p3                                      267.15     19
+
+Clientes atendidos:   15561764
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+AWB-345        Deshumedecedor DM-189H                                       800.37      0
+
+Clientes atendidos:   13245501  16552775  63437380  25171011  44679500  93845419
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+YGV-332        Impresora Led Color                                         2517.66     16
+
+Clientes atendidos:   86828079  77484838
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+HLR-109        Parlantes inalambricos                                       439.47     21
+
+Clientes atendidos:   79140840  88995291  36380447  44229880
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+MQR-442        Reloj Digital RMM-29                                         271.66     23
+
+Clientes atendidos:   86828079  83505958
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+GBD-525        Refrigeradora Puertas Mágicas                               2700.95      2
+
+Clientes atendidos:   52097922  87800799
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+DEV-433        Parlantes portatiles SHOQBOX                                2698.74     12
+
+Clientes atendidos:   54761731
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OXP-732        Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8      16504.5      5
+
+Clientes atendidos:   79901434  23928045  91897732
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FVQ-662        Cocina a gas Pro 6300 INOX                                  1060.68      0
+
+Clientes atendidos:   71378466  32565207  31611146
+Clientes no atendidos:   43053402  40112594
+------------------------------------------------------------------------------------------
+DEN-125        Rack Fijo 26/32                                              562.46     23
+
+Clientes atendidos:   17913944  73786035
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+CRU-009        Lavavajilla                                                 2655.78      1
+
+Clientes atendidos:   50375303  96258632  66409237  54716824
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+RSE-049        Radio CD/DVD - TV                                           4037.51     19
+
+Clientes atendidos:   15210391  76388967
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BRD-969        Centro de Lavado Electrico                                  2579.72     13
+
+Clientes atendidos:   98140264  66409237  93160528  95751208  73914283
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+CIM-038        Cocina Empotrable Petra                                     2544.64      0
+
+Clientes atendidos:   35565959  11602775  93845419  57690875  73535476  25171011
+Clientes no atendidos:   86241107  94080926
+------------------------------------------------------------------------------------------
+CNQ-172        Congeladora Horizontal 364 Lts.                             3689.62     12
+
+Clientes atendidos:   16151792  76388967  62566305
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QFR-958        Cocina a gas Bavaro                                         1607.46      4
+
+Clientes atendidos:   45783712  27912250
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+TYF-885        Videojuego TW 4                                              794.14      2
+
+Clientes atendidos:   62566305  83505958  79140840  26290971  43877279
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+VVS-017        Tablets MW 0731                                             2599.72     10
+
+Clientes atendidos:   45877001  95161027  33713901  50365593
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+BXY-119        Cocina Empotrable Klimatica                                 2716.11      8
+
+Clientes atendidos:   20864087  13245501  31193794  89429489
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+GKG-558        Horno Microondas MS2042D                                    1674.24     22
+
+Clientes atendidos:   26290971
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+UCX-285        Galaxy Tab 3                                                3290.93     10
+
+Clientes atendidos:   22280452
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+WZD-331        Refrigeradora ECOTT 465 IX                                  1213.79      2
+
+Clientes atendidos:   40348917  16151792  69975105  87800799  29337157
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+AFL-718        Vinera                                                      1664.97     10
+
+Clientes atendidos:   50365593  78922174  50375303  77484838  26976877  89148118  49087435
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+JJN-837        Lavadora Tecnologia Wobbie                                  1979.92      2
+
+Clientes atendidos:   11602775  11602775  71984468
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+KDA-627        Cocina a gas Ijasmin                                        1424.46      6
+
+Clientes atendidos:   60574154
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+PVZ-181        Ventilador circular                                          309.77      6
+
+Clientes atendidos:   26290971  90237332
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ISU-815        Audifonos                                                    619.89      3
+
+Clientes atendidos:   52097922  46462527  32821689
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+OWN-701        Olla arrocera                                                220.82     18
+
+Clientes atendidos:   36380447  52097922  59407188
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+HFM-021        Horno Electrico                                              726.91      0
+
+Clientes atendidos:   88956889  15210391  29337157  86402303  84165595  69975105
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+GBJ-693        Radio CD                                                      314.2      0
+
+Clientes atendidos:   15561764
+Clientes no atendidos:   96659352  45877001  97403853
+------------------------------------------------------------------------------------------
+FQG-293        Rapiducha Premiun                                           2784.31     18
+
+Clientes atendidos:   55552996  78078115  62324793  69975105  95161027
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XBD-314        Cocina a gas Fassina                                         1444.9      5
+
+Clientes atendidos:   78922174  78922174  62324793
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QIL-029        Mini componente Shake-5                                     2990.55     12
+
+Clientes atendidos:   86828079  42928709  13245501  93845419
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ZWF-661        Impresora Led                                               2731.61      0
+
+Clientes atendidos:   17972674
+Clientes no atendidos:   13245501  77191257  57263719  32565207
+------------------------------------------------------------------------------------------
+QHC-492        Terma Solucion                                              1907.23     11
+
+Clientes atendidos:   29337157  98140264  53166028  73185299  96258632  84165595
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XLF-273        Centro de Lavado a Gas                                      2371.95      3
+
+Clientes atendidos:   43488351  89148118  11602775  42928709  57690875  22777006  17913944
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+XOA-735        Congeladora Vertical 392 Lts.                               2708.07      0
+
+Clientes atendidos:   13245501  78078115
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+FLW-631        Radio Reloj Despertador                                      819.04      6
+
+Clientes atendidos:   38913831
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+ZEX-027        Tablet Xperia Z                                             3843.75     18
+
+Clientes atendidos:   43043986  29337157  79901434  54716824  77191257
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QJO-060        Televisor LED FULL HD                                       2704.14     22
+
+Clientes atendidos:   45828535
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+GXF-122        Televisor Ultra HDTV                                        1110.16     11
+
+Clientes atendidos:   37110873  78757121  62566305  79420973
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QFP-254        Calentador electrico instantaneo                             180.65      0
+
+Clientes atendidos:   90237332  89298238  43043986
+Clientes no atendidos:   71463316  42928709  32904023  73185299  12663268
+------------------------------------------------------------------------------------------
+DUG-251        Cocina a gas FFG3047SL                                      1597.96      3
+
+Clientes atendidos:   32904023  93160528  99842319  81114108
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+III-576        Campana Extractora Venus Plus                               1077.65     16
+
+Clientes atendidos:   63437380  95161027  60574154  42157219  49087435
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+IHG-413        Parlant Y pedestal PAM-83                                     317.7     11
+
+Clientes atendidos:   33397650  17913944
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+QQB-968        Refrigeradora 484 litros                                    1452.92      9
+
+Clientes atendidos: NO SE ATENDIERON PRODUCTOS
+Clientes no atendidos: NO HAY CLIENTES SIN ATENDER
+------------------------------------------------------------------------------------------
+
+                                  REPORTE CLIENTES
+========================================================================================================================
+       DNI NOMBRE                                     TELEFONO     MONTO TOTAL
+========================================================================================================================
+  79464412 PORTUGAL RAFFO ALEXANDER                    3902394         6137.81
+Productos entregados:    CJE-310    NSM-283    JXD-139    MTF-868 
+------------------------------------------------------------------------------------------------------------------------
+  16552775 YALLICO PAREDES LOURDES CARMELA           960176666         3096.66
+Productos entregados:    AWB-345    CNN-411 
+------------------------------------------------------------------------------------------------------------------------
+  20864087 ZEGARRA CASANOVA ESTEFANIA                  2639311         6979.51
+Productos entregados:    BXY-119    JFC-432    JDQ-505    YUQ-590    SPR-580 
+------------------------------------------------------------------------------------------------------------------------
+  94326707 CHANG SEGURA ANGEL                        984185862               0
+Productos entregados: NO SE LE ENTREGARON PRODUCTOS
+------------------------------------------------------------------------------------------------------------------------
+  73786035 ORTIZ EPIQUEN HENRY ISRAEL                  6873908          795.51
+Productos entregados:    AQS-362    DEN-125 
+------------------------------------------------------------------------------------------------------------------------
+  31193794 GARCIA YINO AMERICO WALDEMAR              986742314         2746.59
+Productos entregados:    JDC-028    BXY-119 
+------------------------------------------------------------------------------------------------------------------------
+  96659352 BRAVO VIZCARRA ROBERTO                    985707065         5601.06
+Productos entregados:    ADX-669    KQA-580    GBJ-693    KQQ-136 
+------------------------------------------------------------------------------------------------------------------------
+  57690875 NORABUENA VILLEGAS ARTURO RAFAEL          889013091         6891.17
+Productos entregados:    CSZ-863    CIM-038    XLF-273    XTE-383 
+------------------------------------------------------------------------------------------------------------------------
+  69975105 VALDERRAMA MENDOZA LUIS ADOLFO            977523461          7125.8
+Productos entregados:    WZD-331    FQG-293    HFM-021    TMJ-043 
+------------------------------------------------------------------------------------------------------------------------
+  54761731 LOYOLA IBEROS ANGEL GUSTAVO               951334343         12992.3
+Productos entregados:    DEV-433    ZVA-180    FVB-607    VZV-827    OTS-581 
+------------------------------------------------------------------------------------------------------------------------
+  67418025 MOSCOSO SUELDO MARINA                       7663823         7681.36
+Productos entregados:    QUU-384    EVN-510    FEG-454    YYU-726 
+------------------------------------------------------------------------------------------------------------------------
+  77642521 SORIA CASTILLO LUIS GUSTAVO               952902679         6656.13
+Productos entregados:    QUU-384    DFJ-952    YYU-726 
+------------------------------------------------------------------------------------------------------------------------
+  35584593 LAM VIZCARDO MILAGROS YVONNE                6294058         4078.54
+Productos entregados:    SSD-176    AVM-258    KCO-488 
+------------------------------------------------------------------------------------------------------------------------
+  43053402 BENAVENTE ZIMIC MADELEINE ZKENIA          917252545         4024.42
+Productos entregados:    YOT-530    MMA-577    VRR-793    FVQ-662 
+------------------------------------------------------------------------------------------------------------------------
+  84165595 SALAMANCA GAVIDIA ALEX                    963178009         7189.53
+Productos entregados:    DFJ-952    RDT-761    HFM-021    JFC-432    QHC-492 
+------------------------------------------------------------------------------------------------------------------------
+  89298238 ALFARO PRECIADO JOHNNY                    996727505         11753.2
+Productos entregados:    PFD-286    QTK-083    QFP-254    UJV-290    YOT-530    YOT-530    JXD-139    ICX-503 
+------------------------------------------------------------------------------------------------------------------------
+  71984468 IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO   935441620         4415.38
+Productos entregados:    PQH-935    JJN-837    TZY-323 
+------------------------------------------------------------------------------------------------------------------------
+  29847168 ALDAVE ZEVALLOS ROSARIO                     6261108         1872.53
+Productos entregados:    BCK-361 
+------------------------------------------------------------------------------------------------------------------------
+  79475585 RETTO ARCA ANNIE MAGDA                    941241092          2225.9
+Productos entregados:    BWD-036    KQQ-136 
+------------------------------------------------------------------------------------------------------------------------
+  91897732 GAMARRA ALCOCER VIRGINIA                  954025615         23506.8
+Productos entregados:    TMN-884    XZR-640    WLL-607    OXP-732    PFD-286 
+------------------------------------------------------------------------------------------------------------------------
+  33397650 RONDON EGUSQUIZA CARMELA VALENTINA          3911397         1420.37
+Productos entregados:    IHG-413    VJI-529 
+------------------------------------------------------------------------------------------------------------------------
+  83236386 RIVERO CORRALES JUAN FERNANDO             946513105         5567.55
+Productos entregados:    UJV-290    MTF-868    OPT-996    OFS-384 
+------------------------------------------------------------------------------------------------------------------------
+  32821689 ZAVALETA EPIQUEN CARMEN ZKENIA            955248211         4025.45
+Productos entregados:    ONB-903    MMA-577    MTF-868    ISU-815 
+------------------------------------------------------------------------------------------------------------------------
+  45783712 POZO CHUNG RAFAEL DEL                       8252118         12467.7
+Productos entregados:    YUQ-590    QFR-958    SNY-500    VZV-827    YMU-875    SSD-176 
+------------------------------------------------------------------------------------------------------------------------
+  48184351 LOPEZ JAUREGUI ROLANDO                    884716679         4000.87
+Productos entregados:    KQA-580    TXM-139 
+------------------------------------------------------------------------------------------------------------------------
+  33713901 VILLEGAS CASTRO SOFIA VIRGINIA              2339560         6694.24
+Productos entregados:    ZVA-180    UWA-476    VVS-017 
+------------------------------------------------------------------------------------------------------------------------
+  76388967 GONZALES QUIO ISABEL                        8094909         15713.4
+Productos entregados:    SJQ-827    EBI-299    RSE-049    CNQ-172    PFD-286    DOV-560 
+------------------------------------------------------------------------------------------------------------------------
+  81114108 ZAMBRANO SHIRAKAWA WILMER                   5853087         10922.2
+Productos entregados:    VRR-793    BCN-855    RBE-789    DFF-034    OFS-384    DUG-251    VCL-867 
+------------------------------------------------------------------------------------------------------------------------
+  57263719 PRADO TORREALBA CARMEN JANET              988736554         9365.91
+Productos entregados:    TZY-323    BWD-036    OTH-462    YOT-530    OTH-462    ZWF-661    DOV-560 
+------------------------------------------------------------------------------------------------------------------------
+  79140840 TORREALBA ARCA VICTORIA GLENDA            876488179         4727.23
+Productos entregados:    DFF-034    TYF-885    HLR-109    OTH-462    TMN-884    JXD-139    QRC-609 
+------------------------------------------------------------------------------------------------------------------------
+  71378466 MIYAKE CARO HENRRY EDGAR                  921051207         4929.48
+Productos entregados:    BIT-434    FVQ-662    ARS-231    OQI-373    XSD-310 
+------------------------------------------------------------------------------------------------------------------------
+  17913944 PALOMARES SANTISTEBAN HENRRY              967944433         4280.54
+Productos entregados:    IHG-413    DEN-125    YJD-279    XLF-273 
+------------------------------------------------------------------------------------------------------------------------
+  62566305 ROMERO ALFARO MONICA JOHANA                 8206363         8815.95
+Productos entregados:    TYF-885    DIQ-718    GXF-122    AVM-258    CNQ-172 
+------------------------------------------------------------------------------------------------------------------------
+  46462527 LOYOLA MORI NICOLAS FERNANDO                5865695         4026.26
+Productos entregados:    KCO-488    KWP-672    LWG-915    ISU-815 
+------------------------------------------------------------------------------------------------------------------------
+  79420973 AURIS JOLAY DIANA                           7073267         4353.74
+Productos entregados:    SSE-115    GXF-122 
+------------------------------------------------------------------------------------------------------------------------
+  22777006 ASMAD PINTO MARIA LORENA                  939918070         10572.4
+Productos entregados:    YYK-309    FCN-617    XLF-273 
+------------------------------------------------------------------------------------------------------------------------
+  43877279 RARAZ SUCHERO ADOLFO                        4105386         7204.48
+Productos entregados:    SNY-500    TYF-885    SSD-176    QUU-384 
+------------------------------------------------------------------------------------------------------------------------
+  73535476 AYALA SANCHEZ MARIA TERESA                892714088         10754.5
+Productos entregados:    FLJ-040    UWA-476    CIM-038    LDR-510    KJX-387 
+------------------------------------------------------------------------------------------------------------------------
+  26976877 TORO CUBA DIALY DIANA                       2748661         10171.9
+Productos entregados:    VTV-269    AFL-718    JXD-139    SSE-115    KQQ-136    YUQ-590    XZG-521 
+------------------------------------------------------------------------------------------------------------------------
+  78078115 TSUKAZAN AMEZQUITA DELIA                  905818632         15521.3
+Productos entregados:    XZR-640    DFF-034    FQG-293    XOA-735    TMJ-043    DFJ-952    SSD-176    PJG-338 
+------------------------------------------------------------------------------------------------------------------------
+  48467976 BENITES SANCHEZ MARGOT DELICIA              4888316         1572.31
+Productos entregados:    JDQ-505 
+------------------------------------------------------------------------------------------------------------------------
+  41036366 JUSTINO LOYOLA JENNY MAGDA                  5939760         4973.56
+Productos entregados:    SJD-818    AQS-362    QVJ-982 
+------------------------------------------------------------------------------------------------------------------------
+  31611146 LANDEO LARRIEGA MARTIN                      8566657         4262.34
+Productos entregados:    YOT-530    FVQ-662    XSD-310 
+------------------------------------------------------------------------------------------------------------------------
+  64394265 SALAZAR GONZALES DAVID RAFAEL             938884629         7982.91
+Productos entregados:    OFS-384    YUQ-590    YYK-309    OTW-288 
+------------------------------------------------------------------------------------------------------------------------
+  50365593 SUAREZ BRAVO MARIELLA TATIANA             965004473         10951.4
+Productos entregados:    AFL-718    JDC-028    LWG-915    TMN-884    ZVA-180    TZY-323    VVS-017 
+------------------------------------------------------------------------------------------------------------------------
+  95751208 CORONEL ZEGARRA FIORELLA                  925608637            4495
+Productos entregados:    UOD-420    BWD-036    BRD-969 
+------------------------------------------------------------------------------------------------------------------------
+  79372768 BERROCAL YALLICO ANNIE SOFIA              897157366         7804.06
+Productos entregados:    GLC-370    QVJ-982    SAM-013    EUZ-452 
+------------------------------------------------------------------------------------------------------------------------
+  27912250 CUBA CHUNG ISRAEL EDILBERTO                 2489481         8734.79
+Productos entregados:    ICX-503    LWG-915    QFR-958    FLJ-040    LWG-915 
+------------------------------------------------------------------------------------------------------------------------
+  60574154 LOZADA GONZALES JAIME                     962838234         3588.45
+Productos entregados:    BWD-036    III-576    KDA-627 
+------------------------------------------------------------------------------------------------------------------------
+  35565959 VILCARA RODRIGUEZ ANNIE                     7272527         12470.6
+Productos entregados:    CIM-038    QRC-609    DFJ-952    BZS-261    VJI-529    JXD-139 
+------------------------------------------------------------------------------------------------------------------------
+  80048864 JUSTINO CASTILLO SANDRO CHRISTIAN         929077160         6737.24
+Productos entregados:    BCK-361    RDT-761    PPX-620    BWD-036 
+------------------------------------------------------------------------------------------------------------------------
+  96258632 FLORENCIO GARCIA WALTER                   993338854         6850.58
+Productos entregados:    CRU-009    QHC-492    EBI-299 
+------------------------------------------------------------------------------------------------------------------------
+  94080926 SORIA CRUZ MADELEINE                        6726720          8433.6
+Productos entregados:    NMV-644    TXM-139    CIM-038    OTW-288    SPR-580 
+------------------------------------------------------------------------------------------------------------------------
+  42157219 LUNA CUEVA RICHARD                          6465719         6035.65
+Productos entregados:    OTS-581    III-576    KCO-488    KWP-672 
+------------------------------------------------------------------------------------------------------------------------
+  86241107 SANCHEZ EPIQUEN EDGAR MELVIN                3096849            8912
+Productos entregados:    CIM-038    HFC-845    UXG-019    FEG-454 
+------------------------------------------------------------------------------------------------------------------------
+  26290971 SANTISTEBAN AYALA CAROLA MARITZA          988835189         5119.16
+Productos entregados:    PVZ-181    TYF-885    GKG-558    TZY-323 
+------------------------------------------------------------------------------------------------------------------------
+  22280452 GONZALES MALDONADO ZKENIA ERIKA             5066321         5792.57
+Productos entregados:    XSD-310    VRR-793    UCX-285 
+------------------------------------------------------------------------------------------------------------------------
+  90365520 PALOMINO ADAMS SANDRO RONALD              964902408         10211.6
+Productos entregados:    KWP-672    KBY-991    OPJ-039    EUZ-452    VDD-853 
+------------------------------------------------------------------------------------------------------------------------
+  40348917 VEGA TSUKAZAN VALENTINA                   962692699           12735
+Productos entregados:    WZD-331    SNY-500    FLJ-040    BMJ-772    DFJ-952    VRR-793 
+------------------------------------------------------------------------------------------------------------------------
+  95161027 FALCON POZO WALTER                        907875771         10811.5
+Productos entregados:    VJI-529    III-576    VVS-017    FQG-293    OQI-373    TZY-323 
+------------------------------------------------------------------------------------------------------------------------
+  77191257 CORRALES ZUNIGA JENNY                       6329003           15812
+Productos entregados:    QVJ-982    ZWF-661    KWP-672    TZY-323    ZEX-027    AVM-258    BWD-036 
+------------------------------------------------------------------------------------------------------------------------
+  62324793 GAVIDIA MORENO ISRAEL ROLANDO             979240911         10725.1
+Productos entregados:    LDR-510    YJD-279    FQG-293    XBD-314    OPJ-039 
+------------------------------------------------------------------------------------------------------------------------
+  16151792 DURAND CASTRO FLOR MARTHA                   8008929         11645.7
+Productos entregados:    WZD-331    CNQ-172    AQS-362    TZY-323    IDO-503    AQS-362 
+------------------------------------------------------------------------------------------------------------------------
+  66409237 CANO DELGADO WILLIAMS                     969142116         11059.9
+Productos entregados:    DFF-034    AWT-354    BRD-969    UXG-019    ICX-503    CRU-009 
+------------------------------------------------------------------------------------------------------------------------
+  63437380 PINTO CABELLO SILVIA FELICITA               8343056         7173.77
+Productos entregados:    PJG-338    III-576    AWB-345    KQA-580    YEZ-591 
+------------------------------------------------------------------------------------------------------------------------
+  95015539 CHANG SAONA RONALD                        974180726         1713.57
+Productos entregados:    CSZ-863 
+------------------------------------------------------------------------------------------------------------------------
+  25171011 CRUZ JUGO SANDRO FAUSTO                   982755508         11260.1
+Productos entregados:    VCL-867    OPT-996    AWB-345    CIM-038    QRC-609    VCL-867    DFJ-952 
+------------------------------------------------------------------------------------------------------------------------
+  90237332 ESPINOZA CASTRO YDALI GIOVANA               8119710         4574.84
+Productos entregados:    PFD-286    QFP-254    PVZ-181    OQI-373    TKM-141 
+------------------------------------------------------------------------------------------------------------------------
+  87800799 QUIROGA SALAZAR JOHNNY ROBERTO              8105714           13327
+Productos entregados:    KWP-672    VRR-793    WZD-331    GBD-525    ICX-503    BTO-226    EUZ-452    QRC-609    JDC-028 
+------------------------------------------------------------------------------------------------------------------------
+  38637282 TABORI CARBAJAL YDALI MAGDA               914898726         4508.59
+Productos entregados:    FLJ-040    OFS-384 
+------------------------------------------------------------------------------------------------------------------------
+  15561764 VILLEGAS CASTRO ALONSO                      4983446         1898.82
+Productos entregados:    GBJ-693    JYQ-045    FYF-898    RAH-420 
+------------------------------------------------------------------------------------------------------------------------
+  45877001 SORIA VILLA HENRRY                        876812206         5987.75
+Productos entregados:    VVS-017    PJG-338    GBJ-693    RDT-761    KBY-991 
+------------------------------------------------------------------------------------------------------------------------
+  87813843 AYALA ACUNA RONY ALEX                     967252992         8647.37
+Productos entregados:    MLE-193    XSD-310    LDR-510    OQI-373 
+------------------------------------------------------------------------------------------------------------------------
+  78757121 ASTETE SOLIS FANNY                        881829766         6636.56
+Productos entregados:    OQI-373    ZXK-295    GXF-122    ARS-231    KJX-387 
+------------------------------------------------------------------------------------------------------------------------
+  53166028 CANO CHUNG EMILIO NICOLAS                 935212007         3653.85
+Productos entregados:    QHC-492    ONB-903    TXM-139 
+------------------------------------------------------------------------------------------------------------------------
+  15210391 QUIROGA CASANOVA BRUNO                    912496602         8878.46
+Productos entregados:    RSE-049    TZY-323    OTW-288    VXS-438    HFM-021    DON-719    AQS-362 
+------------------------------------------------------------------------------------------------------------------------
+  89429489 SERRANO IPARRAGUIRRE VIRGINIA             926380835         6955.74
+Productos entregados:    VXS-438    QUU-384    UXG-019    VCL-867    BXY-119 
+------------------------------------------------------------------------------------------------------------------------
+  43488351 MINAYA CERNA LORENA FIORELLA                7039872         5445.48
+Productos entregados:    XLF-273    DIQ-718    QTK-083 
+------------------------------------------------------------------------------------------------------------------------
+  73185299 CORTES LANDA SURAMI                         3032891         7995.69
+Productos entregados:    OTH-462    QHC-492    QUU-384    QFP-254    AVM-258 
+------------------------------------------------------------------------------------------------------------------------
+  36380447 RIVERO RETTO JESUS                        963345715          660.29
+Productos entregados:    OWN-701    HLR-109 
+------------------------------------------------------------------------------------------------------------------------
+  97403853 PISCOYA MALCA MARIA MONICA                906047403         4354.72
+Productos entregados:    KQQ-136    BCK-361    YJD-279    GBJ-693 
+------------------------------------------------------------------------------------------------------------------------
+  13245501 ESCALANTE YINO EDWARD GONZALO             897778693         18421.7
+Productos entregados:    AWB-345    XOA-735    VXS-438    HFC-845    ZWF-661    BXY-119    QIL-029    JCW-489    KJX-387 
+------------------------------------------------------------------------------------------------------------------------
+  89148118 ZAMBRANO LEYVA ALVARO                     987004291          7034.4
+Productos entregados:    TKM-141    XLF-273    AFL-718    JFC-432    EBI-299 
+------------------------------------------------------------------------------------------------------------------------
+  93845419 QUIO GAVIDIA DIALY FELICITA                 5696816            8927
+Productos entregados:    CIM-038    AWB-345    QIL-029    NSR-955 
+------------------------------------------------------------------------------------------------------------------------
+  19829266 TOMASICHE MEJIA MELVIN                    915529528         2932.81
+Productos entregados:    TXM-139    RDT-761    UXG-019 
+------------------------------------------------------------------------------------------------------------------------
+  26233063 TSUKAZAN AYALA MARINA MAGDA               937953132         3229.66
+Productos entregados:    ZAF-449    UWA-476    KSO-608    JFC-432 
+------------------------------------------------------------------------------------------------------------------------
+  78922174 ALAMO MEZA ALVARO                           5307494         6222.87
+Productos entregados:    TKM-141    AFL-718    EJW-346    XBD-314    XBD-314    OQI-373 
+------------------------------------------------------------------------------------------------------------------------
+  42798099 ZEGARRA MUNOZ SONIA GUIDA                 874064223          4651.1
+Productos entregados:    AQS-362    TMN-884    OQI-373    CNN-411    RDT-761 
+------------------------------------------------------------------------------------------------------------------------
+  79901434 SALAZAR FLORENCIO SANDRO JOHNNY           910817217         26800.8
+Productos entregados:    OBI-353    ZEX-027    AHB-459    OXP-732    CSZ-863    TXM-139 
+------------------------------------------------------------------------------------------------------------------------
+  50375303 SANCHEZ HUAYANAY DIALY LUCERO               5956481         10622.8
+Productos entregados:    JXD-139    CRU-009    KQA-580    AFL-718    YJD-279    SJQ-827    VXS-438 
+------------------------------------------------------------------------------------------------------------------------
+  55552996 SUCHERO PRECIADO MILAGROS ERICKA          971740977         10590.5
+Productos entregados:    AQS-362    UXG-019    SJD-818    FQG-293    QTK-083    SSD-176 
+------------------------------------------------------------------------------------------------------------------------
+  45828535 SEDANO MERCADO FIORELLA GLORIA              4957431         13368.4
+Productos entregados:    QJO-060    XSD-310    AVM-258    TZY-323    YMU-875 
+------------------------------------------------------------------------------------------------------------------------
+  44229880 PALOMARES BARRIOS EDWARD CESAR            887564400         4322.58
+Productos entregados:    JXD-139    SNY-500    HLR-109 
+------------------------------------------------------------------------------------------------------------------------
+  59162728 HUAYANAY CORTES GLENDA MARINA             960688828          1695.7
+Productos entregados:    FEG-454 
+------------------------------------------------------------------------------------------------------------------------
+  88995291 PEREZ TORRES MILAGROS REBECA              960731274         1411.06
+Productos entregados:    MTF-868    HLR-109 
+------------------------------------------------------------------------------------------------------------------------
+  73914283 CASANOVA CARBAJAL RICARDO ISRAEL            5786088         8500.84
+Productos entregados:    OBI-353    BRD-969    OBI-353 
+------------------------------------------------------------------------------------------------------------------------
+  44679500 CORREA ARCA HELI                            3659359          800.37
+Productos entregados:    AWB-345 
+------------------------------------------------------------------------------------------------------------------------
+  59407188 CANALES MOYA ALONSO JULIO                 957111009          5011.7
+Productos entregados:    BIT-434    OWN-701    RDT-761    LYZ-614 
+------------------------------------------------------------------------------------------------------------------------
+  27635082 CONTRERAS GUEVARA MARINA                  984517554               0
+Productos entregados: NO SE LE ENTREGARON PRODUCTOS
+------------------------------------------------------------------------------------------------------------------------
+  54716824 VALVERDE SEGURA MIGUEL JOSE               968948630         7765.58
+Productos entregados:    SPR-580    UDR-957    ZEX-027    CRU-009 
+------------------------------------------------------------------------------------------------------------------------
+  40112594 CARO RARAZ CHRISTIAN RONAL                  4538089         6134.95
+Productos entregados:    KSO-608    BCK-361    EBI-299    FVQ-662 
+------------------------------------------------------------------------------------------------------------------------
+  37110873 VERGEL HIJAR JESUS                          8271950         12213.8
+Productos entregados:    SSD-176    QUU-384    YZD-580    GXF-122    UWA-476    FCN-617    VDD-853 
+------------------------------------------------------------------------------------------------------------------------
+  83505958 CONTRERAS MEZA ERIKA BLANCA                 3913878          1425.5
+Productos entregados:    TYF-885    EJW-346    MQR-442 
+------------------------------------------------------------------------------------------------------------------------
+  85871751 AYALA LAURA JANET                         933420698          1506.8
+Productos entregados:    MYC-756 
+------------------------------------------------------------------------------------------------------------------------
+  11602775 HIJAR ARCA ADOLFO                         904695641         15356.7
+Productos entregados:    CIM-038    JJN-837    XLF-273    YYK-309    JJN-837    TMJ-043 
+------------------------------------------------------------------------------------------------------------------------
+  86402303 RUIZ RUIZ OFELIA DELIA                    972026581          5842.3
+Productos entregados:    OQI-373    OQI-373    RBE-789    HFM-021 
+------------------------------------------------------------------------------------------------------------------------
+  23928045 ARCA VILCA RONALD                           5399501         18318.8
+Productos entregados:    TMN-884    OXP-732    TKM-141    LWG-915 
+------------------------------------------------------------------------------------------------------------------------
+  12663268 BARRERA FLORES ENRIQUE                    891999690         4987.23
+Productos entregados:    AHB-459    YYU-726    XSD-310    RAH-420    BMJ-772    QFP-254 
+------------------------------------------------------------------------------------------------------------------------
+  42928709 HERNANDEZ MALCA VIRGINIA                    6822015         7938.36
+Productos entregados:    NSM-283    OQI-373    XLF-273    QFP-254    QIL-029    GLC-370 
+------------------------------------------------------------------------------------------------------------------------
+  85949265 LEYVA GONZALES CINTHIA                    947841946         7631.11
+Productos entregados:    JFC-432    TMJ-043    YUQ-590    VRR-793    LDR-510 
+------------------------------------------------------------------------------------------------------------------------
+  17972674 PISCOYA PORTUGAL WALDEMAR GUSTAVO           7133680         4485.51
+Productos entregados:    ZWF-661    UWA-476    UTN-601 
+------------------------------------------------------------------------------------------------------------------------
+  38913831 FUENTES TSUKAZAN PATRICIA OFELIA          950215881         6724.92
+Productos entregados:    BCN-855    YZD-580    JFC-432    FLW-631 
+------------------------------------------------------------------------------------------------------------------------
+  36008913 CASTILLO ZAMORA VICTOR NESTOR             985923364         3736.75
+Productos entregados:    HFC-845 
+------------------------------------------------------------------------------------------------------------------------
+  49087435 GALLO MARTINEZ VICTOR GUILLERMO             3714856         10888.8
+Productos entregados:    VDD-853    BCK-361    SJQ-827    PJG-338    XZR-640    AFL-718    III-576 
+------------------------------------------------------------------------------------------------------------------------
+  58187172 SUAREZ ZIMIC MOISES                       882248669         1161.19
+Productos entregados:    KBY-991    VXS-438 
+------------------------------------------------------------------------------------------------------------------------
+  69324480 FLORES IPARRAGUIRRE HENRRY RICARDO        993711730         4447.49
+Productos entregados:    JCW-489    UOD-420    VXS-438    DIQ-718    VJI-529 
+------------------------------------------------------------------------------------------------------------------------
+  32565207 RIVERA ZARATE MARINA                        2654996         9064.61
+Productos entregados:    IDO-503    UXG-019    FVQ-662    TKM-141    ZWF-661 
+------------------------------------------------------------------------------------------------------------------------
+  71463316 PRADO CALIXTO KARIN                       998998403         11764.3
+Productos entregados:    AWT-354    KCO-488    EBI-299    UWA-476    QFP-254    BCN-855 
+------------------------------------------------------------------------------------------------------------------------
+  86828079 PRECIADO ADAMS ERIKA DELIA                884791387         5779.87
+Productos entregados:    QIL-029    MQR-442    YGV-332 
+------------------------------------------------------------------------------------------------------------------------
+  29337157 VIZCARDO YEP GUIDA YOLANDA                908273495         7691.68
+Productos entregados:    QHC-492    ZEX-027    HFM-021    WZD-331 
+------------------------------------------------------------------------------------------------------------------------
+  32904023 PRADO FORZANI LOURDES                       4053489         9109.61
+Productos entregados:    DUG-251    KJX-387    QFP-254    RBE-789    SAM-013    KQQ-136 
+------------------------------------------------------------------------------------------------------------------------
+  28390487 IPARRAGUIRRE PAREDES RAUL                 967488454          552.24
+Productos entregados:    GLC-370 
+------------------------------------------------------------------------------------------------------------------------
+  98589725 FORZANI ANTEZANO OSCAR JOSE               894689292          241.71
+Productos entregados:    VRR-793 
+------------------------------------------------------------------------------------------------------------------------
+  77484838 EPIQUEN ALAMO NANCY                       941780448         9077.98
+Productos entregados:    UWA-476    BTO-226    AFL-718    UDR-957    YUQ-590    YGV-332 
+------------------------------------------------------------------------------------------------------------------------
+  88956889 CHUMPITAZ CARBAJAL MARITZA                935335997         6906.21
+Productos entregados:    TMN-884    YUQ-590    HFM-021    UWA-476    MYC-756    UWA-476 
+------------------------------------------------------------------------------------------------------------------------
+  89863424 SANTISTEBAN BRAVO EDGARD                  990095135         8534.35
+Productos entregados:    SSE-115    FVB-607    OTH-462    QRC-609 
+------------------------------------------------------------------------------------------------------------------------
+  99842319 MARTINEZ MARTINEZ CARMELA                   5042430         2414.39
+Productos entregados:    DUG-251    ZAF-449 
+------------------------------------------------------------------------------------------------------------------------
+  98140264 ALAMO ZEGARRA ISRAEL GUSTAVO              990418360         8389.59
+Productos entregados:    DFF-034    BRD-969    QHC-492    CJE-310 
+------------------------------------------------------------------------------------------------------------------------
+  69639726 ROJAS PATINO GONZALO JAIR                 930532818         1728.17
+Productos entregados:    OPT-996    DON-719 
+------------------------------------------------------------------------------------------------------------------------
+  93160528 SANTISTEBAN MARTEL MARTIN LUIS            945101047         7628.23
+Productos entregados:    YYU-726    BRD-969    QTK-083    DUG-251 
+------------------------------------------------------------------------------------------------------------------------
+  24995742 MEREL TAVERA WALTER                         8695140         5358.73
+Productos entregados:    KCO-488    YMU-875    DON-719    BWD-036 
+------------------------------------------------------------------------------------------------------------------------
+  43043986 LOZADA VALVERDE MOISES HENRRY               8816113         5685.06
+Productos entregados:    ZEX-027    QFP-254    SSD-176    TXM-139 
+------------------------------------------------------------------------------------------------------------------------
+  52097922 CUBA DURAND YVONNE                          3509438         8848.67
+Productos entregados:    ISU-815    OWN-701    GBD-525    UTN-601    XSD-310    MMA-577    XZG-521 
+------------------------------------------------------------------------------------------------------------------------
+
