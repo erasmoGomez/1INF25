@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     
     for(map<string,Hero>::iterator it=map_hero.begin();it!=map_hero.end();it++){
         cout<<"Name: "<<it->first<<"   ";
-        cout<<it->second;
+        cout<<(it->second).GetAtt()<<endl;
     }
     
     map<string,Hero>::iterator itt1;
