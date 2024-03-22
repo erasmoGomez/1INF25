@@ -7,7 +7,7 @@
 using namespace std;
 ostream & operator << (ostream & out, const struct Persona & p){
     
-    cout<<left<<setw(ANCHO/3)<<p.dni<<left<<setw(ANCHO/3)<<p.nombre;
-    cout<<left<<setw(ANCHO/3)<<p.talla<<endl;
+    out<<left<<setw(ANCHO/3)<<p.dni<<left<<setw(ANCHO/3)<<p.nombre;
+    out<<left<<setw(ANCHO/3)<<p.talla<<endl;
     return out;
 }
