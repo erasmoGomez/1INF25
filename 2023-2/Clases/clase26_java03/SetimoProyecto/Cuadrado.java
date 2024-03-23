@@ -5,8 +5,8 @@ class Cuadrado extends Figura{
 	
 	@Override
 	public void calcularArea(){
-		System.out.println("Figura: Cuadrado (" + identificacion + ")");
+		System.out.println("Figura: Cuadrado (" + getIdentificacion() + ")");
 		System.out.println("Formula = Base x Altura");
-		System.out.println("Area = "+ base*altura);		
+		System.out.println("Area = "+ getBase()*getAltura());		
 	}
 }
