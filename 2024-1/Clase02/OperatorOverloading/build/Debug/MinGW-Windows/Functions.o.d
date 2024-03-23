@@ -1,6 +1,10 @@
-build/Debug/MinGW-Windows/Functions.o: Functions.cpp Functions.hpp \
- Utils.hpp
+build/Debug/MinGW-Windows/Functions.o: Functions.cpp Sobrecargas.hpp \
+ Utils.hpp Persona.hpp Functions.hpp
 
-Functions.hpp:
+Sobrecargas.hpp:
 
 Utils.hpp:
+
+Persona.hpp:
+
+Functions.hpp:

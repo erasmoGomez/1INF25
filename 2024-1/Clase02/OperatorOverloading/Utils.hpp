@@ -13,7 +13,7 @@
 
 #ifndef UTILS_HPP
 #define UTILS_HPP
-#define ANCHO 60
+#define ANCHO 80
 #include <iostream>
 #include <fstream>
 #include <iomanip>

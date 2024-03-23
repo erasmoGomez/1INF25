@@ -5,21 +5,20 @@
  */
 
 /* 
- * File:   Persona.hpp
+ * File:   Utils.hpp
  * Author: ASUS
  *
- * Created on March 20, 2024, 8:12 AM
+ * Created on March 22, 2024, 11:51 AM
  */
 
-#ifndef PERSONA_HPP
-#define PERSONA_HPP
+#ifndef UTILS_HPP
+#define UTILS_HPP
 
-struct Persona{
-    int dni;
-    char name[50];
-    double height;
-    double weight;
-};
+#define ANCHO 80
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cstring>
 
-#endif /* PERSONA_HPP */
+#endif /* UTILS_HPP */
 

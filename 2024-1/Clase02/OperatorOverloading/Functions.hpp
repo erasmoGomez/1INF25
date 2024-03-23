@@ -15,10 +15,14 @@
 #define FUNCTIONS_HPP
 
 #include "Utils.hpp"
+#include "Persona.hpp"
 using namespace std;
 
 int add(int = 7, int = 10);
 void add_headers();
+void add_headers(ofstream &);
+void read_people(ifstream &, Persona *);
+void display_people(ofstream &, Persona *);
 
 #endif /* FUNCTIONS_HPP */
 

@@ -8,7 +8,7 @@
  * File:   Sobrecargas.hpp
  * Author: ASUS
  *
- * Created on March 20, 2024, 8:20 AM
+ * Created on March 22, 2024, 11:49 AM
  */
 
 #ifndef SOBRECARGAS_HPP
@@ -20,5 +20,6 @@ using namespace std;
 ostream & operator << (ostream &, const struct Persona &);
 ofstream & operator << (ofstream &, const struct Persona &);
 ifstream & operator >> (ifstream &, struct Persona &);
+
 #endif /* SOBRECARGAS_HPP */
 

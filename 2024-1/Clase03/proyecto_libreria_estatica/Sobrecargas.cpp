@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 #include "Sobrecargas.hpp"
 using namespace std;
 ostream & operator << (ostream & out, const struct Persona & p){
