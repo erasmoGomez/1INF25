@@ -26,9 +26,15 @@ ifstream & operator >> (ifstream & in, struct Persona & p){
     char extra, name[50];
     double weight, height;
     in>>dni>>extra;
+    
     in>>name>>weight>>height;
     strcpy(p.name,name);
     p.dni = dni;
+    /*
+     * if(extra == 'A'){
+     *  weight = weight*1.1;
+     * }
+     */
     p.height = height;
     p.weight = weight;
     return in;
