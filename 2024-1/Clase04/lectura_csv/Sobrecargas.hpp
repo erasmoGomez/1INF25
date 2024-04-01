@@ -16,7 +16,8 @@
 #include "Utils.hpp"
 #include "Persona.hpp"
 using namespace std;
-ifstream & operator >> (ifstream &, struct Persona &);
+// ifstream & operator >> (ifstream &, struct Persona &);
+bool operator >> (ifstream &, struct Persona &);
 ostream & operator << (ostream & out, const struct Persona & p);
 #endif /* SOBRECARGAS_HPP */
 

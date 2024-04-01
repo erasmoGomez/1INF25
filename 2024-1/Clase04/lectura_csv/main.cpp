@@ -33,20 +33,20 @@ int main(int argc, char** argv) {
     
     while(input>>personas[n++]);
     
-    n = 0;
-    while(input>>p){
-        personas[n] = p;
-        n++;
-    }
+//    n = 0;
+//    while(input>>p){
+//        personas[n] = p;
+//        n++;
+//    }
+//    
+//    while(true){
+//        if(input>>p){
+//            personas[n] = p;
+//            n++;
+//        } 
+//    }
     
-    while(true){
-        if(input>>p){
-            personas[n] = p;
-            n++;
-        } 
-    }
-    
-    for(int i=0; i<n; i++) cout<<personas[i];
+    for(int i=0; i<n-1; i++) cout<<personas[i];
     return 0;
 }
 
