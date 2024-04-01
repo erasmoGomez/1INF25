@@ -39,7 +39,7 @@ char ** read_list_hashtags(ifstream & input) {
 
 void read_tweets(int * & dates,
         char ** & messages,
-        char ** * & hashtags_messages,
+        char *** & hashtags_messages,
         const char * filename) {
     int buffer_dates[20]{}, tweets_size = 0, date;
     char * buffer_messages[20]{};
@@ -56,7 +56,7 @@ void read_tweets(int * & dates,
         input >> date;
         if (input.eof()) break;
         input.get(); //Para leer la coma
-        buffer_dates[tweets_size] = date;
+        buffer_dates[tweets_size] = date; //OK
         buffer_messages[tweets_size] = read_message(input); //Asignar un char*
         buffer_hashtags_messages[tweets_size] = read_list_hashtags(input);
         tweets_size++;
