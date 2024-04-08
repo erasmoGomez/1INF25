@@ -15,7 +15,7 @@ char * read_hashtag(ifstream &input){
 }
 
 char * read_message(ifstream & input) {
-    char buffer[100];
+    char buffer[100]{};
     char * message;
     input.getline(buffer, 100, ','); //Just saw the most beautiful sunset today!\0
     message = new char[strlen(buffer) + 1]; //Reserva de memoria
@@ -58,7 +58,7 @@ void read_tweets(int * & dates,
         input.get(); //Para leer la coma
         buffer_dates[tweets_size] = date; //OK
         buffer_messages[tweets_size] = read_message(input); //Asignar un char*
-        buffer_hashtags_messages[tweets_size] = read_list_hashtags(input);
+            buffer_hashtags_messages[tweets_size] = read_list_hashtags(input);
         tweets_size++;
     }
     //Devolver la informacion completa en arreglos con MEMORIA EXACTA
