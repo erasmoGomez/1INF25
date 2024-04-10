@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     read_tweets(dates,tweets, "tweets.csv");
     read_hashtags(dates,hashtags, "hashtags.csv");
     display_tweets(dates, tweets, hashtags, "reporte.txt");
-    // sort_tweets(dates, tweets, hashtags);
+    sort_tweets(dates, tweets, hashtags);
     display_tweets(dates, tweets, hashtags, "reporte_ordenado.txt");
     return 0;
 }

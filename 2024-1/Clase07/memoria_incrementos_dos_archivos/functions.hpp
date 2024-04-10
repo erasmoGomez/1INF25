@@ -24,5 +24,7 @@ int lookup(int , int*);
 char * read_str(ifstream & );
 void read_tweets(int *&, char**&, const char *);
 void sort_tweets(int*, char**, char***);
+void quick_sort(int*, char**, char***, int, int);
+void swap2(int &, int &,char *&, char*&, char**&, char**&);
 #endif /* FUNCTIONS_HPP */
 
