@@ -128,31 +128,31 @@ void display_tweets(int *dates, char**tweets, char***hashtags, const char *filen
 void sort_tweets(int* dates, char**tweets, char***hashtags){
     int n = 0;
     while(dates[n]) n++;
-    quick_sort(dates, tweets, hashtags, 0 /*indice izq*/, n-1 /*indice der*/);
+    quick_sort(dates, tweets, hashtags,0 /*Indice izquierdo*/, n-1 /*indice derecho*/);
+    
 }
 
 void quick_sort(int*dates, char**tweets, char***hashtags, int izq, int der){
-    int pivote, limit;
+    int limit, pivot;
     if(izq >= der) return;
-    pivote = (izq + der) / 2;
-    swap2(dates[izq], dates[pivote], tweets[izq], tweets[pivote], hashtags[izq], hashtags[pivote]);
+    pivot = (izq + der)/2;
+    swap2(dates[izq], dates[pivot], tweets[izq],tweets[pivot],hashtags[izq],hashtags[pivot]);
     limit = izq;
-    for(int i = izq +1 ; i<=der; i++){
-        //Se coloca el criterio para los swaps
-        if(strcmp(tweets[i],tweets[izq])<0){
+    for(int i=izq+1; i<=der; i++){
+        if(strcmp(tweets[i], tweets[izq])<0){ //Alfabeticamente tweets
             limit++;
-            swap2(dates[limit], dates[i], tweets[limit], tweets[i], hashtags[limit], hashtags[i]);
+            swap2(dates[limit], dates[i], tweets[limit],tweets[i],hashtags[limit],hashtags[i]);
         }
     }
-    swap2(dates[izq], dates[limit], tweets[izq], tweets[limit], hashtags[izq], hashtags[limit]);
-    quick_sort(dates, tweets, hashtags, izq, limit -1);
+    swap2(dates[limit], dates[izq], tweets[limit],tweets[izq],hashtags[limit],hashtags[izq]);
+    quick_sort(dates, tweets, hashtags, izq, limit - 1);
     quick_sort(dates, tweets, hashtags, limit + 1, der);
 }
 
 void swap2(int &date1, int &date2,char *&tweet1, char*&tweet2, char**&hashtags1, char**&hashtags2){
     int aux_date;
-    char * aux_tweet;
-    char ** aux_hashtags;
+    char *aux_tweet;
+    char **aux_hashtags;
     
     aux_date = date1;
     date1 = date2;
