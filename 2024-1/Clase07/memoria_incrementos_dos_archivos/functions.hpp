@@ -21,7 +21,7 @@ void display_tweets(int *, char**, char***, const char *);
 void reserva_memoria_incrementos(int *&,char**&,int &,int &);
 void reserva_memoria_incrementos(char**&,int &,int &);
 int lookup(int , int*);
-char * read_str(ifstream & );
+char * read_str(ifstream & , char = '\n');
 void read_tweets(int *&, char**&, const char *);
 void sort_tweets(int*, char**, char***);
 void quick_sort(int*, char**, char***, int, int);

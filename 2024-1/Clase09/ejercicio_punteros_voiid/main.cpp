@@ -21,7 +21,11 @@ using namespace std;
 int main(int argc, char** argv) {
     void* tweets;
     load_tweets(tweets, "tweets.csv");
+    display_tweets(tweets);
     load_hashtags(tweets, "hashtags.csv");
+    display_tweets(tweets);
+    calc_stats(tweets);
+    display_tweets(tweets);
     return 0;
 }
 

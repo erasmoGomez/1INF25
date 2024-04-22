@@ -17,7 +17,8 @@
 #include <fstream>
 #include <cstring>
 #include <iomanip>
-enum reg_tweet {CREATEDAT, TWEET};
+enum reg_tweet {CREATEDAT, TWEET, HASHTAGS, TOTAL};
+enum reg_hashtag {HASHTAG, FOLLOWERS};
 #define INCREMENTO 5
 
 #endif /* UTILS_HPP */
