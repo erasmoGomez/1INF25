@@ -26,6 +26,9 @@ int main(int argc, char** argv) {
     display_tweets(tweets);
     calc_stats(tweets);
     display_tweets(tweets);
+    sort2(tweets);
+    display_tweets(tweets);
+    delete_tweets(tweets);
     return 0;
 }
 
