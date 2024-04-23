@@ -17,7 +17,7 @@
 using namespace std;
 void load_tweets(void *&, const char *);
 void load_hashtags(void *&, const char *);
-void display_tweeets(void *, const char *);
+void display_tweets(void *, const char *);
 char * read_str(ifstream & , char = '\n');
 void add_hashtag(ifstream &input, void* t, int &n, int&c);
 void *read_hashtag(ifstream &input);

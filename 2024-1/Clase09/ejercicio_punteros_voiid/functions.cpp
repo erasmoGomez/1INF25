@@ -172,8 +172,8 @@ void display_tweet(ofstream & out, void *t){
     }
 }
 
-void display_tweets(void* t){
-    ofstream out("reporte.txt", ios::out);
+void display_tweets(void* t, const char*filename){
+    ofstream out(filename, ios::out);
     void** tweets = (void**)t;
     for(int i = 0; tweets[i]; i++)
         display_tweet(out,tweets[i]);

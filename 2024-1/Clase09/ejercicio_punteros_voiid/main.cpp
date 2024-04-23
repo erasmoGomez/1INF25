@@ -21,13 +21,13 @@ using namespace std;
 int main(int argc, char** argv) {
     void* tweets;
     load_tweets(tweets, "tweets.csv");
-    display_tweets(tweets);
+    display_tweets(tweets, "lee_tweets.txt");
     load_hashtags(tweets, "hashtags.csv");
-    display_tweets(tweets);
+    display_tweets(tweets, "lee_hashtags.txt");
     calc_stats(tweets);
-    display_tweets(tweets);
+    display_tweets(tweets, "calcula_stats.txt");
     sort2(tweets);
-    display_tweets(tweets);
+    display_tweets(tweets, "ordena_tweets.txt");
     delete_tweets(tweets);
     return 0;
 }
