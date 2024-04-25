@@ -77,7 +77,7 @@ int cmp_void_str(const void *a, const void *b){
     void**ai = (void**)a;
     void**bi = (void**)b;
     void**registro_a = (void**)(*ai);
-    void**registro_b = (void**)(*bi);
+    void**registro_b = (void**)(bi[0]);
     char*tweet_a,*tweet_b;
     tweet_a = (char*)registro_a[TWEET];
     tweet_b = (char*)registro_b[TWEET];
