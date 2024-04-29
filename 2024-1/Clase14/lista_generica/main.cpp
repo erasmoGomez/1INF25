@@ -21,8 +21,9 @@ using namespace std;
 int main(int argc, char** argv) {
     void* lista_registros;
     void* lista_enteros;
-    crear_lista(lista_registros, leer_registro, cmp_registro);
-    crear_lista(lista_enteros, leer_enteros, cmp_enteros);
+    crear_lista(lista_registros, leer_registro, cmp_registro_str);
+    //crear_lista(lista_enteros, leer_enteros, cmp_enteros);
+    imprime_lista(lista_registros, imprime_registro);
     return 0;
 }
 

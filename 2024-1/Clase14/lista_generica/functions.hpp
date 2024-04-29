@@ -15,11 +15,14 @@
 #define FUNCTIONS_HPP
 #include "utils.hpp"
 using namespace std;
-void crear_lista(void*, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*));
+void crear_lista(void*&, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*));
 void* leer_registro(ifstream&);
 void* leer_enteros(ifstream&);
-int cmp_registro(const void*, const void*);
+int cmp_registro_str(const void*, const void*);
 int cmp_enteros(const void*, const void*);
+void insertar(void *, void*&, int(*)(const void*, const void*));
+void imprime_lista(void *, void (*)(void*));
+void imprime_registro(void*);
 
 #endif /* FUNCTIONS_HPP */
 
