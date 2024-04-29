@@ -1,0 +1,14 @@
+    220562  AMEZQUITA CONTRERAS HUMBERTO ALFONSO                 6531.87
+    530367  CABRERA MORENO DELIA ESTEFANIA                      16625.40
+    140158  CALIXTO TORRES MIGUEL                               12363.22
+    870138  CASTILLO MEJIA GUSTAVO ALONSO                       32878.35
+    640279  CESAR JAIME RODRIGUEZ SERRANO                        3289.50
+    250612  CHUNG ZUNIGA ZKENIA IRMA                            23672.50
+    510907  FLORENCIO POLO FIORELLA ERIKA                        6220.00
+    514787  JOLAY CHUMPITAZ WALTER                               7328.23
+    378708  SAENZ ARANDA WILMER                                 23455.60
+    919777  TABORI ARIAS ROSARIO                                 2172.12
+    350118  VILCARA JUGO JULIO                                   9283.80
+    275448  ZAMORA CABRERA CARMEN                               87254.92
+    349213  ZARATE URBINA DELIA                                  2353.90
+

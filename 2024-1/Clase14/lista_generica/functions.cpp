@@ -41,6 +41,11 @@ void* leer_registro(ifstream& input) {
 
 }
 
+int cmp_registro_str_qsort(const void*a, const void*b) {
+
+}
+
+
 int cmp_registro_str(const void*a, const void*b) {
     void **regI = (void**) a, **regK = (void**) b; //apuntamos al registro
     char*nombreI = (char*) regI[NOM];
@@ -53,25 +58,27 @@ int cmp_enteros(const void*, const void*) {
 }
 
 void insertar(void *dato, void*&lista, int(*cmp)(const void*, const void*)) {
-    void **p = (void**) lista, **ant = nullptr;
+    //Incializar
+    void **rec = (void**) lista, **ant = nullptr;
     void **nuevo;
-    nuevo = new void*[2];
+    nuevo = new void*[2]{};
     nuevo[DATO] = dato;
-    while (p) {
-        if (cmp(p[DATO], dato) > 0)break;
-        ant = p;
-        p = (void**)(p[SIG]);
+    //Insertar ordenado
+    while (rec) {
+        if (cmp(rec[DATO], dato) > 0)break;
+        ant = rec;
+        rec = (void**)(rec[SIG]);
     }
     //Hacer conexiones
-    nuevo[SIG] = p;
+    nuevo[SIG] = rec;
     if (ant == nullptr)
         lista = nuevo;
     else
         ant[SIG] = nuevo;
 }
 
-void crear_lista(void*&lista, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*)) {
-    ifstream input("personal.csv");
+void crear_lista(const char* filename, void*&lista, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*)) {
+    ifstream input(filename,ios::in);    
     lista = nullptr;
     void* dato;
     while (true) {
@@ -81,22 +88,56 @@ void crear_lista(void*&lista, void*(*lee)(ifstream&), int(*cmp)(const void*, con
     }
 }
 
-void imprime_lista(void *lst, void (*imprime)(void*)) {
-    void **lista = (void **) lst;
-    while (lista) {
-        imprime(lista[DATO]);
-        lista = (void **) (lista[SIG]);
+void imprime_lista(const char *filename,void *lst, void (*imprime)(ofstream&, void*)) {
+    ofstream output(filename, ios::out);
+    void **rec = (void **) lst;
+    while (rec) {
+        imprime(output, rec[DATO]);
+        rec = (void **) (rec[SIG]);
     }
-    cout << endl;
+    output << endl;
 }
 
-void imprime_registro(void*a) {
+void imprime_registro(ofstream &output,void*a) {
     void **reg = (void**) a; //apuntamos al registro 
     int* codigo = (int*) reg[COD];
     char*nombre = (char*) reg[NOM];
     double*sueldo = (double*) reg[SUE];
-    cout.precision(2);
-    cout << fixed;
-    cout << setw(10) << *codigo << "  " << left << setw(50) << nombre 
+    output.precision(2);
+    output << fixed;
+    output << setw(10) << *codigo << "  " << left << setw(50) << nombre 
             << right << setw(10) << *sueldo << endl;
+}
+
+void eliminar_lista(void*l, void(*elimina)(void*)){
+    void ** rec = (void **)l, **nodo_sale;
+    while(rec){
+        nodo_sale = rec;
+        elimina(rec[DATO]);
+        rec = (void**)(rec[SIG]);
+        delete nodo_sale;
+    }
+}
+
+//void eliminar_lista_codigo(void*l, void(*elimina)(void*), int codigo_eliminar){
+//    void ** rec = (void **)l, **nodo_sale = nullptr;
+//    while(rec){
+//        if(comparar_para_eliminar(rec[DATO], codigo_eliminar) break;
+//        nodo_sale = rec;
+//        rec = (void**)(rec[SIG]);
+//    }
+//    nodo_sale[SIG] = rec[SIG];
+//    if(rec[DATO])
+//        elimina(rec[DATO]);
+//}
+
+void eliminar_reegistro(void*l){
+    void **reg = (void**)l;
+    int* codigo = (int*) reg[COD];
+    char*nombre = (char*) reg[NOM];
+    double*sueldo = (double*) reg[SUE];
+    delete codigo;
+    delete nombre;
+    delete sueldo;
+    delete reg;
 }
