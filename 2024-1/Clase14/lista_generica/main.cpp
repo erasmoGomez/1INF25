@@ -11,7 +11,7 @@
  * Created on April 25, 2024, 7:58 AM
  */
 
-#include <cstdlib>
+#include "functions.hpp"
 
 using namespace std;
 
@@ -19,7 +19,8 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    void* lista;
+    crear_lista(lista, leer_registro, cmp_registro);
     return 0;
 }
 
