@@ -6,11 +6,17 @@
 
 #include "functions.hpp"
 
-void* leer_enteros(ifstream&){
-    
+void* leer_enteros(ifstream& input){
+    //Codigo 123456
+    int codigo, *registro;
+    input>>codigo;
+    if(input.eof())return nullptr;
+    registro = new int;
+    *registro = codigo;
+    return registro;
 }
 
-void* leer_registro(ifstream&input){
+void* leer_registro(ifstream& input){
     int *codigo, cod;
     char *nombre, buffer[60];
     double *sueldo;
@@ -39,6 +45,29 @@ int cmp_registro(const void*, const void*){
     
 }
 
+
+int cmp_enteros(const void*, const void*){
+    
+}
+
+void insertar(void *dato, void*&lista, int(*cmp)(const void*, const void*)){
+    void **p = (void**)lista, **ant=nullptr; 
+    void **nuevo;
+    nuevo = new void*[2];
+    while(p){
+        if(cmp(p[DATO],dato)>0)break;
+        ant = p;
+        p = (void**)p[SIG];        
+    }
+    //Hacer conexiones
+    nuevo[SIG] = p;
+    if(ant == nullptr)
+        lista = nuevo;
+    else
+        ant[SIG] = nuevo;
+    
+}
+
 void crear_lista(void*lista, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*)){
     ifstream input("personal.csv");
     lista = nullptr;
@@ -46,6 +75,6 @@ void crear_lista(void*lista, void*(*lee)(ifstream&), int(*cmp)(const void*, cons
     while(true){
         dato = lee(input);
         if(input.eof())break;
-        insertar(dato, lista, cmp);
+        //insertar(dato, lista, cmp);
     }
 }

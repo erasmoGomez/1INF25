@@ -17,7 +17,9 @@
 using namespace std;
 void crear_lista(void*, void*(*lee)(ifstream&), int(*cmp)(const void*, const void*));
 void* leer_registro(ifstream&);
+void* leer_enteros(ifstream&);
 int cmp_registro(const void*, const void*);
+int cmp_enteros(const void*, const void*);
 
 #endif /* FUNCTIONS_HPP */
 

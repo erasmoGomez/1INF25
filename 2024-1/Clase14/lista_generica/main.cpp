@@ -19,8 +19,10 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    void* lista;
-    crear_lista(lista, leer_registro, cmp_registro);
+    void* lista_registros;
+    void* lista_enteros;
+    crear_lista(lista_registros, leer_registro, cmp_registro);
+    crear_lista(lista_enteros, leer_enteros, cmp_enteros);
     return 0;
 }
 
