@@ -26,6 +26,9 @@ int main(int argc, char** argv) {
     
 //crear_lista(lista_enteros, leer_enteros, cmp_enteros);
     imprime_lista("lista_personal.txt",lista_registros, imprime_registro);
+    //imprime_lista("lista_enteros.txt",lista_enteros, imprime_enteros);
+    
+    eliminar_lista(lista_registros, elimina_registro);
     //qsort();
     return 0;
 }

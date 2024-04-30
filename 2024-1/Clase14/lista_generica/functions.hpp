@@ -23,6 +23,7 @@ int cmp_enteros(const void*, const void*);
 void insertar(void *, void*&, int(*)(const void*, const void*));
 void imprime_lista(const char*, void *, void (*)(ofstream&, void*));
 void imprime_registro(ofstream&, void*);
-
+void eliminar_lista(void*, void(*)(void*));
+void elimina_registro(void*l);
 #endif /* FUNCTIONS_HPP */
 

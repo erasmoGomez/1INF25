@@ -84,7 +84,7 @@ void crear_lista(const char* filename, void*&lista, void*(*lee)(ifstream&), int(
     while (true) {
         dato = lee(input);
         if (input.eof())break;
-        insertar(dato, lista, cmp);
+        insertar(dato, lista, cmp);//La funcion insertar construye el Nodo con el dato.
     }
 }
 
@@ -123,15 +123,15 @@ void eliminar_lista(void*l, void(*elimina)(void*)){
 //    void ** rec = (void **)l, **nodo_sale = nullptr;
 //    while(rec){
 //        if(comparar_para_eliminar(rec[DATO], codigo_eliminar) break;
-//        nodo_sale = rec;
 //        rec = (void**)(rec[SIG]);
 //    }
+//    nodo_sale = rec;
 //    nodo_sale[SIG] = rec[SIG];
 //    if(rec[DATO])
 //        elimina(rec[DATO]);
 //}
 
-void eliminar_reegistro(void*l){
+void elimina_registro(void*l){
     void **reg = (void**)l;
     int* codigo = (int*) reg[COD];
     char*nombre = (char*) reg[NOM];
