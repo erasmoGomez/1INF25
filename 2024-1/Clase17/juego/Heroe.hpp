@@ -5,14 +5,16 @@
  */
 
 /* 
- * File:   hero.hpp
+ * File:   Heroe.hpp
  * Author: ASUS
  *
- * Created on April 30, 2024, 9:08 PM
+ * Created on May 7, 2024, 9:46 AM
  */
 
-#ifndef HERO_HPP
-#define HERO_HPP
+#ifndef HEROE_HPP
+#define HEROE_HPP
+#include "Utils.hpp"
+using namespace std;
 class Heroe{
 private:
     char *nombre;
@@ -21,13 +23,8 @@ private:
     int posx;
     int posy;
 public:
-    Heroe(); //Constructor por defecto
-    Heroe(const char*, int); //Constructor con parametros
-    Heroe(const Heroe&); // Constructor Copia
-    virtual ~Heroe(); //Destructor
-    void crear();
-    void mover(int, int, double);
-    void curar(int);
+    Heroe();
+    void leer(ifstream &);
     void mostrar();
     void setPosy(int posy);
     int getPosy() const;
@@ -40,5 +37,8 @@ public:
     void setNombre(const char*);
     void getNombre(char*) const;
 };
-#endif /* HERO_HPP */
+
+void operator>>(ifstream&, Heroe&);
+
+#endif /* HEROE_HPP */
 

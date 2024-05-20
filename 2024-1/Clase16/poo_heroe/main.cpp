@@ -10,6 +10,9 @@
  *
  * Created on April 30, 2024, 9:07 PM
  */
+#include <iostream>
+#include <cstring>
+#include <iomanip>
 #include "hero.hpp"
 
 using namespace std;
@@ -18,18 +21,41 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    class Heroe annie;
-    annie.crear_heroe();
-    annie.mostrar();
-    annie.curar(200);
-    annie.mostrar();
-    //annie.hp+=200; no se puede hacer x q no se tiene acceso al atributo privado HP
-    annie.mover(100, -50, 3.5);
-    annie.mostrar();
+//    class Heroe h1;
+//    h1.crear();
+//    h1.mostrar();
+//    h1.curar(500);
+//    h1.mostrar();
+//    h1.mover(50, -75, 33.5);
+//    h1.mostrar();
+//    h1.setHp(10);
+//    h1.mostrar();
+//    int hp_h1 = h1.getHp();
+//    cout<<"HP get: "<< h1.getHp()<<endl;
+//    
+//    h1.setNombre("Erasmo");
+//    char* nombre;
+//    h1.getNombre(nombre);
+//    cout<<nombre<<endl;
+//    class Heroe h2;
+//    h2.mostrar();
     
-//    class Heroe teemo;
-//    teemo.crear_heroe();
-//    teemo.mostrar();
+    Heroe h3;
+    cout<<h3.getHp()<<endl;
+    Heroe h4("Miguel Guanira", 9000);
+    h4.mostrar();
+    
+    char nombre[20];
+    h4.setNombre("Rony Cueva");
+    h4.getNombre(nombre);
+    cout<<nombre<<endl;
+    
+    class Heroe h5; //Aqui llamo automaticamente al constructor por defecto.
+    cout<<h5.getHp()<<endl;
+    
+    class Heroe h6("Tone", 100);
+    h6.mostrar();
+
     return 0;
 }
 
