@@ -1,0 +1,171 @@
+DNI: 54393647
+Nombre: Reyes Tang Edward 
+
+DNI: 67066631
+Nombre: Arca Amezquita Edric Ronald
+
+DNI: 32231860
+Nombre: Cerna Hijar Jose Rolando
+
+DNI: 14500753
+Nombre: Delgado Gonzales Guillermo Alfonso
+
+DNI: 26916299
+Nombre: Chung Lee Alvaro 
+
+DNI: 87804471
+Nombre: Diaz Antezano Magali Silvana
+
+DNI: 81462164
+Nombre: Fernandez Ortega Elizabeth Elizabeth
+
+DNI: 37500242
+Nombre: Pinto Calixto Shirley 
+
+DNI: 45834351
+Nombre: Santisteban Meza Rosa 
+
+DNI: 35030611
+Nombre: Cabrera Luna Shirley Isabel
+
+DNI: 81082011
+Nombre: Shirakawa Ortega Angel 
+
+DNI: 92240876
+Nombre: Mejia Diaz Blanca Milagros
+
+DNI: 45181396
+Nombre: Cerna Durand Martin 
+
+DNI: 45002711
+Nombre: Landeo Sueldo Adolfo 
+
+DNI: 96056368
+Nombre: Raffo Chung Adria Gloria
+
+DNI: 38724322
+Nombre: Inga Flores Cesar Adolfo
+
+DNI: 60740809
+Nombre: Lozada Yino Martha 
+
+DNI: 49516360
+Nombre: Mendoza Egusquiza Rosario 
+
+DNI: 34460612
+Nombre: Morales Valverde Ines Martha
+
+DNI: 11750801
+Nombre: Raffo Arias Surami Annie
+
+DNI: 85870289
+Nombre: Paredes Patino Christian 
+
+DNI: 20449598
+Nombre: Velasquez Huayanay Edgard Henry
+
+DNI: 72832218
+Nombre: Vega Garcia Janet Rebeca
+
+DNI: 66747161
+Nombre: Vasquez Paz Alex Martin
+
+DNI: 88080249
+Nombre: Coronel Chumpitaz Heli 
+
+DNI: 61212473
+Nombre: Forzani Caro Alonso 
+
+DNI: 21344013
+Nombre: Aquino Toro Valentina Rocio
+
+DNI: 76693511
+Nombre: Laura Wong Melvin Henrry
+
+DNI: 79743481
+Nombre: Salas Aguero Daniel 
+
+DNI: 61039260
+Nombre: Cerna Pairazaman Fiorella Margot
+
+DNI: 14142586
+Nombre: Piscoya Bravo Cesar Bruno
+
+DNI: 36699613
+Nombre: Mejia De La Haza Francisco Edgar
+
+DNI: 14268463
+Nombre: Diaz Correa Irma Virginia
+
+DNI: 33958767
+Nombre: Perez Farfan Richard Sandro
+
+DNI: 86898639
+Nombre: Pasquel Quio Surami Janet
+
+DNI: 20610190
+Nombre: Auris Zimic Javier Daniel
+
+DNI: 65071478
+Nombre: Arroyo Gordillo Maria Heli
+
+DNI: 63602514
+Nombre: Shirakawa Miranda Madeleine 
+
+DNI: 51235238
+Nombre: Prado Falcon Edgar Richard
+
+DNI: 37751890
+Nombre: Romero Palomares Gloria Tatiana
+
+DNI: 46582367
+Nombre: Justino Forzani Ericka Victoria
+
+DNI: 27109544
+Nombre: Henriquez Espino Beatriz 
+
+DNI: 17750908
+Nombre: Chumpitaz Iberos Ronal 
+
+DNI: 66152145
+Nombre: Hernandez Barrios Emilio 
+
+DNI: 42302422
+Nombre: Maldonado Ramirez Silvana 
+
+DNI: 37328103
+Nombre: Palomares Vera Henrry Humberto
+
+DNI: 48053960
+Nombre: Corrales Tsukazan Irma Lourdes
+
+DNI: 83265244
+Nombre: Wong Martel Madeleine 
+
+DNI: 50860318
+Nombre: Salazar Corrales Lorena Irma
+
+DNI: 87570336
+Nombre: Pairazaman Alamo Moises Miguel
+
+DNI: 47659552
+Nombre: Prado Vergel Carlos Julian
+
+DNI: 57431952
+Nombre: Castro Suarez Rolando 
+
+DNI: 58717040
+Nombre: Cabrera Canales Guillermo Edric
+
+DNI: 33583840
+Nombre: Villa Yallico Tatiana Nancy
+
+DNI: 15129661
+Nombre: Valverde Flores Irma Ydali
+
+DNI: 65830353
+Nombre: Caro Polo Sandro 
+
+DNI: 69200503
+Nombre: Norabuena Preciado Cinthia 
+

@@ -1,0 +1,1335 @@
+Libro: IIM5175
+Nombre: Diamantes y pedernales
+Autor: Jose Maria Arguedas
+Stock: 2
+
+Libro: YDK7687
+Nombre: El otonio del patriarca
+Autor: Gabriel Garcia Marquez
+Stock: 60
+
+Libro: ZOY6470
+Nombre: El viejo y el mar
+Autor: Hernest Hemingway
+Stock: 25
+
+Libro: ETZ8565
+Nombre: Confesiones de una mascara
+Autor: Yukio Mishima
+Stock: 27
+
+Libro: LQL0880
+Nombre: Contra el fascismo
+Autor: Umberto Eco
+Stock: 34
+
+Libro: VFZ9435
+Nombre: El olor de la Edad Media
+Autor: Javier Traite
+Stock: 49
+
+Libro: SFZ1256
+Nombre: La Iliada
+Autor: Homero
+Stock: 34
+
+Libro: EDQ0577
+Nombre: Las aventuras de Pinocho
+Autor: Carlo Collodi
+Stock: 27
+
+Libro: YJI3961
+Nombre: Cien anios de soledad
+Autor: Gabriel Garcia Marquez
+Stock: 45
+
+Libro: VPN5351
+Nombre: El Amante
+Autor: Ana Maria Moix
+Stock: 27
+
+Libro: PVS2464
+Nombre: Sapiens
+Autor: Yuval Noah Harari
+Stock: 18
+
+Libro: DVL7760
+Nombre: Falco
+Autor: Arturo Perez-Reverte
+Stock: 57
+
+Libro: QRH6838
+Nombre: Las cronicas de Narnia
+Autor: C. S. Lewis
+Stock: 43
+
+Libro: LDL2628
+Nombre: Harry Potter y el caliz de fuego (Harry Potter 4)
+Autor: J.K. Rowling
+Stock: 3
+
+Libro: SBU9053
+Nombre: Tierra arrasada
+Autor: Alfredo Gonzalez Ruibal
+Stock: 34
+
+Libro: ZJM1292
+Nombre: El suenio del celta
+Autor: Mario Vargas Llosa
+Stock: 52
+
+Libro: CRA4157
+Nombre: El forastero misterioso
+Autor: Mark Twain
+Stock: 39
+
+Libro: RII8346
+Nombre: Las dos Dianas
+Autor: Alejandro Dumas
+Stock: 23
+
+Libro: JBR9372
+Nombre: El maestro de esgrima
+Autor: Arturo Perez-Reverte
+Stock: 60
+
+Libro: NEO9165
+Nombre: Emperador de Roma
+Autor: Mary Beard
+Stock: 65
+
+Libro: TBZ2657
+Nombre: Olalla
+Autor: Robert Louis Stevenson
+Stock: 5
+
+Libro: IBP7411
+Nombre: Nunca
+Autor: Ken Follett
+Stock: 40
+
+Libro: GPH1575
+Nombre: La gran aventura de los griegos
+Autor: Javier Negrete
+Stock: 3
+
+Libro: XIU2628
+Nombre: Cabo Trafalgar
+Autor: Arturo Perez-Reverte
+Stock: 21
+
+Libro: DDT0017
+Nombre: Viaje al fin de la noche
+Autor: Louis Ferdinand Celine
+Stock: 38
+
+Libro: ILG7766
+Nombre: Iliada
+Autor: Homero
+Stock: 7
+
+Libro: HGQ0131
+Nombre: Odisea
+Autor: Homero
+Stock: 22
+
+Libro: HLB4548
+Nombre: Frankenstein o el moderno Prometeo
+Autor: Mary W. Shelley
+Stock: 18
+
+Libro: SQB7146
+Nombre: Cronica de una muerte anunciada
+Autor: Gabriel Garcia Marquez
+Stock: 31
+
+Libro: VHK9148
+Nombre: Historia y cronologia del mundo
+Autor: Isaac Asimov
+Stock: 63
+
+Libro: MVU0233
+Nombre: La conspiracioni
+Autor: Dan Brown
+Stock: 60
+
+Libro: KWL0415
+Nombre: 1923
+Autor: Roberto Villa Garcia
+Stock: 24
+
+Libro: WPU8819
+Nombre: Tristam Shandy
+Autor: Laurence Sterne
+Stock: 47
+
+Libro: JTX5687
+Nombre: Veinte mil leguas de viaje submarino
+Autor: Julio Verne
+Stock: 29
+
+Libro: HCT8192
+Nombre: Diario
+Autor: Ana FranK
+Stock: 63
+
+Libro: OMN0252
+Nombre: Los hermanos Karamazov
+Autor: Fiodor Dostoyevski
+Stock: 42
+
+Libro: CKC4095
+Nombre: El Gran Gatsby
+Autor: F. Scott Fitzgerald
+Stock: 26
+
+Libro: JLQ6546
+Nombre: El retorno del Rey
+Autor: J.R.R.Tolkien
+Stock: 37
+
+Libro: MSW8176
+Nombre: Todo se desmorona
+Autor: Chinua Achebe
+Stock: 23
+
+Libro: TDY0497
+Nombre: La chica del tren
+Autor: Paula Hawkins
+Stock: 40
+
+Libro: NBL8415
+Nombre: Espania con honra
+Autor: Daniel Aquillue
+Stock: 50
+
+Libro: IMC3155
+Nombre: Los pilares de la tierra
+Autor: Ken Follett
+Stock: 35
+
+Libro: FWK6327
+Nombre: El doble
+Autor: Fiodor Dostoyevski
+Stock: 24
+
+Libro: GQC1814
+Nombre: Apocalipticos e integrados
+Autor: Umberto Eco
+Stock: 26
+
+Libro: PRD1648
+Nombre: Relato de un naufrago
+Autor: Gabriel Garcia Marquez
+Stock: 10
+
+Libro: SBF7018
+Nombre: El handicap de la vida
+Autor: Rudyard Kipling
+Stock: 2
+
+Libro: LVP3355
+Nombre: Las aventuras de Sherlock Holmes
+Autor: Arthur Conan Doyle
+Stock: 35
+
+Libro: FBO8724
+Nombre: El pendulo de Foucault
+Autor: Umberto Eco
+Stock: 64
+
+Libro: WCZ0845
+Nombre: El cementerio de Praga
+Autor: Umberto Eco
+Stock: 5
+
+Libro: WOF6634
+Nombre: El problema final
+Autor: Arturo Perez-Reverte
+Stock: 64
+
+Libro: CUV7849
+Nombre: Ficciones
+Autor: Jorge Luis Borges
+Stock: 50
+
+Libro: VMW6915
+Nombre: Travesuras de la ninia mala
+Autor: Mario Vargas Llosa
+Stock: 12
+
+Libro: MBQ9495
+Nombre: Tormenta de espadas
+Autor: George R.R.Martin
+Stock: 27
+
+Libro: LQA8555
+Nombre: Rimas y leyendas
+Autor: Gustavo Adolfo Becquer
+Stock: 14
+
+Libro: IMK4892
+Nombre: La tabla de Flandes
+Autor: Arturo Perez-Reverte
+Stock: 21
+
+Libro: QCA9584
+Nombre: Dr. Jekyll y Mr. Hyde
+Autor: Robert Louis Stevenson
+Stock: 27
+
+Libro: XJT3661
+Nombre: Las aventuras de Tom Sawye
+Autor: Mark Twain
+Stock: 65
+
+Libro: THT4126
+Nombre: Harry Potter y las reliquias de la muerte (Harry Potter 7)
+Autor: J. K. Rowling
+Stock: 15
+
+Libro: PZP7176
+Nombre: La caida de los gigantes
+Autor: Ken Follett
+Stock: 28
+
+Libro: UQL8643
+Nombre: Dracula
+Autor: Bram Stoker
+Stock: 23
+
+Libro: RLQ7170
+Nombre: El tango de la guardia vieja
+Autor: Arturo Perez-Reverte
+Stock: 65
+
+Libro: KTA8754
+Nombre: Ulises
+Autor: James Joyce
+Stock: 22
+
+Libro: TOJ1764
+Nombre: Ensayo sobre la ceguera
+Autor: Jose Saramago
+Stock: 40
+
+Libro: GWE4133
+Nombre: El gato negro y otros cuentos
+Autor: Edgar Allan Poe
+Stock: 64
+
+Libro: ZPD6557
+Nombre: El ruido y la furia
+Autor: William Faulkner
+Stock: 10
+
+Libro: IUG2294
+Nombre: El proceso
+Autor: Franz Kafka
+Stock: 17
+
+Libro: WGA2754
+Nombre: El club Dumas
+Autor: Arturo Perez-Reverte
+Stock: 8
+
+Libro: YJE2497
+Nombre: Progreso del peregrino
+Autor: John Bunyan
+Stock: 65
+
+Libro: XCC4070
+Nombre: El italiano
+Autor: Arturo Perez-Reverte
+Stock: 16
+
+Libro: OBD2849
+Nombre: El invierno del mundo
+Autor: Ken Follett
+Stock: 51
+
+Libro: UCJ9882
+Nombre: El reino de este mundo
+Autor: Alejo Carpentier
+Stock: 20
+
+Libro: QVU3526
+Nombre: Vidas intrepidas
+Autor: Julio Albi de la Cuesta
+Stock: 45
+
+Libro: VTY5195
+Nombre: Un asunto de honor
+Autor: Arturo Perez-Reverte
+Stock: 48
+
+Libro: FKK6524
+Nombre: Los renglones torcidos de Dios
+Autor: Torcuato Luca de Tena
+Stock: 36
+
+Libro: KPE7420
+Nombre: Jane Eyre
+Autor: Charlotte Brontë
+Stock: 31
+
+Libro: MWB2923
+Nombre: Mudlarking
+Autor: Lara Maiklem
+Stock: 55
+
+Libro: ISY5671
+Nombre: Harry Potter y la piedra filosofal (Harry Potter 1)
+Autor: J. K. Rowling
+Stock: 23
+
+Libro: NBE1339
+Nombre: Palmeras en la nieve
+Autor: Luz Gabas
+Stock: 20
+
+Libro: JHP0390
+Nombre: El conde de Montecristo
+Autor: Alexandre Dumas
+Stock: 5
+
+Libro: OWU1533
+Nombre: Cuatro principes
+Autor: John Julius Norwich
+Stock: 31
+
+Libro: SFR1226
+Nombre: Ana la de las tejas verdes
+Autor: Lucy Maud Montgomery
+Stock: 2
+
+Libro: HRT0664
+Nombre: Los funerales de la Mama Grande
+Autor: Gabriel Garcia Marquez
+Stock: 42
+
+Libro: HPP3360
+Nombre: El pintor de batallas
+Autor: Arturo Perez-Reverte
+Stock: 53
+
+Libro: DND9446
+Nombre: Lo que el viento se llevo
+Autor: Margaret Mitchell
+Stock: 58
+
+Libro: LJD9991
+Nombre: Baudolino
+Autor: Umberto Eco
+Stock: 6
+
+Libro: XIU6076
+Nombre: Rebelion en la granja
+Autor: George Orwell
+Stock: 40
+
+Libro: PWX7633
+Nombre: La tia Julia y el escribidor
+Autor: Mario Vargas Llosa
+Stock: 40
+
+Libro: UXZ2187
+Nombre: Los 7 habitos de la gente altamente efectiva
+Autor: Stephen R. Covey
+Stock: 35
+
+Libro: UEJ1235
+Nombre: Grandes esperanzas
+Autor: Charles Dickens
+Stock: 64
+
+Libro: DDQ0721
+Nombre: En busca del tiempo perdido
+Autor: Marcel Proust
+Stock: 50
+
+Libro: HWM4049
+Nombre: Romper el circulo
+Autor: Colleen Hoover
+Stock: 61
+
+Libro: EWI3090
+Nombre: La seniora Dalloway
+Autor: Virginia Woolf
+Stock: 17
+
+Libro: JZC7527
+Nombre: El tambor de hojalata
+Autor: Gunter Grass
+Stock: 2
+
+Libro: WYE2119
+Nombre: El asedio
+Autor: Arturo Perez-Reverte
+Stock: 46
+
+Libro: YKQ9278
+Nombre: Alicia en el pais de las maravillas
+Autor: Lewis Carroll
+Stock: 23
+
+Libro: ZNF2241
+Nombre: El extranio caso del Dr. Jekyll y Mr. Hyde
+Autor: Robert Louis Stevenson
+Stock: 47
+
+Libro: CTW5846
+Nombre: El medievo cristiano
+Autor: Mario Merlino
+Stock: 2
+
+Libro: FWP8469
+Nombre: Justine o los infortunios
+Autor: Charles Dickens
+Stock: 31
+
+Libro: CRY6839
+Nombre: Ricardo III
+Autor: William Shakespeare
+Stock: 43
+
+Libro: WMN3648
+Nombre: Pasaje a la India
+Autor: E. M. Forster
+Stock: 4
+
+Libro: QBL9575
+Nombre: Los miserables
+Autor: Victor Hugo
+Stock: 53
+
+Libro: VOI0019
+Nombre: El evangelio según Jesucristo
+Autor: Jose Saramago
+Stock: 52
+
+Libro: TMR5068
+Nombre: Los tres mosqueteros
+Autor: Alejandro Dumas
+Stock: 52
+
+Libro: RWW7975
+Nombre: El nombre de la rosa
+Autor: Umberto Eco
+Stock: 47
+
+Libro: LJE6687
+Nombre: El codigo Da Vinci
+Autor: Dan Brown
+Stock: 34
+
+Libro: PPI9259
+Nombre: Revolucion
+Autor: Arturo Perez-Reverte
+Stock: 55
+
+Libro: ZYF6683
+Nombre: Harry Potter y la Orden del Fenix ( Harry Potter 5)
+Autor: J. K. Rowling
+Stock: 27
+
+Libro: GKG6581
+Nombre: Hombres buenos
+Autor: Arturo Perez-Reverte
+Stock: 44
+
+Libro: WWT1581
+Nombre: La piel del tambor
+Autor: Arturo Perez-Reverte
+Stock: 57
+
+Libro: CMP1150
+Nombre: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Stock: 27
+
+Libro: CPE5718
+Nombre: Paris era una fiesta
+Autor: Hernest Hemingway
+Stock: 50
+
+Libro: SHF2360
+Nombre: Un dia de colera
+Autor: Arturo Perez-Reverte
+Stock: 10
+
+Libro: ETV5056
+Nombre: Moby Dick
+Autor: Herman Melville
+Stock: 31
+
+Libro: USE5598
+Nombre: Fortaleza digitali
+Autor: Dan Brown
+Stock: 38
+
+Libro: TVR7016
+Nombre: El corazon de las tinieblas
+Autor: Joseph Conrad
+Stock: 32
+
+Libro: BSX2922
+Nombre: Una historia de Espania
+Autor: Arturo Perez-Reverte
+Stock: 1
+
+Libro: GXB5722
+Nombre: Cumbres borrascosas
+Autor: Emily Brontë
+Stock: 45
+
+Libro: ZLE2920
+Nombre: Historia de la Edad Media
+Autor: Indro Montanelli
+Stock: 28
+
+Libro: MNL3677
+Nombre: El Hobbit
+Autor: J.R.R. Tolkien
+Stock: 41
+
+Libro: ZAL2738
+Nombre: 1984
+Autor: George Orwell
+Stock: 34
+
+Libro: PQZ1316
+Nombre: La Eneida
+Autor: Virgilio
+Stock: 48
+
+Libro: DDU0764
+Nombre: Dioses tumbas y sabios
+Autor: C. W. Ceram
+Stock: 7
+
+Libro: EEJ4830
+Nombre: El Principito
+Autor: Antoine de Saint-Exupery
+Stock: 52
+
+Libro: DPZ8059
+Nombre: El hombre que pudo reinar
+Autor: Rudyard Kipling
+Stock: 22
+
+Libro: JJV7549
+Nombre: Los hombres que no amaban a las mujeres
+Autor: Stieg Larsson
+Stock: 21
+
+Libro: JXK3142
+Nombre: En el camino
+Autor: Jack Kerouac
+Stock: 51
+
+Libro: USM9579
+Nombre: El perfume
+Autor: Patrick Suskind
+Stock: 22
+
+Libro: JGG5049
+Nombre: El eterno marido
+Autor: Fiodor Dostoyevski
+Stock: 53
+
+Libro: MIK5358
+Nombre: La transformacion del mundo
+Autor: Jürgen Osterhammel
+Stock: 30
+
+Libro: BDK4183
+Nombre: La isla del tesoro
+Autor: Robert Louis Stevenson
+Stock: 30
+
+Libro: ECT0289
+Nombre: Juego de tronos
+Autor: George R.R.Martin
+Stock: 9
+
+Libro: DVR5984
+Nombre: Mil soles esplendidos
+Autor: Khaled Hosseini
+Stock: 24
+
+Libro: EBE0042
+Nombre: Capitanes intrepidos
+Autor: Rudyard Kipling
+Stock: 39
+
+Libro: CXW5879
+Nombre: Los barcos se pierden en tierra
+Autor: Arturo Perez-Reverte
+Stock: 51
+
+Libro: GOG7446
+Nombre: El guardian entre el centeno
+Autor: J. D. Salinger
+Stock: 57
+
+Libro: QYH7021
+Nombre: Historia del siglo XX: 1914-1991
+Autor: Eric Hobsbawm
+Stock: 2
+
+Libro: KCI5219
+Nombre: El Maestro y Margarita
+Autor: Mijail Bulgakov
+Stock: 21
+
+Libro: FMX8255
+Nombre: Las aventuras de Huckleberry Finn
+Autor: Mark Twain
+Stock: 55
+
+Libro: ZQY9966
+Nombre: El suenio del tio
+Autor: Fiodor Dostoyevski
+Stock: 30
+
+Libro: DXP8640
+Nombre: El retrato de Dorian Gray
+Autor: Oscar Wilde
+Stock: 62
+
+Libro: LRV5687
+Nombre: La guerra del fin del mundo
+Autor: Mario Vargas Llosa
+Stock: 64
+
+Libro: EBT7258
+Nombre: Linea de fuego
+Autor: Arturo Perez-Reverte
+Stock: 5
+
+Libro: ELC8965
+Nombre: Las aventuras de Rocambole
+Autor: Ponson Du Terrail
+Stock: 38
+
+Libro: ULM8751
+Nombre: La sumisa
+Autor: Fiodor Dostoyevski
+Stock: 8
+
+Libro: PGK5617
+Nombre: El Rey Lear
+Autor: William Shakespeare
+Stock: 36
+
+Libro: QFG6515
+Nombre: El libro de la selva
+Autor: Rudyard Kipling
+Stock: 60
+
+Libro: QVX9089
+Nombre: Madame Bovary
+Autor: Gustave Flaubert
+Stock: 28
+
+Libro: QMI4747
+Nombre: La isla de los amores infinitos
+Autor: Daina Chaviano
+Stock: 26
+
+Libro: SMW0186
+Nombre: La sombra del viento
+Autor: Carlos Ruiz Zafon
+Stock: 65
+
+Libro: HSE3213
+Nombre: Por quien doblan las campanas
+Autor: Hernest Hemingway
+Stock: 20
+
+Libro: RZX8790
+Nombre: El senior de las moscas
+Autor: William Golding
+Stock: 23
+
+Libro: XMT1768
+Nombre: Los diarios de Adan y Eva
+Autor: Mark Twain
+Stock: 21
+
+Libro: HGN9910
+Nombre: La ciudad y los perros
+Autor: Mario Vargas Llosa
+Stock: 62
+
+Libro: JNC0786
+Nombre: Mi isla
+Autor: Elisabet Benavent
+Stock: 46
+
+Libro: HHR5161
+Nombre: El francotirador paciente
+Autor: Arturo Perez-Reverte
+Stock: 23
+
+Libro: FNM6936
+Nombre: Divina comedia
+Autor: Dante Alighieri
+Stock: 50
+
+Libro: HVZ1228
+Nombre: El húsar
+Autor: Arturo Perez-Reverte
+Stock: 43
+
+Libro: MKB4184
+Nombre: Napoleon
+Autor: Alejandro Dumas
+Stock: 65
+
+Libro: KBF4088
+Nombre: Harry Potter y el prisionero de Azkaban (Harry Potter 3)
+Autor: J.K. Rowling
+Stock: 24
+
+Libro: ZQD4253
+Nombre: Harry Potter y el misterio del principe ( Harry Potter 6)
+Autor: J. K. Rowling
+Stock: 64
+
+Libro: PHL4155
+Nombre: El idiota
+Autor: Fiodor Dostoyevski
+Stock: 20
+
+Libro: EYV0597
+Nombre: Cuentos de la selva
+Autor: Horacio Quiroga
+Stock: 2
+
+Libro: AKU9740
+Nombre: Conversacion en La Catedral
+Autor: Mario Vargas Llosa
+Stock: 31
+
+Libro: ACM9578
+Nombre: Amadis de gaula
+Autor: Garci Rodriguez Montalvo
+Stock: 33
+
+Libro: OCI8959
+Nombre: David Copperfield
+Autor: Charles Dickens
+Stock: 65
+
+Libro: EJE8138
+Nombre: Yawar fiesta
+Autor: Jose Maria Arguedas
+Stock: 16
+
+Libro: WHU1288
+Nombre: La hija italiana
+Autor: Soraya Lane
+Stock: 14
+
+Libro: ICU6090
+Nombre: La fiesta del chivo
+Autor: Mario Vargas Llosa
+Stock: 14
+
+Libro: BUC5125
+Nombre: El faro de Stalingrado
+Autor: Iain MacGregor
+Stock: 26
+
+Libro: BUY4915
+Nombre: La sombra del aguila
+Autor: Arturo Perez-Reverte
+Stock: 22
+
+Libro: USK1312
+Nombre: Un mundo sin fin
+Autor: Ken Follett
+Stock: 50
+
+Libro: VFO4193
+Nombre: La catedral del mar
+Autor: Ildefonso Falcones
+Stock: 20
+
+Libro: OWO8918
+Nombre: Origen
+Autor: Dan Brown
+Stock: 60
+
+Libro: YZV6954
+Nombre: Corazon de las tinieblas
+Autor: Joseph Conrad
+Stock: 30
+
+Libro: CLG5566
+Nombre: Pantaleon y las visitadoras
+Autor: Mario Vargas Llosa
+Stock: 1
+
+Libro: IUI3314
+Nombre: El coronel no tiene quien le escriba
+Autor: Gabriel Garcia Marquez
+Stock: 32
+
+Libro: EFD3949
+Nombre: La divina comedia
+Autor: Dante Alighieri
+Stock: 26
+
+Libro: FVV9246
+Nombre: Matar a un ruisenior
+Autor: Harper Lee
+Stock: 54
+
+Libro: SPM4763
+Nombre: Eva
+Autor: Arturo Perez-Reverte
+Stock: 18
+
+Libro: BHD6079
+Nombre: Zorba el griego
+Autor: Nikos Kazantzakis
+Stock: 10
+
+Libro: RYI5447
+Nombre: El corazon es un cazador solitario
+Autor: Carson Mccullers
+Stock: 14
+
+Libro: BUB3833
+Nombre: Otelo
+Autor: William Shakespeare
+Stock: 11
+
+Libro: EUO8195
+Nombre: El jardin del Eden
+Autor: Hernest Hemingway
+Stock: 11
+
+Libro: KSX7995
+Nombre: El simbolo perdidoi
+Autor: Dan Brown
+Stock: 8
+
+Libro: MTZ2227
+Nombre: Hamlet
+Autor: William Shakespeare
+Stock: 42
+
+Libro: JSM8271
+Nombre: La Odisea
+Autor: Homero
+Stock: 53
+
+Libro: KVL6246
+Nombre: La edad media - barbaros - cristianos y musulmanes
+Autor: Umberto Eco
+Stock: 19
+
+Libro: QMJ4188
+Nombre: Emma
+Autor: Jane Austen
+Stock: 20
+
+Libro: QKH2262
+Nombre: Fiesta
+Autor: Hernest Hemingway
+Stock: 23
+
+Libro: HXB2949
+Nombre: El medico
+Autor: Noah Gordon
+Stock: 32
+
+Libro: OBH4691
+Nombre: Crimen y castigo
+Autor: Fiodor Dostoyevski
+Stock: 62
+
+Libro: IPE3429
+Nombre: Sidi
+Autor: Arturo Perez-Reverte
+Stock: 49
+
+Libro: ILA4795
+Nombre: La ladrona de libros
+Autor: Markus ZusaK
+Stock: 39
+
+Libro: EFQ0297
+Nombre: Trampa 22
+Autor: Joseph Heller
+Stock: 31
+
+Libro: BRG4234
+Nombre: La telarania de Carlota
+Autor: E. B. White
+Stock: 15
+
+Libro: EZP0333
+Nombre: La Reina del Sur
+Autor: Arturo Perez-Reverte
+Stock: 60
+
+Libro: MBB0685
+Nombre: El capitan Alatriste
+Autor: Arturo Perez-Reverte
+Stock: 25
+
+Libro: CST1133
+Nombre: Inferno
+Autor: Dan Brown
+Stock: 10
+
+Libro: RNG2321
+Nombre: El Aleph
+Autor: Jorge Luis Borges
+Stock: 36
+
+Libro: RSK1164
+Nombre: El amor en los tiempos del colera
+Autor: Gabriel Garcia Marquez
+Stock: 24
+
+Libro: WYS2674
+Nombre: Secuestrado
+Autor: Robert Louis Stevenson
+Stock: 54
+
+Libro: CRR5443
+Nombre: Un mundo feliz
+Autor: Aldous Huxley
+Stock: 29
+
+Libro: JEN0751
+Nombre: Ana Karenina
+Autor: Leon Tolstoi
+Stock: 51
+
+Libro: IGT8523
+Nombre: Una columna de fuego
+Autor: Ken Follett
+Stock: 20
+
+Libro: FYV9055
+Nombre: Macbeth
+Autor: William Shakespeare
+Stock: 42
+
+Libro: LGB2311
+Nombre: Decameron
+Autor: Giovanni Boccaccio
+Stock: 7
+
+Libro: MEH2993
+Nombre: Hijos de un tiempo perdido
+Autor: Jose Maria Bermúdez de Castro
+Stock: 5
+
+Libro: CJN4376
+Nombre: Harry Potter y la camara secreta (Harry Potter 2)
+Autor: J. K. Rowling
+Stock: 7
+
+Libro: ION3794
+Nombre: Crepúsculo
+Autor: Stephenie Meyer
+Stock: 46
+
+Libro: HDA2333
+Nombre: Lituma en los Andes
+Autor: Mario Vargas Llosa
+Stock: 51
+
+Libro: CKR6798
+Nombre: El lobo estepario
+Autor: Hermann Hesse
+Stock: 49
+
+Libro: GDA4236
+Nombre: Gente normal
+Autor: Sally Rooney
+Stock: 62
+
+Libro: BAP2859
+Nombre: El túnel
+Autor: Ernesto Sabato
+Stock: 5
+
+Libro: EHX6253
+Nombre: La isla de las tormentas
+Autor: Ken Follett
+Stock: 7
+
+Libro: OUU5470
+Nombre: La carta esferica
+Autor: Arturo Perez-Reverte
+Stock: 25
+
+Libro: PQB0775
+Nombre: El diablo de la botella y otros cuentos
+Autor: Robert Louis Stevenson
+Stock: 29
+
+Libro: DEF7625
+Nombre: Las uvas de la ira
+Autor: John SteinbecK
+Stock: 19
+
+Libro: UDS2730
+Nombre: Los Nibelungos
+Autor: Anonimo
+Stock: 23
+
+Libro: DTH6788
+Nombre: Los perros duros no bailan
+Autor: Arturo Perez-Reverte
+Stock: 20
+
+Libro: KLV1872
+Nombre: Orgullo y prejuicio
+Autor: Jane Austen
+Stock: 53
+
+Libro: BUT4998
+Nombre: Lolita
+Autor: Vladimir Nabokov
+Stock: 28
+
+Libro: XBC5847
+Nombre: Tiempos recios
+Autor: Mario Vargas Llosa
+Stock: 33
+
+Libro: AZL1098
+Nombre: El extranjero
+Autor: Albert Camus
+Stock: 65
+
+Libro: BZY0235
+Nombre: Fausto
+Autor: Johann Wolfgang Von Goethe
+Stock: 22
+
+Libro: QQQ4712
+Nombre: Nuestra Seniora de Paris
+Autor: Victor Hugo
+Stock: 58
+
+Libro: BTX3816
+Nombre: El jugador
+Autor: Fiodor Dostoyevski
+Stock: 54
+
+Libro: MLC7198
+Nombre: Los rios profundos
+Autor: Jose Maria Arguedas
+Stock: 7
+
+Libro: JZU0977
+Nombre: El alquimista
+Autor: Paulo Coelho
+Stock: 62
+
+Libro: AGQ7769
+Nombre: La Flecha Negra
+Autor: Robert Louis Stevenson
+Stock: 50
+
+Libro: BXE0974
+Nombre: Los viajes de Gulliver
+Autor: Jonathan Swift
+Stock: 63
+
+Libro: UFK9792
+Nombre: El psicoanalista
+Autor: John Katzenbach
+Stock: 39
+
+Libro: XRL3393
+Nombre: Le dedico mi silencio
+Autor: Mario Vargas Llosa
+Stock: 45
+
+Libro: GUN8655
+Nombre: Angeles y demoniosi
+Autor: Dan Brown
+Stock: 52
+
+Libro: NGQ6935
+Nombre: La casa de los espiritus
+Autor: Isabel Allende
+Stock: 58
+
+Libro: PWB4941
+Nombre: La montania magica
+Autor: Thomas Mann
+Stock: 63
+
+Libro: NEW1762
+Nombre: Territorio comanche
+Autor: Arturo Perez-Reverte
+Stock: 21
+
+Libro: QHZ8547
+Nombre: Adios a las armas
+Autor: Hernest Hemingway
+Stock: 50
+
+Libro: PCS8992
+Nombre: Y no quedo ninguno
+Autor: Agatha Christie
+Stock: 31
+
+Libro: VFI8064
+Nombre: A sangre fria
+Autor: Truman Capote
+Stock: 25
+
+Libro: XTM9385
+Nombre: El mundo
+Autor: Simon Sebag Montefiore
+Stock: 64
+
+Libro: VDL9379
+Nombre: Los juegos del hambre
+Autor: Suzanne Collins
+Stock: 34
+
+Libro: IFL0150
+Nombre: Romeo y Julieta
+Autor: William Shakespeare
+Stock: 63
+
+Libro: JZQ8143
+Nombre: Suenios de robot
+Autor: Isaac Asimov
+Stock: 31
+
+Libro: SXT1015
+Nombre: Mientras agonizo
+Autor: William Faulkner
+Stock: 1
+
+Libro: KGO1734
+Nombre: Una historia del mundo
+Autor: Andrew Marr
+Stock: 15
+
+Libro: SMI7078
+Nombre: Los cachorros
+Autor: Mario Vargas Llosa
+Stock: 27
+
+Libro: RAO4129
+Nombre: Stalingrado
+Autor: Jonathan Trigg
+Stock: 18
+
+Libro: VYG3594
+Nombre: Los demonios
+Autor: Fiodor Dostoyevski
+Stock: 3
+
+Libro: HLC2748
+Nombre: El senior de los anillos (Trilogia)
+Autor: J.R.R.Tolkien
+Stock: 30
+
+Libro: GJM4671
+Nombre: Origenes
+Autor: Lewis Dartnell
+Stock: 36
+
+Libro: VYK6352
+Nombre: Armas germenes y acero
+Autor: Jared Diamond
+Stock: 34
+
+Libro: VSG3432
+Nombre: Bajo bandera negra
+Autor: David Cordingly
+Stock: 9
+
+Libro: OQK1590
+Nombre: Cometas en el cielo
+Autor: Khaled Hosseini
+Stock: 4
+
+Libro: JXC1015
+Nombre: Robinson Crusoe
+Autor: Daniel Defoe
+Stock: 58
+
+Libro: TAB4639
+Nombre: El color que cayo del cielo
+Autor: H. P. Lovecraft
+Stock: 43
+
+Libro: YXF2137
+Nombre: En agosto nos vemos
+Autor: Gabriel Garcia Marquez
+Stock: 35
+
+Libro: SIR3963
+Nombre: Memorias de una geisha
+Autor: Arthur Golden
+Stock: 34
+
+Libro: ALH8812
+Nombre: Guerra y Paz
+Autor: Leon Tolstoi
+Stock: 50
+
+Libro: UCA0857
+Nombre: SPQR: una historia de la antigua Roma
+Autor: Mary Beard
+Stock: 10
+
+Libro: KLO8691
+Nombre: Catedral
+Autor: Raymond Carver
+Stock: 26
+
+Libro: HPM0950
+Nombre: Fahrenheit 451
+Autor: Ray Bradbury
+Stock: 43
+
+Libro: JOF6762
+Nombre: Ojos azules
+Autor: Arturo Perez-Reverte
+Stock: 43
+
+Libro: DEK2757
+Nombre: En llamas
+Autor: Suzanne Collins
+Stock: 2
+
+Libro: RRE8138
+Nombre: Trilogia de la Fundacion
+Autor: Isaac Asimov
+Stock: 44
+
+Libro: JKE9650
+Nombre: La metamorfosis
+Autor: Franz Kafka
+Stock: 44
+
+Libro: BZX4462
+Nombre: Culpa mia
+Autor: Mercedes Ron
+Stock: 37
+
+Libro: NFP3266
+Nombre: Sabotaje
+Autor: Arturo Perez-Reverte
+Stock: 4
+
