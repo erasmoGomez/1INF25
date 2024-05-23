@@ -31,6 +31,8 @@ public:
     void carga_mapa();
     void carga_heroes();
     void colocar_heroes();
+    int conseguir_indice(char);
+    void pintar();
 };
 
 #endif /* JUEGOI_HPP */

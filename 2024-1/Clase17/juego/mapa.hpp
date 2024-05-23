@@ -27,6 +27,7 @@ public:
     Mapa();
     void leer(ifstream &);
     void mostrar();
+    void inicializar();
     void operator+=(Heroe);
 };
 

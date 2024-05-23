@@ -36,6 +36,15 @@ public:
     int getHp() const;
     void setNombre(const char*);
     void getNombre(char*) const;
+    
+    //heroe++ W
+    void operator++(int);
+    //++heroe S
+    void operator++();
+    //heroe-- D
+    void operator--(int);
+    //--heroe A
+    void operator--();
 };
 
 void operator>>(ifstream&, Heroe&);

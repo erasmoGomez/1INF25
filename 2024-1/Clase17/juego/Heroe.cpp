@@ -65,6 +65,28 @@ void Heroe::leer(ifstream &input){
     setNombre(buffer);
 }
 
+void Heroe::operator++(int){
+    //W
+    //setPosx(this->posx-1);
+    setPosx(posx-1);
+    //setPosx(getPosx()-1);
+}
+
+void Heroe::operator++(){
+    //S
+    setPosx(posx+1);
+}
+
+void Heroe::operator--(int){
+    //D
+    setPosy(posy+1);
+}
+
+void Heroe::operator--(){
+    //A
+    setPosy(posy-1);
+}
+
 void operator>>(ifstream& input, Heroe& h){
     h.leer(input);
 }

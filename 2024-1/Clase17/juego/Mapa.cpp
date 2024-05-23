@@ -27,6 +27,13 @@ void Mapa::mostrar(){
     }
 }
 
+void Mapa::inicializar(){
+    Casilla c;
+    for(int i = 1; i<=filas*columnas;i++)
+        casillas[i-1] = c;
+}
+
+
 void Mapa::operator+=(Heroe h){
     // x, y, e = Erasmo
     char buffer[20];
