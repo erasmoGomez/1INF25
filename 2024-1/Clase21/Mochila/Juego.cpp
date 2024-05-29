@@ -35,5 +35,8 @@ void Juego::carga_items() {
     }
 }
 
-void jugar() {
+void Juego::jugar() {
+    int indice_heroe = 3;
+    char nombre_item[20]="Sword";
+    heroes[indice_heroe-1].equipar(nombre_item, "Weapon");
 }

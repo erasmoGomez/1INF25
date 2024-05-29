@@ -24,6 +24,7 @@ public:
     void SetModificador_hp(int modificador_hp);
     int GetModificador_hp() const;
     void leer(ifstream &);
+    void mostrar(ofstream&);
 private:
     int modificador_hp;
 };

@@ -124,3 +124,8 @@ int Mochila::buscar_arma(const char* nombre){
     }
     return -1;
 }
+
+void Mochila::mostrar(ofstream &output){
+    for(int i=0; i<n_consumibles;i++)
+        bolsillo_consumibles[i].mostrar(output);
+}

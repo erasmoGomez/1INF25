@@ -41,6 +41,7 @@ void Consumible::leer(ifstream &input){
 }
 
 void Consumible::mostrar(ofstream&output){
+    Item::mostrar(output);
     bool displayQ = GetEquipadoQ();
     if(!displayQ)
         output<<"El modificador de HP es: "<<modificador_hp<<endl;

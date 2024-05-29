@@ -35,6 +35,7 @@ public:
     int buscar_consumible(const char*);
     int buscar_armadura(const char*);
     int buscar_arma(const char*);
+    void mostrar(ofstream &);
 private:
     Consumible bolsillo_consumibles[10];
     int n_consumibles;
