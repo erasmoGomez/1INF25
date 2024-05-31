@@ -22,6 +22,7 @@ public:
     void SetModificador_att(int modificador_att);
     int GetModificador_att() const;
     void leer(ifstream &);
+    void mostrar(ofstream &);
 private:
     int modificador_att;
 };

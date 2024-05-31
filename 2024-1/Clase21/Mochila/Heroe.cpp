@@ -48,18 +48,35 @@ void Heroe::agregar_mochila(ifstream& input_items, char *tipo){
     mochila.agregar_item(input_items, tipo);
 }
 
+//HEROE -> Mochila -> CONSUMIBLE
+//CONSUMIBLE -> HEROE
 void Heroe::equipar(const char*tipo, const char*nombre){
     int valor_incrementar = 0;
     if(strcmp(tipo, "Consumable")==0){
         valor_incrementar = mochila.buscar_consumible(nombre);
-        vida += valor_incrementar;
+        if(valor_incrementar!=-1)
+            vida += valor_incrementar;
     }
     if(strcmp(tipo, "Weapon")==0){
         valor_incrementar = mochila.buscar_arma(nombre);
-        ataque += valor_incrementar;
+        if(valor_incrementar!=-1)
+            ataque += valor_incrementar;
     }
     if(strcmp(tipo, "Armor")==0){
         valor_incrementar = mochila.buscar_armadura(nombre);
-        defensa += valor_incrementar;
+        if(valor_incrementar!=-1)
+            defensa += valor_incrementar;
     }
+}
+
+void Heroe::mostrar(ofstream&out){
+    char *nombre;
+    int vida;
+    int ataque;
+    int defensa;
+    out<<"Nombre: "<<nombre<<endl;
+    out<<"Vida: "<<vida<<endl;
+    out<<"Ataque: "<<ataque<<endl;
+    out<<"Defensa: "<<defensa<<endl;
+    mochila.mostrar(out);
 }

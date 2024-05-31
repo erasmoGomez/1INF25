@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 //    juego.cargar_heroes();
     juego.carga_items();
     juego.jugar();
-//    juego.mostrar_datos();
+    juego.mostrar_datos();
     return 0;
 }
 

@@ -52,21 +52,17 @@ int Mochila::GetN_consumibles() const {
 
 void Mochila::agregar_item(ifstream& input_items, char *tipo){
     if(strcmp(tipo, "Consumable")==0){
-        class Consumible c;
-        c.leer(input_items);
-        bolsillo_consumibles[n_consumibles] = c;
+//        class Consumible c;
+//        c.leer(input_items);
+        bolsillo_consumibles[n_consumibles].leer(input_items);
         n_consumibles++;
     }
     if(strcmp(tipo, "Armor")==0){
-        class Armadura a;
-        a.leer(input_items);
-        bolsillo_armaduras[n_armaduras] = a;
+        bolsillo_armaduras[n_armaduras].leer(input_items);
         n_armaduras++; 
     }
     if(strcmp(tipo, "Weapon")==0){
-        class Arma a;
-        a.leer(input_items);
-        bolsillo_armas[n_armas] = a;
+        bolsillo_armas[n_armas].leer(input_items);
         n_armas++;  
     }
 }
@@ -76,15 +72,14 @@ int Mochila::buscar_consumible(const char* nombre){
     for(int i=0; i<n_consumibles; i++){
         bolsillo_consumibles[i].GetNombre(nombre_item_consumible);
         if(strcmp(nombre_item_consumible, nombre)==0){
-            if(bolsillo_consumibles[i].GetEquipadoQ()){
+            if(!bolsillo_consumibles[i].GetEquipadoQ()){
                 bolsillo_consumibles[i].SetEquipadoQ(true);
                 return bolsillo_consumibles[i].GetModificador_hp();
             }
             else{
                 return 0;
             }            
-        }
-            
+        }     
     }
     return -1;
 }
@@ -94,7 +89,7 @@ int Mochila::buscar_armadura(const char* nombre){
     for(int i=0; i<n_armaduras; i++){
         bolsillo_armaduras[i].GetNombre(nombre_item_armadura);
         if(strcmp(nombre_item_armadura, nombre)==0){
-            if(bolsillo_armaduras[i].GetEquipadoQ()){
+            if(!bolsillo_armaduras[i].GetEquipadoQ()){
                 bolsillo_armaduras[i].SetEquipadoQ(true);
                 return bolsillo_armaduras[i].GetModificador_def();
             }
@@ -112,7 +107,7 @@ int Mochila::buscar_arma(const char* nombre){
     for(int i=0; i<n_armas; i++){
         bolsillo_armas[i].GetNombre(nombre_item_arma);
         if(strcmp(nombre_item_arma, nombre)==0){
-            if(bolsillo_armas[i].GetEquipadoQ()){
+            if(!bolsillo_armas[i].GetEquipadoQ()){
                 bolsillo_armas[i].SetEquipadoQ(true);
                 return bolsillo_armas[i].GetModificador_att();
             }
@@ -128,4 +123,8 @@ int Mochila::buscar_arma(const char* nombre){
 void Mochila::mostrar(ofstream &output){
     for(int i=0; i<n_consumibles;i++)
         bolsillo_consumibles[i].mostrar(output);
+    for(int i=0; i<n_armas;i++)
+        bolsillo_armas[i].mostrar(output);
+    for(int i=0; i<n_armaduras;i++)
+        bolsillo_armaduras[i].mostrar(output);
 }

@@ -21,7 +21,7 @@ public:
     virtual ~Juego();
     void carga_items();
     void jugar();
-    
+    void mostrar_datos();
 private:
     Heroe heroes[10];
 };

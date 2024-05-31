@@ -22,6 +22,7 @@ public:
     void SetModificador_def(int modificador_def);
     int GetModificador_def() const;
     void leer(ifstream &);
+    void mostrar(ofstream &);
 private:
     int modificador_def;
 };

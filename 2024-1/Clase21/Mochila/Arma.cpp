@@ -39,3 +39,14 @@ void Arma::leer(ifstream &input){
     input.get();
     modificador_att = valor;
 }
+
+void Arma::mostrar(ofstream&output){
+    //Mostrar de la clase padre
+    Item::mostrar(output);
+    //Mostrar de la clase derivada
+    bool displayQ = GetEquipadoQ();
+    if(!displayQ)
+        output<<"El modificador de ATT es: "<<modificador_att<<endl;
+    else
+        output<<"El item se encuentra equipado"<<endl;
+}

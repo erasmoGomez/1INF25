@@ -27,6 +27,8 @@ void Juego::carga_items() {
     ifstream input("items.csv", ios::in);
     char tipo[20], c;
     int n_heroe;
+    //Weapon,3,Sword,A sharp and sturdy sword.,147
+    //JUEGO - ITEM - CONSUMIBLE/ARMADURA/ARMA
     while(true){
         input.getline(tipo, 20, ',');
         if(input.eof())break;
@@ -39,4 +41,11 @@ void Juego::jugar() {
     int indice_heroe = 3;
     char nombre_item[20]="Sword";
     heroes[indice_heroe-1].equipar(nombre_item, "Weapon");
+    //heroes[indice_heroe-1].mostrar();
+}
+
+void Juego::mostrar_datos(){
+    int indice_heroe = 3;
+    ofstream output("reporte.txt",ios::out);
+    heroes[indice_heroe-1].mostrar(output);
 }

@@ -62,5 +62,5 @@ void Item::leer(ifstream& input){
 }
 
 void Item::mostrar(ofstream &output){
-    output<<setw(20(<<nombre<<setw(50<<descripcion<<endl;
+    output<<setw(20)<<nombre<<setw(50)<<descripcion<<endl;
 }

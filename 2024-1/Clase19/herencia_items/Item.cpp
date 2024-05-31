@@ -8,6 +8,7 @@
 Item::Item(){
     nombre = nullptr;
     descripcion = nullptr;
+    equipadoQ = false;
 }
 
 void Item::SetDescripcion(const char* descripcion) {

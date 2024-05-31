@@ -38,6 +38,7 @@ public:
 //    void equipar(Consumible&);
 //    void equipar(Armadura&);
 //    void equipar(Arma&);
+    void mostrar(ofstream&);
    
 };
 

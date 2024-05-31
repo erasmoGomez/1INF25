@@ -14,6 +14,7 @@
 #include "Consumible.hpp"
 
 Consumible::Consumible() {
+    modificador_hp = 0;
 }
 
 Consumible::Consumible(const Consumible& orig) {
@@ -38,10 +39,13 @@ void Consumible::leer(ifstream &input){
     input>>valor;
     input.get();
     modificador_hp = valor;
+    Item::SetEquipadoQ(true);
 }
 
 void Consumible::mostrar(ofstream&output){
+    //Mostrar de la clase padre
     Item::mostrar(output);
+    //Mostrar de la clase derivada
     bool displayQ = GetEquipadoQ();
     if(!displayQ)
         output<<"El modificador de HP es: "<<modificador_hp<<endl;

@@ -39,3 +39,14 @@ void Armadura::leer(ifstream &input){
     input.get();
     modificador_def = valor;
 }
+
+void Armadura::mostrar(ofstream&output){
+    //Mostrar de la clase padre
+    Item::mostrar(output);
+    //Mostrar de la clase derivada
+    bool displayQ = GetEquipadoQ();
+    if(!displayQ)
+        output<<"El modificador de DEF es: "<<modificador_def<<endl;
+    else
+        output<<"El item se encuentra equipado"<<endl;
+}
