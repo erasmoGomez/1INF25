@@ -1,0 +1,25 @@
+Nombre Heroe 2: Zilean
+El heroe esta ubicado en la casilla : (14, 15)
+Vida: 300
+Ataque: 100
+Defensa: 100
+Nombre Heroe 2: Teemo
+El heroe esta ubicado en la casilla : (15, 15)
+Vida: 500
+Ataque: 100
+Defensa: 100
+Nombre Heroe 2: Lux
+El heroe esta ubicado en la casilla : (2, 20)
+Vida: 400
+Ataque: 100
+Defensa: 100
+Nombre Heroe 2: Galio
+El heroe esta ubicado en la casilla : (3, 20)
+Vida: 400
+Ataque: 100
+Defensa: 100
+Nombre Heroe 2: Annie
+El heroe esta ubicado en la casilla : (1, 1)
+Vida: 200
+Ataque: 100
+Defensa: 100

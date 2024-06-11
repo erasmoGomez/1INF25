@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="ArbolesClases"
+                   displayName="ArbolesClases"
+                   projectFiles="true">
+      <itemPath>Arma.cpp</itemPath>
+      <itemPath>Arma.hpp</itemPath>
+      <itemPath>Armadura.cpp</itemPath>
+      <itemPath>Armadura.hpp</itemPath>
+      <itemPath>Casilla.cpp</itemPath>
+      <itemPath>Casilla.hpp</itemPath>
+      <itemPath>Consumible.cpp</itemPath>
+      <itemPath>Consumible.hpp</itemPath>
+      <itemPath>Equipo.cpp</itemPath>
+      <itemPath>Equipo.hpp</itemPath>
+      <itemPath>Heroe.cpp</itemPath>
+      <itemPath>Heroe.hpp</itemPath>
+      <itemPath>Item.cpp</itemPath>
+      <itemPath>Item.hpp</itemPath>
+      <itemPath>Juego.cpp</itemPath>
+      <itemPath>Juego.hpp</itemPath>
+      <itemPath>Mapa.cpp</itemPath>
+      <itemPath>Mapa.hpp</itemPath>
+      <itemPath>Mochila.cpp</itemPath>
+      <itemPath>Mochila.hpp</itemPath>
+      <itemPath>Nodo.cpp</itemPath>
+      <itemPath>Nodo.hpp</itemPath>
+      <itemPath>Utils.hpp</itemPath>
+      <itemPath>heroes_dataset.csv</itemPath>
+      <itemPath>map_dataset.csv</itemPath>
+    </logicalFolder>
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Lista.hpp</itemPath>
+      <itemPath>NodoLista.hpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Lista.cpp</itemPath>
+      <itemPath>NodoLista.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Arma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arma.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Armadura.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Armadura.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Casilla.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Casilla.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Consumible.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consumible.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Equipo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Equipo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Heroe.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Heroe.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Juego.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Juego.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mapa.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mochila.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nodo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nodo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoLista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoLista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="heroes_dataset.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="map_dataset.csv" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Arma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arma.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Armadura.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Armadura.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Casilla.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Casilla.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Consumible.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consumible.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Equipo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Equipo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Heroe.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Heroe.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Juego.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Juego.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Lista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Lista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mapa.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Mochila.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nodo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nodo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoLista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoLista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="heroes_dataset.csv" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="map_dataset.csv" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
