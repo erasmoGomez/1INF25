@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Camion.hpp</itemPath>
+      <itemPath>Flota.hpp</itemPath>
+      <itemPath>Furgon.hpp</itemPath>
+      <itemPath>LVehiculos.hpp</itemPath>
+      <itemPath>NPedido.hpp</itemPath>
+      <itemPath>NodoLista.hpp</itemPath>
+      <itemPath>Utils.hpp</itemPath>
+      <itemPath>Vehiculo.hpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Camion.cpp</itemPath>
+      <itemPath>Flota.cpp</itemPath>
+      <itemPath>Furgon.cpp</itemPath>
+      <itemPath>LVehiculos.cpp</itemPath>
+      <itemPath>NPedido.cpp</itemPath>
+      <itemPath>NodoLista.cpp</itemPath>
+      <itemPath>Vehiculo.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Camion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Camion.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Flota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Flota.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Furgon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Furgon.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LVehiculos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LVehiculos.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NPedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NPedido.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoLista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoLista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vehiculo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Camion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Camion.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Flota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Flota.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Furgon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Furgon.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="LVehiculos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LVehiculos.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NPedido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NPedido.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoLista.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoLista.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Vehiculo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Vehiculo.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
