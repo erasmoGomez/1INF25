@@ -2,7 +2,7 @@ class Cilindro extends Circulo{
 	private double altura;
 
 	public Cilindro(String identificacion, double radio, double altura){
-		//Circulo(String identificacion, double radio)
+		//Circulo(identificacion, radio)
 		super(identificacion,radio); //Metodo super q llama al cnsructr de la clase base
 		this.altura = altura;
 	}

@@ -17,12 +17,13 @@ class ListaDeAlumnos {
 		String tipoAlumno;
 		Alumno alumno;
 		while(arch.hasNext()){
-			tipoAlumno = arch.next();
+			tipoAlumno = arch.next(); //"R" o "I"
 			if(tipoAlumno.compareTo("R")==0) 
 				alumno = new AlumnoRegular();
 			else 
 				alumno = new AlumnoIntercambio();
 			alumno.leerDatos(arch);
+			//agregaAlumno(alumno);
 			listaDeAlumnos.add(alumno);
 		}
 	}

@@ -48,8 +48,8 @@ class AlumnoIntercambio extends Alumno{
 		System.out.print("Idiomas:");
 		System.out.print(idiomas.size()); 
 		
-		for(String al: idiomas){
-			System.out.print(" " + al);
+		for(String id: idiomas){
+			System.out.print(" " + id);
 		}
 	    System.out.println();
 		System.out.println("Permanecera: " + numeroDeSemestres + " Semestres");

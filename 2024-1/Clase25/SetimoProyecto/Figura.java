@@ -33,7 +33,6 @@ abstract public class Figura{
 		return this.altura;
 	}
 
-	abstract public void calcularArea(); //Metod Polimorfico
-	
+	abstract public void calcularArea(); //Metod Polimorfico puro
 
 }

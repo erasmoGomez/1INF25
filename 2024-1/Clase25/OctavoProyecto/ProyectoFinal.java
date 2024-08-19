@@ -4,7 +4,6 @@ class ProyectoFinal{
 		
 		ListaDeAlumnos listaAlumnos = new ListaDeAlumnos();
 		listaAlumnos.leerAlumnos();
-		listaAlumnos.listarAlumnos();
-		
+		listaAlumnos.listarAlumnos();		
 	}
 }
