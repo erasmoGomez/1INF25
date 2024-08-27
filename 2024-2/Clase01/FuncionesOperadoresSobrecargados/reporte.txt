@@ -1,0 +1,7 @@
+999999    samsung   s25_ultra     345.56
+123124    apple     iphone_15     800.99
+555555    xiamo     chevere     22323.99
+NUEVOS VALORES
+999999    samsung   s25_ultra     434.02
+123124    apple     iphone_15    1006.04
+555555    xiamo     chevere     28038.93

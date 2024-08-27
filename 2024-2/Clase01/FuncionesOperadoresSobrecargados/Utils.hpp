@@ -17,6 +17,10 @@
 #include <iostream>
 #include <iomanip>
 #include <cstring>
+#include <fstream>
 
+#define ANCHO_TOTAL 80
+#define ANCHO_COLUMNA 8
+#define INCREMENTO 25.6
 #endif /* UTILS_HPP */
 

@@ -1,0 +1,9 @@
+54393647    Reyes Tang Edward 
+Libros entregados:
+          Pedido No.     Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock:
+          Pedido No.     Codigo      
+             1          CRY6839   
+
+IIM5175       Diamantes y pedernales                  Jose Maria Arguedas 2     30.23
