@@ -67,6 +67,7 @@ void cargar_cursos(int*codigos, char***&cursos, const char* nombre_archivo) {
     }
     int n_alumnos = 0;
     int codigo_alumno = 0;
+    int indice;
     while (codigos[n_alumnos])n_alumnos++;
     int arr_n_cursos[n_alumnos]{};
     //reservamos memoria a primer nivel cursos
@@ -86,4 +87,33 @@ void cargar_cursos(int*codigos, char***&cursos, const char* nombre_archivo) {
     //recortar los espacios q no han sido utilizados
     for (int i = 0; i < n_alumnos; i++)
         recortar(cursos[i], arr_n_cursos[i]);
+}
+
+int buscar_alumno(int codigo_alumno, int* codigos, int n_alumnos){
+    for (int i=0; i<n_alumnos; i++){
+        if(codigo_alumno == codigos[i]) return i;
+    }
+    return -1;
+}
+
+void colocar_curso(ifstream &input, char**cursos, int &n){
+    char *codigo = leer_cadena(input, '\n');
+    cursos[n] = codigo;
+    n++;
+}
+
+void recortar(char** &cursos, int n){
+    char** cursos_temporal;
+    if(n!=0){
+        cursos_temporal = new char*[n+1]{};
+        //Ahora pasar la informacion  previa al nuevo arreglo
+        for(int i = 0; i<n;i++)
+            cursos_temporal[i] = cursos[i];
+        delete cursos;
+        cursos = cursos_temporal; //Apunto a la nueva direccion de memoria que contiene los datos
+    }
+    else{
+        delete cursos;
+        cursos = nullptr;
+    }
 }
