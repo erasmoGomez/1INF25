@@ -17,11 +17,14 @@
  * 
  */
 int main(int argc, char** argv) {
-    char*** productos;
-    int *stock;
+    char ***productos, ***codigos_pedidos;
+    int *stock, *fechas, ***dni_cantidad_pedidos;
     double *precios;
-    lectura_productos(productos, stock, precios, "productos.csv");
+    lectura_productos(productos, stock, precios, "Productos.csv");
     prueba_lectura_productos(productos, stock, precios, "reporte.txt");
+    
+    lectura_pedidos(fechas, codigos_pedidos, dni_cantidad_pedidos, "Pedidos.csv");
+    prueba_lectura_pedidos(fechas, codigos_pedidos, dni_cantidad_pedidos, "reporte2.txt");
     return 0;
 }
 
