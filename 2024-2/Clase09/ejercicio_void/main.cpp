@@ -21,8 +21,8 @@ using namespace std;
 int main(int argc, char** argv) {
     void *alumnos;
     cargar_alumnos(alumnos, "Alumnos.csv");
-//    cargarNotas(alumnos, "CursosNotas.csv");
-//    calcularPromedios(alumnos);
+    cargarNotas(alumnos, "CursosNotas.csv");
+    calcular_promedios(alumnos);
     probar_carga(alumnos, "reporte.txt");
     ordenar(alumnos);
 //    cout << endl << endl << "Alumnos ordenados" << endl;

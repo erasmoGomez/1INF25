@@ -18,7 +18,8 @@
 #include <iomanip>
 #include <cstring>
 #define INCREMENTO 5
-enum registro {CODIGO,NOMBRE,NOTAS};
+enum registro {CODIGO,NOMBRE,CURSOS, PROMEDIO};
+enum registroCurso {CODIGOCURSO,NOTA};
 using namespace std;
 
 

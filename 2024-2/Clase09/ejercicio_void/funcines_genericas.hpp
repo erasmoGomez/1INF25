@@ -29,7 +29,7 @@ void *leeRCurso(ifstream &arch);
 void agregarCurso(void*cur, void *alNota, int nd);
 void imprimirCursos(void *cur);
 void imprimirCurso(void *cur);
-void calcularPromedios(void *alumnos);
+void calcular_promedios(void *alumnos);
 void promedioDelAlumno(void *al);
 void *promedio(void *al);
 int obtenerNota(void *cur);
