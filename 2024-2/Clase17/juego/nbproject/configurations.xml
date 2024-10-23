@@ -4,9 +4,14 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>Arma.hpp</itemPath>
+      <itemPath>Armadura.hpp</itemPath>
       <itemPath>Casilla.hpp</itemPath>
+      <itemPath>Consumible.hpp</itemPath>
       <itemPath>Heroe.hpp</itemPath>
+      <itemPath>Item.hpp</itemPath>
       <itemPath>Juego.hpp</itemPath>
+      <itemPath>Mochila.hpp</itemPath>
       <itemPath>Utils.hpp</itemPath>
       <itemPath>mapa.hpp</itemPath>
     </logicalFolder>
@@ -17,10 +22,15 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>Arma.cpp</itemPath>
+      <itemPath>Armadura.cpp</itemPath>
       <itemPath>Casilla.cpp</itemPath>
+      <itemPath>Consumible.cpp</itemPath>
       <itemPath>Heroe.cpp</itemPath>
+      <itemPath>Item.cpp</itemPath>
       <itemPath>Juego.cpp</itemPath>
       <itemPath>Mapa.cpp</itemPath>
+      <itemPath>Mochila.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -45,19 +55,39 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="Arma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arma.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Armadura.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Armadura.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Casilla.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Casilla.hpp" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="Consumible.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consumible.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Heroe.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Heroe.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Juego.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Juego.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Mapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
       </item>
@@ -86,19 +116,39 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="Arma.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Arma.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Armadura.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Armadura.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Casilla.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Casilla.hpp" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="Consumible.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Consumible.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="Heroe.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Heroe.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Item.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Item.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Juego.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="Juego.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Mapa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Mochila.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Utils.hpp" ex="false" tool="3" flavor2="0">
       </item>

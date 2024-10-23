@@ -55,27 +55,25 @@ void Heroe::getNombre(char* nombre) const {
 
 void Heroe::leer(ifstream &input){
     char buffer[20],extra;
-    //Teemo,500, 25.3, 15, 15
+    //Teemo,500, 25.3, 15, 15, 100, 100
     input.getline(buffer, 20, ',');
     input>>hp>>extra;
     input>>mana>>extra;
     input>>posx>>extra;
-    input>>posy;
+    input>>posy>>extra;
+    input>>ataque>>extra;
+    input>>defensa;
     input.get();
     setNombre(buffer);
 }
 
-//void Heroe::mostrar(ofstream &output){
-//    char buffer[20],extra;
-//    //Teemo,500, 25.3, 15, 15
-//    input.getline(buffer, 20, ',');
-//    input>>hp>>extra;
-//    input>>mana>>extra;
-//    input>>posx>>extra;
-//    input>>posy;
-//    input.get();
-//    setNombre(buffer);
-//}
+void Heroe::mostrar(ofstream &output){
+    output<<"Nombre: " << nombre<<endl;
+    output<<"Vida: " << hp<<endl;
+    output<<"Ataque: " << ataque<<endl;
+    output<<"Defensa: " << defensa<<endl;
+    mochila.mostrar(output);
+}
 
 void Heroe::operator++(int){
     //W
@@ -97,6 +95,11 @@ void Heroe::operator--(int){
 void Heroe::operator--(){
     //A
     setPosy(posy-1);
+}
+
+void Heroe::agregar_mochila(ifstream& input, char* tipo){
+    //Heroe- Mochila- Item - Consumible/Armadura/Arma
+    mochila.agregar_item(input, tipo);
 }
 
 void operator>>(ifstream& input, Heroe& h){

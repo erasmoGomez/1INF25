@@ -21,11 +21,13 @@ private:
     char* descripcion;
 public:
     Item();
+    virtual ~Item();
     void SetDescripcion(const char* descripcion);
     void GetDescripcion(char*) const;
     void SetNombre(const char* nombre);
     void GetNombre(char*) const;
     void mostrar();
+    void leer(ifstream &);
 };
 
 #endif /* ITEM_HPP */

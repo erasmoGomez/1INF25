@@ -29,22 +29,6 @@ int main(int argc, char** argv) {
     c.SetDescripcion("Pocima que cura 200HP");
     c.SetValor(200);
     c.mostrar();
-//    Item i;
-//    i.SetNombre("Item 1");
-//    i.SetDescripcion("Es un item chevere");
-//    i.mostrar();
-//    
-//    Pokeball p;
-//    p.SetNombre("Master Ball");
-//    p.SetDescripcion("Es una master ball");
-//    p.SetValor(100);
-//    p.mostrar();
-//    
-//    Consumible c;
-//    c.SetNombre("Healing Potion");
-//    c.SetDescripcion("Es una pocion de curacion");
-//    c.SetValor(200);
-//    c.mostrar();
     
     return 0;
 }

@@ -38,3 +38,23 @@ void Item::mostrar(){
     cout<<setw(20)<<nombre;
     cout<<setw(50)<<descripcion<<endl;
 }
+
+Item::~Item(){
+//    cout<<"Estoy en el destructor"<<endl;
+    if(nombre!=nullptr){
+        delete nombre;
+    }
+    if(descripcion!=nullptr){
+        delete descripcion;
+    }
+//    cout<<"Eliminado"<<endl;
+}
+
+void Item::leer(ifstream &input){
+    //Sword,A sharp and sturdy sword.,
+    char _nombre[20], _descripcion[50];
+    input.getline(_nombre, 20, ',');
+    input.getline(_descripcion, 50, ',');
+    SetNombre(_nombre);
+    SetDescripcion(_descripcion);
+}

@@ -35,10 +35,15 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
+	${OBJECTDIR}/Arma.o \
+	${OBJECTDIR}/Armadura.o \
 	${OBJECTDIR}/Casilla.o \
+	${OBJECTDIR}/Consumible.o \
 	${OBJECTDIR}/Heroe.o \
+	${OBJECTDIR}/Item.o \
 	${OBJECTDIR}/Juego.o \
 	${OBJECTDIR}/Mapa.o \
+	${OBJECTDIR}/Mochila.o \
 	${OBJECTDIR}/main.o
 
 
@@ -66,15 +71,35 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/juego.exe: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/juego ${OBJECTFILES} ${LDLIBSOPTIONS}
 
+${OBJECTDIR}/Arma.o: Arma.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Arma.o Arma.cpp
+
+${OBJECTDIR}/Armadura.o: Armadura.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Armadura.o Armadura.cpp
+
 ${OBJECTDIR}/Casilla.o: Casilla.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Casilla.o Casilla.cpp
 
+${OBJECTDIR}/Consumible.o: Consumible.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Consumible.o Consumible.cpp
+
 ${OBJECTDIR}/Heroe.o: Heroe.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Heroe.o Heroe.cpp
+
+${OBJECTDIR}/Item.o: Item.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Item.o Item.cpp
 
 ${OBJECTDIR}/Juego.o: Juego.cpp
 	${MKDIR} -p ${OBJECTDIR}
@@ -85,6 +110,11 @@ ${OBJECTDIR}/Mapa.o: Mapa.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Mapa.o Mapa.cpp
+
+${OBJECTDIR}/Mochila.o: Mochila.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/Mochila.o Mochila.cpp
 
 ${OBJECTDIR}/main.o: main.cpp
 	${MKDIR} -p ${OBJECTDIR}

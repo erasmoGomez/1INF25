@@ -17,9 +17,24 @@ void Juego::carga_mapa() {
 
 }
 
+void Juego::cargar_items() {
+   ifstream input("items.csv", ios::in);
+   char tipo[20], c;
+   int n_heroe;
+   //Weapon,3,Sword,A sharp and sturdy sword.,147
+   //Juego - Heroe- Mochila- Item - Consumible/Armadura/Arma
+   while(true){
+       input.getline(tipo, 20,',');
+       if(input.eof())break;
+       input>>n_heroe>>c;
+       heroes[n_heroe-1].agregar_mochila(input, tipo);
+   }
+}
+
 void Juego::cargar_juego() {
     carga_mapa();
     carga_heroes();
+    cargar_items();
 }
 
 void Juego::mostrar_mapa() {
@@ -58,28 +73,30 @@ void Juego::pintar() {
 }
 
 void Juego::jugar() {
-    char heroe_seleccionado;
-    char movimiento;
-    int indice_seleccionado;
-    while (true) {
-        //mostrar_mapa();
-        cout << "Ingrese un heroe(Primera Letra MAYUSCULA) a mover, coloque 0 para salir" << endl;
-        cin>>heroe_seleccionado;
-        if (heroe_seleccionado == '0')break;
-        indice_seleccionado = conseguir_indice(heroe_seleccionado);
-        if (indice_seleccionado == -1) {
-            cout << "No se encontro error, chau" << endl;
-            break;
-        }
-        cout << "Ingrese la direccion hacia donde desea mover: W S D A, para salir 0" << endl;
-        while (true) {
-            cin>>movimiento;
-            if (movimiento == '0') break;
-            if (movimiento == 'W') heroes[indice_seleccionado]++;
-            if (movimiento == 'S') ++heroes[indice_seleccionado];
-            if (movimiento == 'D') heroes[indice_seleccionado]--;
-            if (movimiento == 'A') --heroes[indice_seleccionado];
-            pintar();
-        }
-    }
+//    char heroe_seleccionado;
+//    char movimiento;
+//    int indice_seleccionado;
+//    while (true) {
+//        //mostrar_mapa();
+//        cout << "Ingrese un heroe(Primera Letra MAYUSCULA) a mover, coloque 0 para salir" << endl;
+//        cin>>heroe_seleccionado;
+//        if (heroe_seleccionado == '0')break;
+//        indice_seleccionado = conseguir_indice(heroe_seleccionado);
+//        if (indice_seleccionado == -1) {
+//            cout << "No se encontro error, chau" << endl;
+//            break;
+//        }
+//        cout << "Ingrese la direccion hacia donde desea mover: W S D A, para salir 0" << endl;
+//        while (true) {
+//            cin>>movimiento;
+//            if (movimiento == '0') break;
+//            if (movimiento == 'W') heroes[indice_seleccionado]++;
+//            if (movimiento == 'S') ++heroes[indice_seleccionado];
+//            if (movimiento == 'D') heroes[indice_seleccionado]--;
+//            if (movimiento == 'A') --heroes[indice_seleccionado];
+//            pintar();
+//        }
+//    }
+    int indice_heroe = 3;
+    heroes[indice_heroe-1].mostrar();
 }

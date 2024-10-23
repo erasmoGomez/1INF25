@@ -14,6 +14,7 @@
 #ifndef HEROE_HPP
 #define HEROE_HPP
 #include "Utils.hpp"
+#include "Mochila.hpp"
 using namespace std;
 class Heroe{
 private:
@@ -22,6 +23,9 @@ private:
     double mana;
     int posx;
     int posy;
+    int ataque;
+    int defensa;
+    Mochila mochila;
 public:
     Heroe();
     void leer(ifstream &);
@@ -36,7 +40,7 @@ public:
     int getHp() const;
     void setNombre(const char*);
     void getNombre(char*) const;
-    
+    void agregar_mochila(ifstream&, char*);
     //heroe++ W
     void operator++(int);
     //++heroe S
