@@ -21,9 +21,9 @@ int main(int argc, char** argv) {
     Juego juego;
     juego.cargar_juego();
     //juego.mostrar_mapa();
-    //juego.colocar_heroes();
+    juego.colocar_heroes();
     //juego.mostrar_mapa();
-    //juego.jugar();
+    juego.jugar();
     return 0;
 }
 
