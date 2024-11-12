@@ -1,0 +1,11 @@
+Nombre Heroe : Ash   Ataque: 200.5
+Nombre Heroe : Link   Ataque: 123.6
+Nombre Heroe : Sora   Ataque: 500.21
+Nombre Heroe : Steve   Ataque: 2.8
+Nombre Heroe : Auron   Ataque: 7.6
+xxxxxxxx
+Nombre Heroe : Ash   Ataque: 200.5
+Nombre Heroe : Auron   Ataque: 7.6
+Nombre Heroe : Link   Ataque: 123.6
+Nombre Heroe : Sora   Ataque: 500.21
+Nombre Heroe : Steve   Ataque: 2.8
