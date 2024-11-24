@@ -31,11 +31,13 @@ public:
     void mostrar() const;
     void operator = (const class Heroe&);
     bool operator <(const Heroe &h);
+    void SetNombre2(string nombre2);
+    string GetNombre2() const;
 private:
     int codigo;
     char *nombre;
     double ataque;
-
+    string nombre2;
 };
 
 void operator >> (ifstream& , Heroe&);

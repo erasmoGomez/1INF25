@@ -66,15 +66,15 @@ void Heroe::leer(ifstream &input) {
     SetNombre(buffer);
 }
 
-//void Heroe::leer2(ifstream &input) {
-//    char extra, buffer[20];
-//    //Teemo,500, 25.3, 15, 15
-//    input>>codigo>>extra;
-//    //getline(input,nombre2, ',');
-//    input.getline(buffer, 20, ',');
-//    nombre2 = buffer;
-//    input>>ataque;
-//}
+void Heroe::leer2(ifstream &input) {
+    char extra, buffer[20];
+    //Teemo,500, 25.3, 15, 15
+    input>>codigo>>extra;
+    //getline(input,nombre2, ',');
+    input.getline(buffer, 20, ',');
+    nombre2 = buffer;
+    input>>ataque;
+}
 
 //void Heroe::leer2(ifstream &input) {
 ////    char extra, buffer[20];
@@ -99,6 +99,14 @@ bool Heroe::operator <(const Heroe &h){
     else
         return false;
 //    return h.GetAtaque()<ataque;
+}
+
+void Heroe::SetNombre2(string nombre2) {
+    this->nombre2 = nombre2;
+}
+
+string Heroe::GetNombre2() const {
+    return nombre2;
 }
 //
 void Heroe::operator = (const class Heroe&h){
