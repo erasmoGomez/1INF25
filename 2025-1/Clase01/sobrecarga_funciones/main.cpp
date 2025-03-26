@@ -11,15 +11,18 @@
  * Created on March 25, 2025, 4:00 PM
  */
 
-#include <iostream>
-
-using namespace std;
+#include "funciones.hpp"
 
 /*
  * 
  */
 int main(int argc, char** argv) {
     cout<<"mi programa progra2"<<endl;
+    imprimir_fecha(3,25,2025);
+    imprimir_fecha(23,01);
+    
+    cout<<f(5)<<endl;
+    cout<<f(10,20)<<endl;
     return 0;
 }
 

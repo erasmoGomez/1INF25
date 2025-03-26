@@ -5,6 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>funciones.hpp</itemPath>
+      <itemPath>persona.hpp</itemPath>
       <itemPath>utils.hpp</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -45,6 +46,8 @@
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
+      <item path="persona.hpp" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="utils.hpp" ex="false" tool="3" flavor2="0">
       </item>
     </conf>
@@ -73,6 +76,8 @@
       <item path="funciones.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="persona.hpp" ex="false" tool="3" flavor2="0">
       </item>
       <item path="utils.hpp" ex="false" tool="3" flavor2="0">
       </item>
