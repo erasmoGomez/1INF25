@@ -16,6 +16,9 @@
 #include "persona.hpp"
 
 ostream & operator <<(ostream &, const struct Persona&);
+istream & operator >> (istream &, struct Persona&);
+
+void operator += (struct Persona&, double porcentaje);
 
 #endif /* FUNCIONES_HPP */
 

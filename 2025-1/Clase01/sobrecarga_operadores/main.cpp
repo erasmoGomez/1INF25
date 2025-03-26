@@ -36,9 +36,13 @@ int main(int argc, char** argv) {
     //cout<<persona2.nombre<<endl;
     persona2.sueldo = 5300.0;
     //cout<<persona2.sueldo<<endl;
-    
+    cout<<"DATOS DE LA PERSONA"<<endl;
     cout<<persona;
-    
+    struct Persona persona3;
+    cin>>persona3;
+    persona3+=30.5;
+    cout<<persona3;
     return 0;
 }
+
 

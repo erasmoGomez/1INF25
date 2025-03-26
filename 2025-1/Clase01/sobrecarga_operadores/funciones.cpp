@@ -12,3 +12,13 @@ ostream & operator <<(ostream & out, const struct Persona& p){
     out<<p.nombre<<endl;
     out<<p.sueldo<<endl;
 }
+istream & operator >> (istream & in, struct Persona& p){
+    cout<<"Ingrese Datos"<<endl;
+    in>>p.dni;
+    in>>p.nombre;
+    in>>p.sueldo;
+}
+
+void operator += (struct Persona& p, double porcentaje){
+    p.sueldo += (1+p.sueldo/porcentaje);
+}

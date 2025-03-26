@@ -17,6 +17,7 @@
 #include <iostream>
 #include <cstring>
 #include <ostream>
+#include <istream>
 using namespace std;
 
 #endif /* UTILS_HPP */
