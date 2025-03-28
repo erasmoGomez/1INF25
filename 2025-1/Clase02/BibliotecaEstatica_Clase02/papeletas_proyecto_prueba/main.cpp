@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     
     ifstream input;
     AperturaDeUnArchivoDeTextosParaLeer(input, "papeletas.csv");
-    //input>>p;
+    input>>p;
     return 0;
 }
 

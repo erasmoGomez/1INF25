@@ -17,6 +17,6 @@
 #include "estructuras.hpp"
 
 ostream& operator << (ostream&, const struct Papeleta&);
-
+ifstream& operator >> (ifstream&, struct Papeleta&);
 #endif /* SOBRECARGAS_HPP */
 
