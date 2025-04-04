@@ -51,9 +51,9 @@ ifstream& operator >> (ifstream& in, struct Papeleta& p){
     //DNI,CodigoFalta,Fecha,Monto,Gravedad,Descripción
     //12345678,F001,2024-03-01,350.35,Grave,Paso de luz roja
     //12254455,
-    int id;
-    in>>id;
-    in.get(); //Leer la coma
+//    int id;
+//    in>>id;
+//    in.get(); //Leer la coma
     p.codigo = leer_cadena(in); //char*
     p.fecha = leer_fecha(in);
     in>>p.monto;

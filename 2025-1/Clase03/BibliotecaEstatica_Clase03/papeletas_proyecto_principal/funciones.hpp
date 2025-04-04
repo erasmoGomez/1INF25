@@ -16,7 +16,8 @@
 #include "utils.hpp"
 #include "estructuras.hpp"
 void leer_conductores(ifstream&, struct Conductor*, int&);
-
+void imprimir_conductores(ofstream&, struct Conductor*, int);
+void leer_y_llenar_papeletas(ifstream&, struct Conductor*, int);
 
 #endif /* FUNCIONES_HPP */
 

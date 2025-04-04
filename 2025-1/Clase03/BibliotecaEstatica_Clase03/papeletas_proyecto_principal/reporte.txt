@@ -1,6 +1,7 @@
-                F001            20240301              350.53               Grave                        Paso de luz roja
-            12345678                              Juan Perez
             12345678                              Juan Perez
                 F001            20240301              350.53               Grave                        Paso de luz roja
-                F002            20240302              150.20                Leve                         Mal estacionado
                 F003            20240304              250.45            Moderada                     Exceso de velocidad
+            87654321                              Ana Garcia
+                F002            20240302              150.20                Leve                         Mal estacionado
+            11223344                             Carlos Diaz
+                F001            20240303              350.99               Grave                        Paso de luz roja
