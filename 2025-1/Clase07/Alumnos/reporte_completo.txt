@@ -1,0 +1,57 @@
+CODIGOS             NOMBRES
+20196975          Hijar Pairazaman Jenny Delicia
+         MEC286         INF239         MEC270         FIS248         INF245
+20209347         Cabrera Canales Guillermo Edric
+         MEC373         MAT218         MEC270         INF245         INF248         FIS220         MAT219         FIS220         MEC209         MEC286         FIS208         INF263         FIS229         MEC209         INF220
+20174890                   Justino Cruz Williams
+         FIS229         MEC269
+20182284                      Vega Munoz Gonzalo
+         MAT218         MAT218         FIS239         MAT241         MEC373         MAT781         INF220         MEC206         MEC373         MEC206         FIS220         MEC206         FIS203
+20175376           Gavidia Mendoza Ronald Johnny
+         INF282         FIS227
+20164265             Pasquel Quiohb Surami Janet
+         MEC206         INF248         INF220         MEC2T3         FIS219         MEC286
+20164917                 Coronado Figueroa Johan
+         MEC269         INF282         FIS218         MEC206         FIS247         MAT781         MEC269         MEC270         MEC269         INF281         MAT241         FIS239         MEC2T3         FIS247         FIS208
+20187490               Auris Zimic Javier Daniel
+         MAT219         FIS230         MEC2T3         MAT781         FIS247         FIS208         MEC209         INF246         MEC286         MEC2T3         MEC206         INF281         INF239         MEC269         FIS218
+20189596                      Moya Aranda Johnny
+         MEC289         MEC269         FIS227         FIS220         MEC289         MEC270         INF248         INF245         MEC2T3         INF281         INF282         INF263         FIS220         FIS248         INF245
+20179448         Alamo Pairazaman Miguel Roberto
+         INF246         FIS248         INF246         MEC286
+20175340                    Landeo Sueldo Adolfo
+         INF238         MAT241         FIS218         INF245         MAT241         FIS239         FIS220         FIS219         MEC206         FIS248         MEC2T3         MEC209         MAT218         FIS247         MEC269
+20177013              Cortez Segura Carmela Ines
+         MEC209         INF238         FIS219         INF281         INF238         INF282         FIS208         MEC2T3         INF250         MEC270         MEC289         MEC289
+20185528                Paredes Patino Christian
+         MAT781         FIS208         INF245         INF245         MEC2T3         MAT781         MEC2T2         INF250         FIS218         MEC286
+20151402                  Coronel Chumpitaz Heli
+         MEC286         MAT241         INF250         INF263
+20165394            Morales Valverde Ines Martha
+         INF238         INF263         FIS219         MEC206         MEC286         FIS239         INF263         FIS227         FIS247         INF282         INF248         MEC2T2         MEC206         MEC289
+20176439          Calixto Tomasiche Monica Doris
+         INF282         FIS203         MAT781         INF281         MEC2T2
+20161798        Portugal Benavente Johana Gloria
+         FIS219         INF220         FIS219         INF248         MAT241         INF248         MAT241         MAT219         MEC269         INF246         FIS229         FIS218
+20174723                   Florian Morales Ydali
+         MAT218         INF281         MEC269         INF248
+20151338              Ruiz Gordillo Carola Erika
+         MAT241         FIS219         MEC286         INF239         MAT241         FIS247         FIS248         MEC2T3         MEC206         FIS208         INF248         INF220
+20168937        Zarate Del_Pozo Humberto Antonio
+         INF248         FIS247
+20161555                Henriquez Espino Beatriz
+         MAT241         FIS239         FIS227         FIS247         FIS229         MEC2T3         MAT218         MEC269         FIS220         INF248         FIS218         FIS219
+20204951                Laura Wong Melvin Henrry
+         FIS220         FIS218
+20193940          Palomares Vera Henrry Humberto
+         FIS227         INF281         FIS227         MEC2T3
+20203099            Antezano Segura Teresa Delia
+         FIS248         MAT241         INF245         INF250         FIS229         INF239         INF238         FIS239         MEC373
+20171444                        Caro Polo Sandro
+         MEC270         MEC286         FIS247         INF238         FIS219         MEC2T3         MEC270
+20153434             Arca Amezquita Edric Ronald
+         MEC286         MAT219         MEC289
+20159943                      Lozada Yino Martha
+         FIS218         INF263         INF239         FIS230         MEC289         MEC206         MEC289         MAT781         MEC2T2         INF263         MEC270         MEC373         MAT781         FIS229         INF238
+20082060                            Erasmo Gomez
+No se encontraron cursos
