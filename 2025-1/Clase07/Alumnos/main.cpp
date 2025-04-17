@@ -21,9 +21,9 @@ int main(int argc, char** argv) {
     char** nombres;
     char*** cursos;
     cargar_alumnos_incrementos(codigos, nombres, "Alumnos.csv");
-    imprimir_alumnos(codigos, nombres, "reporte.txt");
+    imprimir_alumnos(codigos, nombres, "reporte_incrementos.txt");
     cargar_cursos_incrementos(codigos, cursos, "Cursos.csv");
-    imprimir_alumnos(codigos, nombres, cursos, "reporte_completo.txt");
+    imprimir_alumnos(codigos, nombres, cursos, "reporte_completo_incrementos.txt");
 
     return 0;
 }

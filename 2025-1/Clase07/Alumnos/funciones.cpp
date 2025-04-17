@@ -133,16 +133,12 @@ void reservar_memoria_incrementos(int*&codigos, char**&nombres, int &n_alumnos, 
     char **aux_nombres;
     capacidad += INCREMENTO;
     if (codigos == nullptr) {
-        codigos = new int[capacidad] {
-        };
-        nombres = new char*[capacidad] {
-        };
+        codigos = new int[capacidad] {};
+        nombres = new char*[capacidad] {};
         n_alumnos = 1;
     } else {
-        aux_codigos = new int [capacidad] {
-        };
-        aux_nombres = new char*[capacidad] {
-        };
+        aux_codigos = new int [capacidad] {};
+        aux_nombres = new char*[capacidad] {};
         for (int i = 0; i < n_alumnos; i++) {
             aux_codigos[i] = codigos[i];
             aux_nombres[i] = nombres[i];
@@ -218,12 +214,10 @@ void reservar_memoria_incrementos(char**&cursos, int&cantidad, int&capacidad) {
     char** aux_cursos;
     capacidad += INCREMENTO;
     if (cursos == nullptr) {
-        cursos = new char*[capacidad] {
-        };
+        cursos = new char*[capacidad] {};
         cantidad = 1;
     } else {
-        aux_cursos = new char*[capacidad] {
-        };
+        aux_cursos = new char*[capacidad] {};
         for (int i = 0; i < cantidad; i++)
             aux_cursos[i] = cursos[i];
         delete cursos;
@@ -249,8 +243,7 @@ void cargar_cursos_incrementos(int* codigos, char*** &cursos, const char* nombre
     int cantidad_datos = 0, codigo, indice;
     int cantidades[50]{}, capacidades[50]{};
     while (codigos[cantidad_datos])cantidad_datos++;
-    cursos = new char**[cantidad_datos + 1] {
-    };
+    cursos = new char**[cantidad_datos + 1] {};
     while (true) {
         input>>codigo;
         if (input.eof())break;
