@@ -12,6 +12,7 @@
  */
 
 #include "Mapa.hpp"
+#include "Heroe.hpp"
 
 Mapa::Mapa() {
     ancho = 0;
@@ -55,4 +56,12 @@ void Mapa::mostrar_mapa(){
         }
         cout<<endl;
     }
+}
+
+void Mapa::operator+=(class Heroe&h){
+    char buffer[20];
+    h.getNombre(buffer);
+    Casilla c;
+    c.setSprite(buffer[0]);
+    casillas[h.getPosY()*ancho+h.getPosX()] = c;
 }

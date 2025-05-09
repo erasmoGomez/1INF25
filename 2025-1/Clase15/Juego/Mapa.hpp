@@ -23,6 +23,7 @@ public:
     void cargar_mapa(ifstream&);
     void mostrar_mapa();
     bool dentro(int, int) const;
+    void operator+=(class Heroe&);
 private:
     int ancho;
     int alto;
