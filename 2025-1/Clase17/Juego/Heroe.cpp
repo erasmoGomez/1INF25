@@ -20,6 +20,7 @@ Heroe::Heroe() {
     nombre = nullptr;
     posX = 0;
     posY = 0;
+    kills = 0;
 }
 
 Heroe::Heroe(int hp, double fuerza, double defensa) {
@@ -206,6 +207,14 @@ void Heroe::operator--() {
 void Heroe::operator--(int) {
     //A
     setPosY(posY - 1);
+}
+
+void Heroe::setKills(int kills) {
+    this->kills = kills;
+}
+
+int Heroe::getKills() const {
+    return kills;
 }
 
 void operator<<(ostream& output, const class Heroe& h) {
