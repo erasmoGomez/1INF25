@@ -117,6 +117,7 @@ void Juego::jugar(){
 }
 
 void Juego::mostrar_items(int indice_heroe){
-    heroes[indice_heroe].equipar("Bow", 1);
+    heroes[indice_heroe].equipar("Bow", 1); //0 Consumibles , 1 Armas, 2 Armaduras
+    heroes[indice_heroe].equipar("Plate Armor", 2); //0 Consumibles , 1 Armas, 2 Armaduras
     heroes[indice_heroe].mostrar_heroe(cout);
 }

@@ -222,7 +222,7 @@ int Heroe::getKills() const {
 }
 
 void Heroe::equipar(const char* nombre_item, int ventana) {
-    int modificador = 0;
+    int modificador = 0; //Esto es lo que voy a traer desde las clases intermedias.
 
     switch (ventana) {
         case 0:
