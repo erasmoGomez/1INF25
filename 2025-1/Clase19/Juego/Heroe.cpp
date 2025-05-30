@@ -178,18 +178,18 @@ void Heroe::mostrar_info(ofstream&output) {
     this->mostrar_heroe(output);
 }
 
-bool Heroe::mover(char mov, Mapa &mapa){
+bool Heroe::mover(char mov, Mapa &mapa) {
     int nuevoX = posX, nuevoY = posY;
-    if(mov == 'W') nuevoX -= 1;
-    if(mov == 'S') nuevoX += 1;
-    if(mov == 'D') nuevoY += 1;
-    if(mov == 'A') nuevoY -= 1;
+    if (mov == 'W') nuevoX -= 1;
+    if (mov == 'S') nuevoX += 1;
+    if (mov == 'D') nuevoY += 1;
+    if (mov == 'A') nuevoY -= 1;
     //NUEVOX NUEVOY
-    if(mapa.dentro(nuevoX, nuevoY) and mapa.es_transitable(nuevoX, nuevoY)) return true;
+    if (mapa.dentro(nuevoX, nuevoY) and mapa.es_transitable(nuevoX, nuevoY)) return true;
     return false;
 }
 
-void Heroe::agregar_inventario(ifstream &input, char*tipo){
+void Heroe::agregar_inventario(ifstream &input, char*tipo) {
     inventario.cargar_items(input, tipo);
 }
 
@@ -219,6 +219,27 @@ void Heroe::setKills(int kills) {
 
 int Heroe::getKills() const {
     return kills;
+}
+
+void Heroe::equipar(const char* nombre_item, int ventana) {
+    int modificador = 0;
+
+    switch (ventana) {
+        case 0:
+            modificador = inventario.equipar_consumible(nombre_item);
+            hp += modificador;
+            break;
+        case 1:
+            modificador = inventario.equipar_arma(nombre_item);
+            fuerza += modificador;
+            break;
+        case 2:
+            modificador = inventario.equipar_armadura(nombre_item);
+            defensa += modificador;
+            break;
+        default:
+            break;
+    }
 }
 
 void operator<<(ostream& output, const class Heroe& h) {

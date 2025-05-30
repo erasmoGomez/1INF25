@@ -22,6 +22,14 @@ Consumible::Consumible(const Consumible& orig) {
 Consumible::~Consumible() {
 }
 
+void Consumible::setModificador_hp(int modificador_hp) {
+    this->modificador_hp = modificador_hp;
+}
+
+int Consumible::getModificador_hp() const {
+    return modificador_hp;
+}
+
 void Consumible::leer(ifstream&input){
     //Llama a la clase Padre y su metodo de lectura
     Item::leer(input);
@@ -33,7 +41,6 @@ void Consumible::leer(ifstream&input){
 }
 
 void Consumible::mostrar(ostream&output) const{
-    output<<"Item de tipo Consumible"<<endl;
     Item::mostrar(output);
-    output<<"Modificador Salud:"<<modificador_hp<<endl;
+    output<<setw(5)<<left<<modificador_hp<<setw(10)<<(IsEquipado() ? "EQUIPADO" : "NO EQUIPADO")<<endl;
 }

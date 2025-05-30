@@ -19,7 +19,10 @@ public:
     Armadura();
     Armadura(const Armadura& orig);
     virtual ~Armadura();
+    void setModificador_defensa(int modificador_defensa);
+    int getModificador_defensa() const;
     void leer(ifstream&);
+    void mostrar(ostream&) const;
 private:
     int modificador_defensa;
 };

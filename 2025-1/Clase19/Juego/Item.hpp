@@ -23,13 +23,17 @@ public:
     void GetNombre(char* nombre) const;
     void SetDescripcion(const char* descripcion);
     void GetDescripcion(char* descripcion) const;
+    void SetEquipado(bool equipado);
+    bool IsEquipado() const;
     
     void leer(ifstream&);
     void mostrar(ostream&) const;
     
+    
 private:
     char* descripcion;
     char* nombre;
+    bool equipado;
 };
 
 #endif /* ITEM_HPP */

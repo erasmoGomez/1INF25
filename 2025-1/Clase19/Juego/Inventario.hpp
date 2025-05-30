@@ -33,6 +33,9 @@ public:
     void cargar_items(ifstream &, char*);
     void mostrar_items(ostream&) const;
     
+    int equipar_consumible(const char*);
+    int equipar_armadura(const char*);
+    int equipar_arma(const char*);
 private:
     Consumible ventana_consumibles[15]{};
     Armadura ventana_armaduras[15]{};

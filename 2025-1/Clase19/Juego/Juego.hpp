@@ -30,7 +30,7 @@ public:
     void jugar();
     int conseguir_indice(char);
     void pintar();
-    void mostrar_items();
+    void mostrar_items(int);
 private:
     class Heroe heroes[10]{};
     int cantidad_heroes;

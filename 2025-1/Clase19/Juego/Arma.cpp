@@ -22,6 +22,14 @@ Arma::Arma(const Arma& orig) {
 Arma::~Arma() {
 }
 
+void Arma::setModificador_poder(int modificador_poder) {
+    this->modificador_poder = modificador_poder;
+}
+
+int Arma::getModificador_poder() const {
+    return modificador_poder;
+}
+
 void Arma::leer(ifstream&input){
     //Llama a la clase Padre y su metodo de lectura
     Item::leer(input);
@@ -29,4 +37,9 @@ void Arma::leer(ifstream&input){
     //Proceso de lectura de la clase hija
     input>>modificador_poder;
     input.get();
+}
+
+void Arma::mostrar(ostream&output) const{
+    Item::mostrar(output);
+    output<<setw(5)<<left<<modificador_poder<<setw(10)<<(IsEquipado() ? "EQUIPADO" : "NO EQUIPADO")<<endl;
 }

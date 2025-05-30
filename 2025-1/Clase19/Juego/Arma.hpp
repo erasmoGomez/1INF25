@@ -19,7 +19,10 @@ public:
     Arma();
     Arma(const Arma& orig);
     virtual ~Arma();
+    void setModificador_poder(int modificador_poder);
+    int getModificador_poder() const;
     void leer(ifstream&);
+    void mostrar(ostream&) const;
 private:
     int modificador_poder;
 };

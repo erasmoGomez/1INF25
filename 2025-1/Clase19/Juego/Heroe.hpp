@@ -58,6 +58,7 @@ public:
     int getKills() const; 
     
     void agregar_inventario(ifstream &, char*);
+    void equipar(const char*, int);
     
 private:
     char* id;

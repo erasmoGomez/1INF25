@@ -116,6 +116,7 @@ void Juego::jugar(){
     }
 }
 
-void Juego::mostrar_items(){
-    heroes[0].mostrar_heroe(cout);
+void Juego::mostrar_items(int indice_heroe){
+    heroes[indice_heroe].equipar("Bow", 1);
+    heroes[indice_heroe].mostrar_heroe(cout);
 }

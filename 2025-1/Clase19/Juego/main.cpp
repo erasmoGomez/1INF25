@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     juego.cargar_items();
     juego.cargar_mapa();
     juego.colocar_heroes();
-    juego.mostrar_items();
+    juego.mostrar_items(0);
     //juego.jugar();
             
     return 0;

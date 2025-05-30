@@ -19,6 +19,8 @@ public:
     Consumible();
     Consumible(const Consumible& orig);
     virtual ~Consumible();
+    void setModificador_hp(int modificador_hp);
+    int getModificador_hp() const;
     void leer(ifstream&);
     void mostrar(ostream&) const;
 private:

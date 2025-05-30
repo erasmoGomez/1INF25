@@ -14,6 +14,9 @@
 #include "Item.hpp"
 
 Item::Item() {
+    nombre = nullptr;
+    descripcion = nullptr;
+    equipado = false;
 }
 
 Item::Item(const Item& orig) {
@@ -44,6 +47,14 @@ void Item::GetDescripcion(char* descripcion) const {
     else strcpy(descripcion, this->descripcion);
 }
 
+void Item::SetEquipado(bool equipado) {
+    this->equipado = equipado;
+}
+
+bool Item::IsEquipado() const {
+    return equipado;
+}
+
 void Item::leer(ifstream&input){
     //Sword,A sharp and sturdy sword.,147
     char _nombre[50], _descripcion[70];
@@ -54,6 +65,6 @@ void Item::leer(ifstream&input){
 }
 
 void Item::mostrar(ostream&output) const{
-    output<<setw(30)<<nombre;
-    output<<setw(70)<<descripcion<<endl;
+    output<<setw(30)<<left<<nombre;
+    output<<setw(50)<<left<<descripcion;
 }
