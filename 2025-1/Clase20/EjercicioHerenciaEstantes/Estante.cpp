@@ -80,7 +80,7 @@ void Estante::pinta_estante(ofstream& output) const{
     output << endl;
     for (int i = 0; i < altura; i++) {
         for (int j = 0; j < anchura; j++) {
-            output<<espacios[i * anchura + j];
+            output<<espacios[i * anchura + j]; // output<<espacio
         }
         output << endl;
     }
@@ -92,6 +92,7 @@ void Estante::mostrar(ofstream &output) const{
     output << setw(15) << left << "Anchura del Estante: " << setw(5) << anchura << setw(15) << "Altura del Estante: " << altura << endl;
 
     pinta_estante(output);
+    
     output << endl;
     output << setw(11) << "CODIGO" << setw(27) << "NOMBRE" << setw(8) << "ANCHO" << setw(5) << "ALTO" << endl;
     imprime_linea(output, 50, '.');
