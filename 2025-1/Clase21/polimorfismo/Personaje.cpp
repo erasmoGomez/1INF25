@@ -25,6 +25,7 @@ Personaje::Personaje() {
 
 Personaje::Personaje(const Personaje& otro) {
     cout<<"Constructor Copia Personaje"<<endl;
+    //delete[]nombre;
     nombre = new char[strlen(otro.nombre) + 1];
     strcpy(nombre, otro.nombre);
     nivel = otro.nivel;

@@ -8,24 +8,23 @@
  * File:   Mago.hpp
  * Author: hecto
  *
- * Created on May 30, 2025, 5:20 AM
+ * Created on May 14, 2025, 4:39 PM
  */
 
 #ifndef MAGO_HPP
 #define MAGO_HPP
-#include "Personaje.hpp"
-class Mago : public Personaje {
+#include "Heroe.hpp"
+class Mago: public Heroe {
 public:
     Mago();
     Mago(const Mago& orig);
     virtual ~Mago();
-    Mago(const char* nombre_in, int nivel_in, int poder_magico_in, int mana_in);
-    void mostrar() const;
-    void leer(ifstream&);
-    void realizar_accion_pura();
+    void setMana(double mana);
+    double getMana() const;
+    //Sobrescribir el metodo mostrar_heroe
+    void mostrar_heroe(ostream&) const;
 private:
-    int poder_magico;
-    int mana;
+    double mana;
 };
 
 #endif /* MAGO_HPP */

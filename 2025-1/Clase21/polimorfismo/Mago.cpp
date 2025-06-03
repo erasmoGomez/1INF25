@@ -42,3 +42,7 @@ void Mago::leer(ifstream&input){
     input>>mana;
     input.get();
 }
+
+void Mago::realizar_accion_pura(){
+    
+}

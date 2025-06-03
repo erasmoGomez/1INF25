@@ -39,3 +39,7 @@ void Guerrero::leer(ifstream&input){
     input>>fuerza;
     input.get();
 }
+
+void Guerrero::realizar_accion_pura(){
+    
+}

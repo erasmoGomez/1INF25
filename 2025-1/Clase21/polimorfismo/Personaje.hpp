@@ -18,19 +18,19 @@ class Personaje {
 public:
     Personaje(const char*, int );
     Personaje();
-    Personaje(const Personaje& orig);
+    Personaje(const Personaje& orig); //Constructor Copia
     virtual ~Personaje();
     
     void setNivel(int nivel);
     int getNivel() const;
     void setNombre(const char* nombre);
     void getNombre(char*) const;
-    void operator=(const Personaje& otro);
+    void operator=(const Personaje& otro); //Sobrecarga del Operador =
     
-    virtual void mostrar() const;
+    virtual void mostrar() const; //Metodo Polimorfico
     virtual void leer(ifstream&);
     virtual void realizar_accion();
-//    virtual void realizar_accion_pura() = 0;
+    virtual void realizar_accion_pura() = 0;
 private:
     char* nombre;
     int nivel;

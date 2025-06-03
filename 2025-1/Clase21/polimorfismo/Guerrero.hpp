@@ -22,6 +22,7 @@ public:
     Guerrero(const char* nombre_in, int nivel_in, int fuerza_in);
     void mostrar() const;
     void leer(ifstream&);
+    void realizar_accion_pura();
 private:
     int fuerza;
 };
