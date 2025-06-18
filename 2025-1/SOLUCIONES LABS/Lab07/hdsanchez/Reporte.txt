@@ -1,0 +1,639 @@
+========================================================================================================================
+                                           REPORTE DE DRONES DEL MINISTERIO DE TRANSPORTES
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Lima
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 12
+TOTAL DE MULTAS ACUMULADAS: 4814
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV050
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 3
+        15/12/2025    PLT-100    Grave       428    15/13/2025
+        15/12/2025    PLT-100    Grave       428    15/13/2025
+        15/12/2025    PLT-100    Grave       428    15/13/2025
+
+    ID:                DV419
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV618
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV974
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-109    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS253
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/12/2025    PLT-101    Leve      267.5    15/13/2025
+
+    ID:                DS461
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-104    Leve      267.5    15/7/2025
+
+    ID:                DS318
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-107    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE190
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/12/2025    PLT-102    Grave       428    15/13/2025
+
+    ID:                DE686
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE999
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-108    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Arequipa
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 10
+TOTAL DE MULTAS ACUMULADAS: 3797
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV253
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV481
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        14/9/2025    PLT-103    Leve      267.5    14/10/2025
+
+    ID:                DV252
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        5/8/2025    PLT-106    Grave       428    5/9/2025
+
+    ID:                DV044
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        25/7/2025    PLT-109    Leve      267.5    25/8/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS714
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        12/7/2025    PLT-101    Grave       428    12/8/2025
+
+    ID:                DS799
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        14/6/2025    PLT-104    Leve      267.5    14/7/2025
+
+    ID:                DS203
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/9/2025    PLT-107    Grave       428    15/10/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE746
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        13/8/2025    PLT-102    Grave       428    13/9/2025
+
+    ID:                DE960
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        13/7/2025    PLT-105    Grave       428    13/8/2025
+
+    ID:                DE243
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        25/6/2025    PLT-108    Grave       428    25/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Cusco
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 7
+TOTAL DE MULTAS ACUMULADAS: 2996
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV753
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV276
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV001
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV317
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 0
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS652
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-101    Grave       428    15/7/2025
+
+    ID:                DS731
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 0
+
+    ID:                DS604
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 0
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE752
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-102    Grave       428    15/7/2025
+
+    ID:                DE514
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE375
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-108    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Trujillo
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 7
+TOTAL DE MULTAS ACUMULADAS: 2674
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV696
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV676
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 0
+
+    ID:                DV195
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 0
+
+    ID:                DV839
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 0
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS111
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-101    Grave       428    15/7/2025
+
+    ID:                DS339
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-104    Leve      267.5    15/7/2025
+
+    ID:                DS023
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-107    Leve      267.5    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE987
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-102    Grave       428    15/7/2025
+
+    ID:                DE142
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE959
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-108    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Piura
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 6
+TOTAL DE MULTAS ACUMULADAS: 2568
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV054
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV044
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV132
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV563
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-109    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS639
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 0
+
+    ID:                DS764
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 0
+
+    ID:                DS615
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-107    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE994
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 0
+
+    ID:                DE304
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 0
+
+    ID:                DE874
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-108    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Chiclayo
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 12
+TOTAL DE MULTAS ACUMULADAS: 4975
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV326
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV572
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV588
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV306
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-109    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS071
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-101    Grave       428    15/7/2025
+
+    ID:                DS609
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-104    Leve      267.5    15/7/2025
+
+    ID:                DS863
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 3
+        15/6/2025    PLT-107    Grave       428    15/7/2025
+        15/6/2025    PLT-107    Leve      267.5    15/7/2025
+        15/6/2025    PLT-107    Leve      267.5    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE679
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-102    Grave       428    15/7/2025
+
+    ID:                DE172
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE885
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-108    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Iquitos
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 10
+TOTAL DE MULTAS ACUMULADAS: 3958
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV187
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV661
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV371
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV670
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        30/12/2025    PLT-109    Grave       428    30/13/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS852
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-101    Leve      267.5    15/7/2025
+
+    ID:                DS994
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-104    Leve      267.5    15/7/2025
+
+    ID:                DS524
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/12/2025    PLT-107    Grave       428    15/13/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE830
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-102    Grave       428    15/7/2025
+
+    ID:                DE618
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE621
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        25/12/2025    PLT-108    Grave       428    25/13/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Tacna
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 14
+TOTAL DE MULTAS ACUMULADAS: 4865
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV512
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-100    Grave       428    15/7/2025
+
+    ID:                DV024
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-103    Grave       428    15/7/2025
+
+    ID:                DV902
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-106    Grave       428    15/7/2025
+
+    ID:                DV625
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-109    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS620
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-101    Leve      267.5    15/7/2025
+
+    ID:                DS333
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-104    Leve      267.5    15/7/2025
+
+    ID:                DS569
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-107    Grave       428    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE567
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-102    Grave       428    15/7/2025
+
+    ID:                DE027
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        15/6/2025    PLT-105    Grave       428    15/7/2025
+
+    ID:                DE105
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 5
+        15/6/2025    PLT-108    Leve      267.5    15/7/2025
+        15/6/2025    PLT-108    Leve      267.5    15/7/2025
+        15/6/2025    PLT-108    Leve      267.5    15/7/2025
+        15/6/2025    PLT-108    Leve      267.5    15/7/2025
+        15/6/2025    PLT-108    Leve      267.5    15/7/2025
+
+------------------------------------------------------------------------------------------------------------------------
+                                                       Zona Puno
+------------------------------------------------------------------------------------------------------------------------
+CANTIDAD DE MULTAS REGISTRADAS: 10
+TOTAL DE MULTAS ACUMULADAS: 4280
+------------------------------------------------------------------------------------------------------------------------
+Drones Velocidad:
+    ID:                DV001
+    UBICACION:         Avenida A
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        13/6/2024    PLT-100    Grave       428    13/7/2024
+
+    ID:                DV621
+    UBICACION:         Avenida D
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        13/7/2024    PLT-103    Grave       428    13/8/2024
+
+    ID:                DV573
+    UBICACION:         Avenida G
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        13/8/2025    PLT-106    Grave       428    13/9/2025
+
+    ID:                DV081
+    UBICACION:         Avenida J
+    CAPACIDAD:         5
+    NRO. INFRACCIONES: 1
+        18/8/2025    PLT-109    Grave       428    18/9/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Semaforo:
+    ID:                DS473
+    UBICACION:         Avenida B
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        13/6/2024    PLT-101    Grave       428    13/7/2024
+
+    ID:                DS849
+    UBICACION:         Avenida E
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        13/7/2024    PLT-104    Grave       428    13/8/2024
+
+    ID:                DS834
+    UBICACION:         Avenida H
+    CAPACIDAD:         10
+    NRO. INFRACCIONES: 1
+        18/8/2025    PLT-107    Grave       428    18/9/2025
+
+------------------------------------------------------------------------------------------------------------------------
+Drones Estacionamiento:
+    ID:                DE467
+    UBICACION:         Avenida C
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        13/7/2024    PLT-102    Grave       428    13/8/2024
+
+    ID:                DE033
+    UBICACION:         Avenida F
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        13/7/2024    PLT-105    Grave       428    13/8/2024
+
+    ID:                DE526
+    UBICACION:         Avenida I
+    CAPACIDAD:         15
+    NRO. INFRACCIONES: 1
+        18/8/2025    PLT-108    Grave       428    18/9/2025
+

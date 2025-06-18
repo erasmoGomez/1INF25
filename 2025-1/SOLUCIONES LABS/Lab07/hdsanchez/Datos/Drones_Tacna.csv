@@ -1,0 +1,10 @@
+Velocidad,DV512,Avenida A,5,60
+Semaforo,DS620,Avenida B,10,true
+Estacionamiento,DE567,Avenida C,15,false
+Velocidad,DV024,Avenida D,5,60
+Semaforo,DS333,Avenida E,10,true
+Estacionamiento,DE027,Avenida F,15,false
+Velocidad,DV902,Avenida G,5,60
+Semaforo,DS569,Avenida H,10,true
+Estacionamiento,DE105,Avenida I,15,true
+Velocidad,DV625,Avenida J,5,60
