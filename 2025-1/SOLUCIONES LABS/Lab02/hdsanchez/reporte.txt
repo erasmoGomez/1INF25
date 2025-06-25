@@ -1,0 +1,113 @@
+======================================================================
+  DNI     CLIENTE                               CANT VEHICULOS
+----------------------------------------------------------------------
+63736112  ZAMORA ZAVALETA RONAL MANUEL                 2         
+45043076  VEGA VILCARA CARMELA TERESA                  3         
+53853385  SOLIS NARVAEZ MARIA MADELEINE                3         
+27185429  SOLIS CHUNG ROLANDO                          2         
+35912665  MARTINEZ CRUZ EVERT RONY                     3         
+13219606  RODRIGUEZ MORENO BLANCA OFELIA               3         
+71832810  SUELDO SEDANO ADRIA                          2         
+35297848  ASTETE CHANG GUIDA                           1         
+80310768  MINAYA BERROCAL HELI                         2         
+75945248  MEJIA RODRIGUEZ INES VALENTINA               1         
+84186239  RIVERO CORONADO HECTOR ALONSO                1         
+68310808  CANO POLO MILAGROS ISABEL                    3         
+97849227  PRADO ESPINOZA MILAGROS                      1         
+88854166  PINTO ROJAS JUVENAL FRANCISCO                3         
+15029228  VALVERDE MAEIREIZO MELVIN JAIR               3         
+60335381  DIAZ TANG ENRIQUE                            2         
+54141214  DURAND MIRANDA MIGUEL JUAN                   3         
+79766395  FUENTES ESCALANTE PATRICIA ELIZABETH         3         
+48878256  RAFFO CORONADO ROLANDO                       4         
+89314225  RIOS DURAND CARLOS EDILBERTO                 1         
+48450395  RAMIREZ ASTETE KARINA ESTEFANIA              3         
+31107104  MOSCOSO ARIAS FIORELLA                       2         
+16477908  BACA CAMACHO MILAGROS NATALIA                3         
+58992942  NARVAEZ CASTILLO JESUS RAFAEL                3         
+77763722  FARFAN SALAZAR MARGOT                        4         
+32090869  SUELDO ANTEZANO LUIS JESUS                   1         
+66849703  MERCADO CORONEL ELIA                         2         
+26522329  SANCHEZ DEL CASTILLO FIORELLA ROSARIO        3         
+73357516  TRIGUEROS JUGO LUZ                           3         
+48528209  ZAVALETA CORONADO FELICITA ELOISA            1         
+69494747  MENDOZA ROMERO VIRGINIA YDALI                1         
+47844324  VILCA LEE NESTOR HUGO                        1         
+82870470  SEDANO RETAMOSO ELIA YOLANDA                 2         
+89941095  ARCA LARRIEGA LUCERO YLIANA                  3         
+87495937  MORALES PASQUEL KARIN MARIBEL                3         
+49927087  INGA PALOMARES ERIKA                         3         
+50201756  ZEGARRA PENA CARMELA                         2         
+29989682  CAMACHO PAIRAZAMAN YDALI LUCERO              3         
+64178096  VIZCARRA CARBAJAL IVAN FAUSTO                3         
+69252518  GORDILLO SANCHEZ RONALD JUVENAL              2         
+42956681  POMAJAMBO EGUSQUIZA PAUL                     3         
+68303148  PATINO BOLANOS DELICIA VIRGINIA              1         
+87282766  SUAREZ CHANG GLORIA                          1         
+73818744  FUENTES GAMARRA HUGO                         1         
+53374153  SERRANO IBEROS FRANCISCO                     3         
+60784914  RUIZ ZEVALLOS WALTER RONY                    4         
+35671623  EPIQUEN YEP GUIDA VICTORIA                   3         
+44188994  VILCARA YALLICO MAGALI                       2         
+73972114  AVILA MARTEL JAIME MANUEL                    3         
+99950484  CORTES CORTEZ RAUL ALEX                      4         
+28820944  RIOS ZAMORA INES                             1         
+71578206  ARROYO TOMASICHE NATALIA                     2         
+21621497  AYALA CASTILLO ERICKA OFELIA                 2         
+30441350  RETAMOSO SALAMANCA DELIA MARITZA             4         
+63291514  LAU ZAVALETA YDALI ELIA                      2         
+70414420  AVILA REYES TATIANA                          2         
+54447051  AVILA DEL CASTILLO ANNIE                     3         
+51395324  TRIGUEROS PORTUGAL ARTURO FAUSTO             1         
+32244565  HENRIQUEZ PAREDES PAUL RAFAEL                4         
+79641328  TOKESHI GUEVARA JAIME                        3         
+34976629  LOZADA ARGUEDAS FELICITA VALENTINA           2         
+75348522  LOZADA FORZANI DELIA                         3         
+88167677  PRADO VERA JUAN                              4         
+86429854  MOSCOSO LAURA JANET VALENTINA                2         
+67185679  FLORENCIO CORONADO ALONSO                    3         
+80457845  NORABUENA MOYA HECTOR                        3         
+24859596  FLORIAN CUBA CHRISTIAN                       3         
+39544560  LUNA VARGAS WALDEMAR                         2         
+90467829  IPARRAGUIRRE PEREZ NICOLAS                   4         
+73567806  ARCA SANCHEZ MAGALI BEATRIZ                  4         
+81485316  JUSTINO MARTINEZ ENRIQUE                     1         
+49428502  RIVERO CORTEZ WILVER ALFONSO                 1         
+12270502  CUEVA FUENTES CINTHIA DELIA                  3         
+29833157  HIJAR LAM MARTIN                             3         
+38862473  WONG MAEIREIZO BEATRIZ                       3         
+12858682  ZARATE PEREZ ALEXANDER                       1         
+86718074  ESCALANTE ROJAS INES ADRIA                   2         
+54665716  GONZALES GAMARRA GIOVANA KARINA              1         
+36079131  ZAVALETA VILCA ERICKA ELEONOR                2         
+31205866  VIZCARRA MONTERO JAIR                        1         
+12443643  LEE SERRANO ROSARIO                          1         
+44346371  ALFARO ALFARO ERICK BRUNO                    1         
+25518120  RONDON CABRERA ALEXANDER ADOLFO              3         
+15559308  BRAVO CORTES JANET FLOR                      3         
+30046639  SALAMANCA VEGA VIRGINIA MARTHA               3         
+39244942  PENA SUAREZ GLENDA MARGOT                    1         
+81528434  EPIQUEN AVILA ENRIQUE                        2         
+35683701  DIAZ MOYA ELIA ANNIE                         1         
+43454884  ESPINOZA CHANG SHIRLEY                       2         
+96693273  VALDERRAMA BERROCAL EVERT                    4         
+64532449  INFANTES MERCADO LUIS WALDEMAR               4         
+77367073  JAUREGUI DEL CASTILLO VICTOR RICARDO         4         
+81799482  CERNA CERNA CINTHIA                          2         
+13628871  QUIROGA HERNANDEZ SILVANA ZKENIA             1         
+79672079  CONTRERAS CHANG JOHANA CINTHIA               3         
+19963454  SALAMANCA CABRERA NESTOR EVERT               3         
+74325123  TANG MOSCOSO JOHANA                          2         
+47528229  SAAVEDRA GONZALES WILMER                     3         
+50200823  LEYVA SAM DIANA DELIA                        3         
+37080813  FLORIAN VALDERRAMA JOSE                      2         
+16136330  YEP PRECIADO RICHARD                         1         
+19568447  VEGA SORIA HENRRY                            2         
+82031355  EGUSQUIZA BERROCAL DORIS NANCY               3         
+52003695  CARBAJAL SALAS MAGDA ZKENIA                  1         
+34248357  LEYVA LANDEO NANCY SONIA                     4         
+27864822  FIGUEROA MEDINA MADELEINE                    3         
+85501710  VIZCARDO SINCHE MARIBEL                      2         
+16925690  CABRERA TORO FANNY                           3         
+52002275  CASANOVA ZEGARRA MARITZA                     2         
+======================================================================
