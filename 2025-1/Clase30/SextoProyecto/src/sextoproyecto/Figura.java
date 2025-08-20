@@ -9,7 +9,7 @@ package sextoproyecto;
  *
  * @author hecto
  */
-public abstract class Figura {
+public abstract  class Figura {
     private String id;
     private double base;
     private double altura;
@@ -62,5 +62,5 @@ public abstract class Figura {
         this.altura = altura;
     }
     
-    abstract public void area(); //Metodo PURO!
+    public abstract void area(); //Metodo PURO!
 }
