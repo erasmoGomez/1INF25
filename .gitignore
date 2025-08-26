@@ -101,3 +101,6 @@ main.dSYM/
 /laboratorios_pasados/2024-2/L10/solucion-final/L10/nbproject/private/
 /laboratorios_pasados/2024-2/L10/solucion-final/L10/dist/
 /laboratorios_pasados/2024-2/L10/solucion-final/L10/build/
+!cmake-build-debug/Data/*
+!cmake-build-debug/Reports/*
+
