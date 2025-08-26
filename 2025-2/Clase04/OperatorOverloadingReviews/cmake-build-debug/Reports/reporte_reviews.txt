@@ -1,0 +1,2000 @@
+
+                      20250607            Highly recommended                          0.89
+
+                      20240429          Very good experience                          0.84
+
+                      20250715           Not worth the price                          0.20
+
+                      20231120                     It's okay                          0.59
+
+                      20230922               Amazing product                          0.83
+
+                      20250121                   As expected                          0.49
+
+                      20240313           Not worth the price                          0.28
+
+                      20241025   Delighted with the purchase                          0.91
+
+                      20240602                      Very bad                          0.11
+
+                      20240202              Standard quality                          0.53
+
+                      20240602                   Great value                          0.81
+
+                      20231205          Very good experience                          0.81
+
+                      20240824                  Unacceptable                          0.17
+
+                      20240519       Stopped working quickly                          0.00
+
+                      20250222                   Top quality                          0.71
+
+                      20231111               Plain packaging                          0.47
+
+                      20240827            Average experience                          0.44
+
+                      20231008                    Acceptable                          0.52
+
+                      20231112                      Terrible                          0.08
+
+                      20240915                 Fast delivery                          0.74
+
+                      20240205                   Very useful                          0.97
+
+                      20250709           Everything was fine                          0.83
+
+                      20250507                   As expected                          0.50
+
+                      20240429                   Top quality                          0.74
+
+                      20240525           Not worth the price                          0.11
+
+                      20240403                     It's okay                          0.51
+
+                      20240413                Arrived broken                          0.06
+
+                      20241006                   Very useful                          0.88
+
+                      20250325                Arrived broken                          0.10
+
+                      20240327                Decent product                          0.48
+
+                      20250611                  Satisfactory                          0.46
+
+                      20240112        Impressive performance                          1.00
+
+                      20250224   Delighted with the purchase                          0.85
+
+                      20241103                   Never again                          0.07
+
+                      20240827             I would buy again                          0.92
+
+                      20250125                     It's okay                          0.43
+
+                      20231213      Exceeded my expectations                          0.87
+
+                      20250719           Everything was fine                          0.70
+
+                      20240920          Super friendly staff                          0.74
+
+                      20250214        Impressive performance                          0.87
+
+                      20230903                  As described                          0.54
+
+                      20250721           Horrible experience                          0.16
+
+                      20250609                       Perfect                          0.84
+
+                      20241110             Excellent service                          0.83
+
+                      20240518                   Low quality                          0.03
+
+                      20250123                Waste of money                          0.09
+
+                      20250607             Meets basic needs                          0.47
+
+                      20240126      Exceeded my expectations                          0.93
+
+                      20250225                Defective item                          0.18
+
+                      20230823               Could be better                          0.40
+
+                      20230911                 Fast delivery                          0.88
+
+                      20240702               Amazing product                          0.82
+
+                      20250325                 Too expensive                          0.10
+
+                      20250101           Not worth the price                          0.20
+
+                      20231229                    Five stars                          0.93
+
+                      20250307        Remarkable improvement                          0.92
+
+                      20250505                   Very useful                          0.78
+
+                      20250225                   Bad service                          0.13
+
+                      20250822                 Fast delivery                          0.88
+
+                      20241113       Stopped working quickly                          0.23
+
+                      20231224           Everything was fine                          0.81
+
+                      20240803        Impressive performance                          0.84
+
+                      20240414               Nothing special                          0.43
+
+                      20231103          I don't recommend it                          0.05
+
+                      20240413                    I loved it                          0.92
+
+                      20240726               Amazing product                          0.96
+
+                      20240603             Meets basic needs                          0.50
+
+                      20250225   Delighted with the purchase                          0.93
+
+                      20250404               Could be better                          0.52
+
+                      20241012          Very good experience                          0.80
+
+                      20250627             Works as expected                          0.88
+
+                      20241016                     It's okay                          0.59
+
+                      20250712                  As described                          0.50
+
+                      20231024                   Great value                          0.98
+
+                      20231212                   Very useful                          0.70
+
+                      20250222             Works as expected                          0.92
+
+                      20240226               Amazing product                          0.86
+
+                      20231108        Impressive performance                          0.83
+
+                      20231201        Impressive performance                          0.86
+
+                      20230907              I didn't like it                          0.00
+
+                      20240209                    Five stars                          0.83
+
+                      20240328          I don't recommend it                          0.18
+
+                      20240207                   Top quality                          0.97
+
+                      20240520       Stopped working quickly                          0.11
+
+                      20240610        Impressive performance                          0.79
+
+                      20250630                It didn't work                          0.11
+
+                      20240304                    I loved it                          0.92
+
+                      20250407          I don't recommend it                          0.18
+
+                      20240709   Delighted with the purchase                          0.81
+
+                      20241223                  Unremarkable                          0.53
+
+                      20240131        Remarkable improvement                          0.86
+
+                      20231113                 Too expensive                          0.23
+
+                      20250423               Amazing product                          0.79
+
+                      20241009   Delighted with the purchase                          0.82
+
+                      20240501                     It's okay                          0.48
+
+                      20250518   Delighted with the purchase                          0.73
+
+                      20250323                  Satisfactory                          0.52
+
+                      20240319              Standard quality                          0.52
+
+                      20240423             I would buy again                          0.85
+
+                      20250710               No major issues                          0.49
+
+                      20240711                 Too expensive                          0.04
+
+                      20230901                   Serviceable                          0.47
+
+                      20231203                   Very useful                          0.82
+
+                      20250122                 Fast delivery                          0.79
+
+                      20231101        Misleading description                          0.14
+
+                      20240609        Impressive performance                          0.88
+
+                      20250812        Remarkable improvement                          1.00
+
+                      20230831                   As expected                          0.51
+
+                      20240624                      Terrible                          0.17
+
+                      20240107          Very good experience                          0.84
+
+                      20250311                       Perfect                          0.70
+
+                      20250503                   Great value                          0.85
+
+                      20240318                  Satisfactory                          0.50
+
+                      20250121                     It's okay                          0.60
+
+                      20231125                  Satisfactory                          0.49
+
+                      20231007             I would buy again                          0.87
+
+                      20250605                   Low quality                          0.15
+
+                      20241117              Adequate for now                          0.43
+
+                      20250319           Everything was fine                          0.94
+
+                      20250730           Not worth the price                          0.21
+
+                      20230928                  Disappointed                          0.21
+
+                      20250310             I would buy again                          0.78
+
+                      20231004                    I loved it                          0.96
+
+                      20240823               Amazing product                          0.74
+
+                      20250705        Impressive performance                          0.90
+
+                      20241012                It didn't work                          0.30
+
+                      20240421                   Low quality                          0.07
+
+                      20241018                   Great value                          0.80
+
+                      20241017              I didn't like it                          0.16
+
+                      20240522          Very good experience                          0.81
+
+                      20240917                  Poor support                          0.03
+
+                      20240406          Super friendly staff                          0.86
+
+                      20240815               Amazing product                          0.77
+
+                      20240407                   Very useful                          0.89
+
+                      20241004           Everything was fine                          0.78
+
+                      20240603        Remarkable improvement                          0.97
+
+                      20241005                   As expected                          0.45
+
+                      20240727                      Terrible                          0.12
+
+                      20240516            Highly recommended                          0.92
+
+                      20231001             Works as expected                          0.75
+
+                      20240810                Arrived broken                          0.17
+
+                      20241111                  Unremarkable                          0.58
+
+                      20231219   Delighted with the purchase                          0.72
+
+                      20240304             Works as expected                          0.86
+
+                      20230824                   As expected                          0.52
+
+                      20250726                   Bad service                          0.21
+
+                      20240829                   Great value                          0.75
+
+                      20250522          Very good experience                          0.74
+
+                      20240625              Adequate for now                          0.53
+
+                      20240722                       Perfect                          0.87
+
+                      20250312             Works as expected                          0.87
+
+                      20250703                   Low quality                          0.18
+
+                      20250514                Decent product                          0.46
+
+                      20250306                Waste of money                          0.17
+
+                      20240611   Delighted with the purchase                          0.87
+
+                      20250505               No major issues                          0.46
+
+                      20241117                   Very useful                          1.00
+
+                      20250127          Neither good nor bad                          0.53
+
+                      20250627        Remarkable improvement                          0.75
+
+                      20250702              Standard quality                          0.54
+
+                      20231126              I didn't like it                          0.07
+
+                      20250711                   Very useful                          0.91
+
+                      20240120               Amazing product                          0.94
+
+                      20241221            Average experience                          0.45
+
+                      20241201   Delighted with the purchase                          0.93
+
+                      20240309                   Never again                          0.18
+
+                      20250110             I would buy again                          0.92
+
+                      20250624                  As described                          0.60
+
+                      20241031        Remarkable improvement                          0.83
+
+                      20241210               Amazing product                          0.79
+
+                      20231225               No major issues                          0.45
+
+                      20250706                   As expected                          0.45
+
+                      20250423          Super friendly staff                          0.84
+
+                      20250511                Defective item                          0.18
+
+                      20241101           Not worth the price                          0.17
+
+                      20241121                  Poor support                          0.22
+
+                      20241125               Amazing product                          0.85
+
+                      20250605        Remarkable improvement                          0.97
+
+                      20241231                  Satisfactory                          0.48
+
+                      20241115                       Perfect                          1.00
+
+                      20240419                   Great value                          0.90
+
+                      20250226             I would buy again                          0.78
+
+                      20240415             I would buy again                          0.76
+
+                      20250815             Works as expected                          0.89
+
+                      20241013          Super friendly staff                          0.83
+
+                      20241021             Works as expected                          0.91
+
+                      20240924                  Disappointed                          0.19
+
+                      20250804   Delighted with the purchase                          0.84
+
+                      20240915                    Fair price                          0.45
+
+                      20240623                 Late delivery                          0.03
+
+                      20250224           Not worth the price                          0.11
+
+                      20250501                  Poor support                          0.22
+
+                      20240403                    Five stars                          0.87
+
+                      20230921                   Top quality                          0.75
+
+                      20240208                It didn't work                          0.16
+
+                      20250521                Decent product                          0.52
+
+                      20250420               Nothing special                          0.45
+
+                      20231116               Neutral overall                          0.51
+
+                      20241207            Highly recommended                          0.85
+
+                      20240914          Super friendly staff                          0.76
+
+                      20240722                   Top quality                          0.88
+
+                      20240602                 Late delivery                          0.19
+
+                      20240507                  Poor support                          0.24
+
+                      20230911          I don't recommend it                          0.23
+
+                      20240815           Everything was fine                          0.74
+
+                      20250620             Excellent service                          0.77
+
+                      20240502             Excellent service                          0.89
+
+                      20250520             I would buy again                          0.89
+
+                      20241219                   Serviceable                          0.53
+
+                      20240402                  Satisfactory                          0.60
+
+                      20240903     Will recommend to friends                          0.90
+
+                      20231218                   Low quality                          0.24
+
+                      20240706             Excellent service                          0.93
+
+                      20240707                Decent product                          0.54
+
+                      20241002                   Bad service                          0.12
+
+                      20231108                    Works fine                          0.55
+
+                      20231205                    Acceptable                          0.45
+
+                      20250723                  As described                          0.49
+
+                      20250324        Misleading description                          0.11
+
+                      20250218                 Fast delivery                          0.86
+
+                      20231101              Standard quality                          0.60
+
+                      20230904                  Poor support                          0.00
+
+                      20231209                 Fast delivery                          0.90
+
+                      20250603       Stopped working quickly                          0.02
+
+                      20250816      Exceeded my expectations                          0.81
+
+                      20250207           Horrible experience                          0.24
+
+                      20250514           Not worth the price                          0.16
+
+                      20241230                   Serviceable                          0.44
+
+                      20240523               Amazing product                          0.79
+
+                      20231119          Super friendly staff                          0.90
+
+                      20240428                  Disappointed                          0.09
+
+                      20250508              Standard quality                          0.51
+
+                      20230921              Standard quality                          0.50
+
+                      20240225                    Fair price                          0.46
+
+                      20240513     Will recommend to friends                          1.00
+
+                      20250810           Not worth the price                          0.20
+
+                      20230902             Meets basic needs                          0.40
+
+                      20231118             Works as expected                          0.86
+
+                      20250104                    Works fine                          0.46
+
+                      20250730               Could be better                          0.55
+
+                      20241123                 Too expensive                          0.09
+
+                      20240619               Amazing product                          0.84
+
+                      20240701                    Fair price                          0.53
+
+                      20241219                    Fair price                          0.55
+
+                      20241031           Not worth the price                          0.05
+
+                      20240726          Super friendly staff                          0.82
+
+                      20240526               Amazing product                          0.81
+
+                      20231224                Arrived broken                          0.10
+
+                      20231223                   Low quality                          0.29
+
+                      20240306                    Five stars                          0.88
+
+                      20240601                Defective item                          0.05
+
+                      20250425          Very good experience                          0.92
+
+                      20240308                 Fast delivery                          1.00
+
+                      20240222        Impressive performance                          0.93
+
+                      20231230                    I loved it                          0.73
+
+                      20250311             I would buy again                          0.81
+
+                      20250606                  Poor support                          0.25
+
+                      20231206                  Disappointed                          0.09
+
+                      20240609               No major issues                          0.53
+
+                      20240805                    I loved it                          0.91
+
+                      20240507                  Poor support                          0.08
+
+                      20231217                   Never again                          0.15
+
+                      20250107                    I loved it                          0.70
+
+                      20240125   Delighted with the purchase                          0.77
+
+                      20240629               Amazing product                          0.83
+
+                      20231222              Adequate for now                          0.43
+
+                      20250504               Plain packaging                          0.60
+
+                      20240410                   Never again                          0.04
+
+                      20241126                Waste of money                          0.11
+
+                      20250416                Waste of money                          0.16
+
+                      20250327               Plain packaging                          0.59
+
+                      20231202                   Bad service                          0.04
+
+                      20250524           Everything was fine                          0.94
+
+                      20240130        Impressive performance                          0.85
+
+                      20231107             Works as expected                          0.77
+
+                      20241126               Could be better                          0.53
+
+                      20240616                       Perfect                          0.87
+
+                      20250815          Super friendly staff                          0.80
+
+                      20231103                  Satisfactory                          0.50
+
+                      20250524             Meets basic needs                          0.48
+
+                      20241031               Amazing product                          0.86
+
+                      20250616            Highly recommended                          0.90
+
+                      20240115      Exceeded my expectations                          0.98
+
+                      20240702                   Serviceable                          0.43
+
+                      20240613          Super friendly staff                          1.00
+
+                      20250728                   Top quality                          0.70
+
+                      20240527               Could be better                          0.49
+
+                      20241113                    I loved it                          0.90
+
+                      20241107                  Unacceptable                          0.17
+
+                      20240505               Amazing product                          0.80
+
+                      20250713                  Disappointed                          0.13
+
+                      20250415           Horrible experience                          0.11
+
+                      20250404      Exceeded my expectations                          0.80
+
+                      20241216               No major issues                          0.55
+
+                      20240602   Delighted with the purchase                          0.88
+
+                      20241111               Could be better                          0.46
+
+                      20231124              Adequate for now                          0.55
+
+                      20240729          Very good experience                          0.87
+
+                      20240203                    Five stars                          0.92
+
+                      20240613                Decent product                          0.54
+
+                      20250308           Everything was fine                          0.78
+
+                      20240710          Very good experience                          0.81
+
+                      20241009                      Very bad                          0.21
+
+                      20250626       Stopped working quickly                          0.20
+
+                      20241019        Remarkable improvement                          0.85
+
+                      20240827               Could be better                          0.51
+
+                      20250524                    I loved it                          0.95
+
+                      20240318             I would buy again                          0.80
+
+                      20240612                    Five stars                          0.89
+
+                      20231225     Will recommend to friends                          0.83
+
+                      20240424                Waste of money                          0.13
+
+                      20250309             Works as expected                          0.94
+
+                      20231126          Very good experience                          0.92
+
+                      20241207                It didn't work                          0.22
+
+                      20250114                Waste of money                          0.25
+
+                      20250125                 Late delivery                          0.15
+
+                      20241229              I didn't like it                          0.20
+
+                      20241202                Decent product                          0.48
+
+                      20240305                Defective item                          0.18
+
+                      20240109           Horrible experience                          0.14
+
+                      20241020        Remarkable improvement                          0.86
+
+                      20240522                Waste of money                          0.20
+
+                      20240623                  Disappointed                          0.08
+
+                      20250628               Neutral overall                          0.60
+
+                      20241122                    Fair price                          0.44
+
+                      20240728                   As expected                          0.43
+
+                      20240912              Standard quality                          0.57
+
+                      20240303              I didn't like it                          0.21
+
+                      20250330             Works as expected                          0.90
+
+                      20231006                    Five stars                          0.90
+
+                      20250814                   Never again                          0.15
+
+                      20240921                It didn't work                          0.08
+
+                      20250111                It didn't work                          0.16
+
+                      20250118                Arrived broken                          0.10
+
+                      20231203       Stopped working quickly                          0.23
+
+                      20231203               No major issues                          0.49
+
+                      20230907                 Late delivery                          0.08
+
+                      20250623                 Too expensive                          0.12
+
+                      20241215           Horrible experience                          0.18
+
+                      20240803                Decent product                          0.47
+
+                      20250618                   Great value                          0.78
+
+                      20250713                   Never again                          0.17
+
+                      20240712               Could be better                          0.51
+
+                      20250227           Everything was fine                          0.81
+
+                      20240419                    Acceptable                          0.47
+
+                      20240411                 Late delivery                          0.17
+
+                      20231201                      Terrible                          0.03
+
+                      20241119                       Perfect                          0.74
+
+                      20230921                    I loved it                          0.79
+
+                      20240618             Works as expected                          0.83
+
+                      20240119             Works as expected                          0.87
+
+                      20250324          Neither good nor bad                          0.59
+
+                      20240213     Will recommend to friends                          0.92
+
+                      20240917                    Works fine                          0.49
+
+                      20250113                It didn't work                          0.15
+
+                      20240416                  Satisfactory                          0.44
+
+                      20241205             Excellent service                          0.85
+
+                      20241211           Not worth the price                          0.13
+
+                      20240131                 Fast delivery                          0.88
+
+                      20250415             Works as expected                          0.78
+
+                      20250729                       Perfect                          0.89
+
+                      20240313                  Poor support                          0.27
+
+                      20231210   Delighted with the purchase                          0.84
+
+                      20240824                    Acceptable                          0.52
+
+                      20230914                   Never again                          0.21
+
+                      20240530                    I loved it                          0.82
+
+                      20250504                Waste of money                          0.17
+
+                      20240414                    Fair price                          0.50
+
+                      20240403               Plain packaging                          0.51
+
+                      20240505               Neutral overall                          0.45
+
+                      20250527                    I loved it                          0.85
+
+                      20240704          I don't recommend it                          0.19
+
+                      20250407             I would buy again                          0.97
+
+                      20231123                Arrived broken                          0.23
+
+                      20241021             I would buy again                          1.00
+
+                      20250225        Misleading description                          0.09
+
+                      20250216                  Satisfactory                          0.55
+
+                      20240207                    Five stars                          0.86
+
+                      20240620                Arrived broken                          0.30
+
+                      20231218            Average experience                          0.45
+
+                      20240114              I didn't like it                          0.08
+
+                      20250715                   Never again                          0.10
+
+                      20250315                   Top quality                          0.70
+
+                      20230906          Very good experience                          0.81
+
+                      20241130            Highly recommended                          0.79
+
+                      20250412                 Fast delivery                          0.86
+
+                      20231211               Could be better                          0.52
+
+                      20230917                   As expected                          0.60
+
+                      20240723              I didn't like it                          0.23
+
+                      20250616          Super friendly staff                          0.80
+
+                      20250809             Works as expected                          0.78
+
+                      20231220                    I loved it                          0.89
+
+                      20240629                      Terrible                          0.04
+
+                      20231130        Impressive performance                          1.00
+
+                      20240108                 Fast delivery                          0.94
+
+                      20250709           Not worth the price                          0.11
+
+                      20241025               Neutral overall                          0.40
+
+                      20241020               Could be better                          0.58
+
+                      20250514            Highly recommended                          0.84
+
+                      20230925             Meets basic needs                          0.57
+
+                      20241119               Amazing product                          0.72
+
+                      20240828                 Fast delivery                          0.80
+
+                      20250302        Misleading description                          0.15
+
+                      20231024                   Very useful                          0.85
+
+                      20231226       Stopped working quickly                          0.11
+
+                      20231124               Plain packaging                          0.54
+
+                      20230913                   Great value                          0.76
+
+                      20240428                  Disappointed                          0.14
+
+                      20240320        Impressive performance                          0.86
+
+                      20240322                    Works fine                          0.53
+
+                      20240724                  Unacceptable                          0.21
+
+                      20230825             I would buy again                          0.76
+
+                      20240103          Neither good nor bad                          0.41
+
+                      20231213               Nothing special                          0.58
+
+                      20240104               Amazing product                          0.88
+
+                      20250416      Exceeded my expectations                          0.79
+
+                      20240520             Works as expected                          0.97
+
+                      20250211           Everything was fine                          0.86
+
+                      20241222                 Fast delivery                          0.94
+
+                      20250129               No major issues                          0.50
+
+                      20250119     Will recommend to friends                          1.00
+
+                      20231006                Defective item                          0.29
+
+                      20240626               Nothing special                          0.49
+
+                      20231024                   Never again                          0.23
+
+                      20241101               Could be better                          0.54
+
+                      20250821                 Too expensive                          0.26
+
+                      20231113             I would buy again                          0.77
+
+                      20231029     Will recommend to friends                          0.90
+
+                      20250601              Standard quality                          0.56
+
+                      20240916                Defective item                          0.01
+
+                      20240619               Plain packaging                          0.43
+
+                      20241105          Very good experience                          0.70
+
+                      20250623                   As expected                          0.48
+
+                      20240330               Amazing product                          0.91
+
+                      20241019          Super friendly staff                          0.97
+
+                      20241004          Very good experience                          0.86
+
+                      20240708            Highly recommended                          0.98
+
+                      20240909                  Poor support                          0.04
+
+                      20231030           Everything was fine                          0.71
+
+                      20231126                 Fast delivery                          0.85
+
+                      20240103                   Serviceable                          0.52
+
+                      20250320                  As described                          0.50
+
+                      20241016             Works as expected                          0.70
+
+                      20231014                  Unacceptable                          0.14
+
+                      20240707   Delighted with the purchase                          0.75
+
+                      20250123                    Five stars                          0.90
+
+                      20240408        Misleading description                          0.18
+
+                      20250314            Highly recommended                          0.77
+
+                      20250401             Works as expected                          0.81
+
+                      20250319                  Unacceptable                          0.07
+
+                      20250512                   As expected                          0.50
+
+                      20230918                  Satisfactory                          0.56
+
+                      20230921                       Perfect                          0.77
+
+                      20240804      Exceeded my expectations                          0.89
+
+                      20240116                Decent product                          0.47
+
+                      20231102             Excellent service                          0.79
+
+                      20231124                   Bad service                          0.14
+
+                      20240911                   Great value                          0.77
+
+                      20240131                   Great value                          0.81
+
+                      20250326                     It's okay                          0.43
+
+                      20240129     Will recommend to friends                          1.00
+
+                      20231012                  Satisfactory                          0.50
+
+                      20241118               Could be better                          0.46
+
+                      20250505            Highly recommended                          0.87
+
+                      20240330                      Terrible                          0.14
+
+                      20240810                       Perfect                          0.83
+
+                      20250717               Could be better                          0.54
+
+                      20250212                     It's okay                          0.55
+
+                      20240404     Will recommend to friends                          0.81
+
+                      20231018                       Perfect                          0.80
+
+                      20240326           Horrible experience                          0.13
+
+                      20240614             Excellent service                          0.70
+
+                      20250113                   Low quality                          0.03
+
+                      20240102               Amazing product                          0.96
+
+                      20250116                    Fair price                          0.60
+
+                      20231104                    I loved it                          0.83
+
+                      20241111           Everything was fine                          0.90
+
+                      20240708                   Serviceable                          0.52
+
+                      20241010                 Late delivery                          0.30
+
+                      20240614             Excellent service                          0.94
+
+                      20240720     Will recommend to friends                          0.84
+
+                      20241206        Misleading description                          0.07
+
+                      20231121          Very good experience                          0.72
+
+                      20240428                   Top quality                          0.87
+
+                      20250209                       Perfect                          0.79
+
+                      20240804      Exceeded my expectations                          0.74
+
+                      20231109                  As described                          0.46
+
+                      20250216                    Fair price                          0.44
+
+                      20240816                It didn't work                          0.28
+
+                      20240420            Highly recommended                          0.92
+
+                      20240312             I would buy again                          0.85
+
+                      20250624                    Five stars                          0.97
+
+                      20241210                  Disappointed                          0.16
+
+                      20241124                   Serviceable                          0.45
+
+                      20250611               Plain packaging                          0.59
+
+                      20240718                Arrived broken                          0.19
+
+                      20240124                    Five stars                          0.77
+
+                      20241117                  Satisfactory                          0.49
+
+                      20250419        Remarkable improvement                          0.78
+
+                      20231106          Super friendly staff                          0.74
+
+                      20230930                       Perfect                          0.92
+
+                      20231109            Average experience                          0.60
+
+                      20250513                Decent product                          0.42
+
+                      20241208                     It's okay                          0.53
+
+                      20241125                  Disappointed                          0.10
+
+                      20250620     Will recommend to friends                          0.81
+
+                      20241222                     It's okay                          0.46
+
+                      20241126                   Great value                          0.78
+
+                      20231117          Neither good nor bad                          0.50
+
+                      20231002          Super friendly staff                          0.78
+
+                      20241114               Plain packaging                          0.52
+
+                      20240201                       Perfect                          0.85
+
+                      20240922                   Great value                          0.83
+
+                      20250718              Standard quality                          0.45
+
+                      20231029        Impressive performance                          0.80
+
+                      20250717            Highly recommended                          0.91
+
+                      20250625                  Unacceptable                          0.19
+
+                      20240123   Delighted with the purchase                          0.77
+
+                      20250702                 Fast delivery                          0.86
+
+                      20240705                   Never again                          0.21
+
+                      20240102            Average experience                          0.40
+
+                      20240705              Standard quality                          0.53
+
+                      20231231                  Unremarkable                          0.46
+
+                      20231126              Adequate for now                          0.53
+
+                      20250124                 Fast delivery                          0.79
+
+                      20240704                   Very useful                          0.71
+
+                      20240806                  Poor support                          0.02
+
+                      20240306             I would buy again                          0.85
+
+                      20240128          Very good experience                          0.87
+
+                      20250123                Defective item                          0.08
+
+                      20230930               Plain packaging                          0.54
+
+                      20240104               Neutral overall                          0.40
+
+                      20240205     Will recommend to friends                          0.84
+
+                      20240208          I don't recommend it                          0.05
+
+                      20241016               Amazing product                          0.80
+
+                      20241119               No major issues                          0.50
+
+                      20240418                    Acceptable                          0.45
+
+                      20241215                   Bad service                          0.12
+
+                      20240902                   Serviceable                          0.56
+
+                      20241116                    Acceptable                          0.47
+
+                      20240917              Adequate for now                          0.55
+
+                      20240204                  Unacceptable                          0.06
+
+                      20240111          I don't recommend it                          0.19
+
+                      20250609                    Fair price                          0.59
+
+                      20250312                Defective item                          0.00
+
+                      20231228      Exceeded my expectations                          0.79
+
+                      20240528        Remarkable improvement                          0.90
+
+                      20240120                 Too expensive                          0.13
+
+                      20240406        Misleading description                          0.18
+
+                      20230919                   Top quality                          0.80
+
+                      20250118                   Top quality                          0.86
+
+                      20231114             Excellent service                          0.84
+
+                      20240714                Arrived broken                          0.24
+
+                      20240119                       Perfect                          0.87
+
+                      20241218               Neutral overall                          0.52
+
+                      20250814               Plain packaging                          0.48
+
+                      20230828                      Very bad                          0.11
+
+                      20240511             I would buy again                          0.82
+
+                      20250306                  Unacceptable                          0.18
+
+                      20250213                       Perfect                          0.82
+
+                      20240422                    I loved it                          0.87
+
+                      20240423     Will recommend to friends                          1.00
+
+                      20241203                    Five stars                          0.92
+
+                      20250425                  Unremarkable                          0.48
+
+                      20250402             I would buy again                          0.95
+
+                      20240616     Will recommend to friends                          0.82
+
+                      20240818             Works as expected                          0.70
+
+                      20240301            Average experience                          0.44
+
+                      20250209                 Too expensive                          0.00
+
+                      20250211                  Unremarkable                          0.48
+
+                      20250312                    Five stars                          0.85
+
+                      20231006                    Fair price                          0.60
+
+                      20240508        Misleading description                          0.18
+
+                      20231031          Very good experience                          0.83
+
+                      20250409                Arrived broken                          0.22
+
+                      20240106        Impressive performance                          0.70
+
+                      20240803                   Low quality                          0.17
+
+                      20250724               Could be better                          0.55
+
+                      20250530             I would buy again                          0.73
+
+                      20231026       Stopped working quickly                          0.24
+
+                      20230929                    I loved it                          0.88
+
+                      20240314                Arrived broken                          0.12
+
+                      20240705                   As expected                          0.54
+
+                      20241219                   Very useful                          1.00
+
+                      20240610                    I loved it                          0.86
+
+                      20250624          Very good experience                          0.87
+
+                      20240902                   Top quality                          0.81
+
+                      20241115                   Never again                          0.08
+
+                      20240804                  Poor support                          0.22
+
+                      20250731                  Unremarkable                          0.45
+
+                      20240522                 Late delivery                          0.16
+
+                      20231111      Exceeded my expectations                          0.81
+
+                      20250303          Very good experience                          0.89
+
+                      20231112                       Perfect                          0.88
+
+                      20240701             Works as expected                          0.93
+
+                      20240209                    Fair price                          0.47
+
+                      20241122                 Fast delivery                          0.83
+
+                      20250513           Horrible experience                          0.07
+
+                      20250607          I don't recommend it                          0.11
+
+                      20231107                Decent product                          0.52
+
+                      20240829          Neither good nor bad                          0.55
+
+                      20230923     Will recommend to friends                          0.78
+
+                      20250717          I don't recommend it                          0.22
+
+                      20231230                 Fast delivery                          0.96
+
+                      20240827   Delighted with the purchase                          0.88
+
+                      20230925               No major issues                          0.60
+
+                      20240905           Everything was fine                          0.79
+
+                      20250401                 Fast delivery                          0.75
+
+                      20241003            Highly recommended                          0.71
+
+                      20240504                      Very bad                          0.27
+
+                      20240229                Decent product                          0.54
+
+                      20250320            Highly recommended                          0.85
+
+                      20250812     Will recommend to friends                          0.87
+
+                      20240610               Could be better                          0.43
+
+                      20240314           Everything was fine                          1.00
+
+                      20241127          Super friendly staff                          0.86
+
+                      20231120                Arrived broken                          0.16
+
+                      20250706           Everything was fine                          0.91
+
+                      20250308                    Acceptable                          0.53
+
+                      20240131                   Low quality                          0.17
+
+                      20240827                  As described                          0.45
+
+                      20240315              I didn't like it                          0.19
+
+                      20250109        Impressive performance                          1.00
+
+                      20250331        Impressive performance                          0.96
+
+                      20240102            Average experience                          0.60
+
+                      20231029                    Five stars                          0.81
+
+                      20250211             Works as expected                          0.77
+
+                      20250402                   Great value                          0.84
+
+                      20250610          Super friendly staff                          0.85
+
+                      20250719               Neutral overall                          0.57
+
+                      20250309          Neither good nor bad                          0.40
+
+                      20240102                    I loved it                          0.97
+
+                      20231228                    Acceptable                          0.49
+
+                      20240207               Amazing product                          0.82
+
+                      20240811                Defective item                          0.07
+
+                      20240608           Horrible experience                          0.02
+
+                      20240311                   As expected                          0.55
+
+                      20240530                       Perfect                          0.86
+
+                      20250513                  Unremarkable                          0.42
+
+                      20250609   Delighted with the purchase                          0.75
+
+                      20240127     Will recommend to friends                          0.82
+
+                      20250503   Delighted with the purchase                          0.98
+
+                      20231004                      Very bad                          0.13
+
+                      20231114   Delighted with the purchase                          0.73
+
+                      20240520                   Serviceable                          0.49
+
+                      20241022               Nothing special                          0.48
+
+                      20250113           Not worth the price                          0.00
+
+                      20240614                    Acceptable                          0.50
+
+                      20241229                   Top quality                          0.83
+
+                      20240622                     It's okay                          0.54
+
+                      20240131                    Five stars                          1.00
+
+                      20241210     Will recommend to friends                          0.94
+
+                      20240117                   Great value                          0.83
+
+                      20240810                It didn't work                          0.06
+
+                      20240905                  As described                          0.60
+
+                      20240714          Very good experience                          0.85
+
+                      20240522             I would buy again                          0.85
+
+                      20231130                   Top quality                          0.85
+
+                      20250514      Exceeded my expectations                          0.87
+
+                      20240723                Arrived broken                          0.14
+
+                      20240304                  Poor support                          0.10
+
+                      20250131                    Acceptable                          0.47
+
+                      20250113                   Top quality                          0.85
+
+                      20250121                    Works fine                          0.47
+
+                      20240330                     It's okay                          0.46
+
+                      20231013     Will recommend to friends                          0.86
+
+                      20250622                    Acceptable                          0.48
+
+                      20250222          Very good experience                          0.97
+
+                      20241106            Highly recommended                          0.70
+
+                      20240831        Misleading description                          0.24
+
+                      20231008   Delighted with the purchase                          0.95
+
+                      20250320        Impressive performance                          0.70
+
+                      20240613        Remarkable improvement                          0.82
+
+                      20241126           Horrible experience                          0.12
+
+                      20250522                  As described                          0.42
+
+                      20240101                   Never again                          0.09
+
+                      20240908                Arrived broken                          0.06
+
+                      20250316                It didn't work                          0.29
+
+                      20240313                Decent product                          0.56
+
+                      20250116                    I loved it                          0.95
+
+                      20240110                  Poor support                          0.21
+
+                      20250204               Plain packaging                          0.43
+
+                      20250131     Will recommend to friends                          0.81
+
+                      20240714     Will recommend to friends                          0.89
+
+                      20240624                  Unremarkable                          0.43
+
+                      20250125                   Serviceable                          0.54
+
+                      20240624               Nothing special                          0.49
+
+                      20240903          Very good experience                          0.82
+
+                      20241022               Nothing special                          0.54
+
+                      20250425                   Serviceable                          0.53
+
+                      20250405                    I loved it                          0.82
+
+                      20250411                  Unremarkable                          0.57
+
+                      20250528                   Never again                          0.06
+
+                      20240121              I didn't like it                          0.20
+
+                      20230924                  As described                          0.54
+
+                      20240305                   Great value                          0.83
+
+                      20241024                   Very useful                          0.88
+
+                      20241016               Plain packaging                          0.42
+
+                      20241217          I don't recommend it                          0.22
+
+                      20250814                   Very useful                          0.84
+
+                      20250319                    Five stars                          0.81
+
+                      20250211      Exceeded my expectations                          0.93
+
+                      20241205                Arrived broken                          0.09
+
+                      20250304            Highly recommended                          0.74
+
+                      20250508                    Works fine                          0.41
+
+                      20240603                    Works fine                          0.54
+
+                      20240622                   Bad service                          0.05
+
+                      20250729                Arrived broken                          0.29
+
+                      20241226            Highly recommended                          0.70
+
+                      20240612        Impressive performance                          0.99
+
+                      20240914                   Never again                          0.17
+
+                      20240810                It didn't work                          0.14
+
+                      20240615           Everything was fine                          0.81
+
+                      20240811           Horrible experience                          0.18
+
+                      20241225        Impressive performance                          0.85
+
+                      20240526           Horrible experience                          0.24
+
+                      20240110   Delighted with the purchase                          0.86
+
+                      20240424        Remarkable improvement                          0.86
+
+                      20240410                     It's okay                          0.48
+
+                      20231203                    Five stars                          0.85
+
+                      20231203               Neutral overall                          0.52
+
+                      20230828                   Low quality                          0.01
+
+                      20241012               Could be better                          0.42
+
+                      20241223                    Acceptable                          0.54
+
+                      20240716                    I loved it                          0.86
+
+                      20231122                    Works fine                          0.49
+
+                      20250220          I don't recommend it                          0.15
+
+                      20240218      Exceeded my expectations                          0.88
+
+                      20230929                   Never again                          0.11
+
+                      20250111                       Perfect                          0.79
+
+                      20230930   Delighted with the purchase                          0.87
+
+                      20250501                   Great value                          0.77
+
+                      20240609                   As expected                          0.52
+
+                      20250209               Neutral overall                          0.40
+
+                      20250120             Meets basic needs                          0.56
+
+                      20231216          Super friendly staff                          0.89
+
+                      20250616      Exceeded my expectations                          0.87
+
+                      20230906                Waste of money                          0.23
+
+                      20250326             Meets basic needs                          0.60
+
+                      20240218                Decent product                          0.56
+
+                      20241102            Average experience                          0.40
+
+                      20241006          Neither good nor bad                          0.42
+
+                      20240113                    Works fine                          0.46
+
+                      20230829               Amazing product                          0.85
+
+                      20241122                Arrived broken                          0.19
+
+                      20240627                   Serviceable                          0.46
+
+                      20230903                 Fast delivery                          0.86
+
+                      20250801          Very good experience                          0.79
+
+                      20241211                   Top quality                          0.80
+
+                      20250725                    Acceptable                          0.42
+
+                      20250729                       Perfect                          0.78
+
+                      20240902                    Works fine                          0.42
+
+                      20240106               No major issues                          0.44
+
+                      20250504        Impressive performance                          0.93
+
+                      20241217                   Bad service                          0.07
+
+                      20240502               Plain packaging                          0.60
+
+                      20231114                  Unremarkable                          0.53
+
+                      20250812   Delighted with the purchase                          0.86
+
+                      20231215        Impressive performance                          0.78
+
+                      20250121        Impressive performance                          0.91
+
+                      20240123        Remarkable improvement                          0.80
+
+                      20241117                   Very useful                          0.86
+
+                      20250411                  Unremarkable                          0.60
+
+                      20241121       Stopped working quickly                          0.14
+
+                      20240105               No major issues                          0.57
+
+                      20250322          Super friendly staff                          0.79
+
+                      20250711                      Very bad                          0.15
+
+                      20241001             Excellent service                          0.99
+
+                      20240402                     It's okay                          0.46
+
+                      20241029           Everything was fine                          0.99
+
+                      20250227                 Too expensive                          0.21
+
+                      20241218             Works as expected                          0.81
+
+                      20240223                 Late delivery                          0.20
+
+                      20240909                   Never again                          0.23
+
+                      20241124                   Never again                          0.20
+
+                      20240910        Impressive performance                          0.72
+
+                      20240106                    Fair price                          0.46
+
+                      20231222        Impressive performance                          0.83
+
+                      20240928                    Works fine                          0.50
+
+                      20230826                Waste of money                          0.20
+
+                      20241209                   As expected                          0.51
+
+                      20241030                    Works fine                          0.42
+
+                      20240502               Neutral overall                          0.52
+
+                      20240531          Very good experience                          0.90
+
+                      20230924                 Late delivery                          0.19
+
+                      20250513                      Very bad                          0.24
+
+                      20240425          Very good experience                          0.92
+
+                      20250422     Will recommend to friends                          0.89
+
+                      20250711          I don't recommend it                          0.14
+
+                      20240429                   Never again                          0.02
+
+                      20241114                   Very useful                          0.88
+
+                      20231019                       Perfect                          0.87
+
+                      20240418                  Disappointed                          0.17
+
+                      20240714              Standard quality                          0.42
+
+                      20240421             I would buy again                          0.76
+
+                      20250629              Adequate for now                          0.56
+
+                      20240625        Impressive performance                          0.85
+
+                      20250419                   Low quality                          0.20
+
+                      20250525                   As expected                          0.50
+
+                      20250111                 Fast delivery                          0.85
+
+                      20250611                  Unremarkable                          0.56
+
+                      20240714              Adequate for now                          0.47
+
+                      20240122      Exceeded my expectations                          0.86
+
+                      20250223                    Works fine                          0.47
+
+                      20240625                It didn't work                          0.12
+
+                      20241209           Not worth the price                          0.13
+
+                      20241018           Not worth the price                          0.17
+
+                      20250215               Amazing product                          0.81
+
+                      20240510           Everything was fine                          0.95
+
+                      20241125                 Too expensive                          0.08
+
+                      20250221                   Bad service                          0.14
+
+                      20231014     Will recommend to friends                          0.81
+
+                      20250501           Everything was fine                          0.97
+
+                      20240302                  Disappointed                          0.17
+
+                      20250710               Could be better                          0.56
+
+                      20240323                Arrived broken                          0.03
+
+                      20240628                      Very bad                          0.17
+
+                      20240326                      Terrible                          0.22
+
+                      20241225                  Unacceptable                          0.16
+
+                      20250812               Amazing product                          0.94
+
+                      20250310                       Perfect                          0.81
+
+                      20240915                    Fair price                          0.58
+
+                      20240703        Remarkable improvement                          1.00
+
+                      20250113               Could be better                          0.48
+
+                      20240715        Misleading description                          0.11
+
+                      20240708   Delighted with the purchase                          0.97
+
+                      20240405                      Very bad                          0.28
+
+                      20240516                   Serviceable                          0.47
+
+                      20250407                Waste of money                          0.12
+
+                      20240126               Amazing product                          0.83
+
+                      20240914                    Works fine                          0.42
+
+                      20250115              Standard quality                          0.44
+
+                      20240512                  Poor support                          0.07
+
+                      20250610       Stopped working quickly                          0.09
+
+                      20240211        Misleading description                          0.15
+
+                      20240212        Impressive performance                          0.87
+
+                      20250104        Impressive performance                          0.97
+
+                      20250610                Defective item                          0.07
+
+                      20230926                 Too expensive                          0.23
+
+                      20250707             Excellent service                          0.83
+
+                      20241018               Amazing product                          0.85
+
+                      20231031                      Very bad                          0.20
+
+                      20240402                    Fair price                          0.43
+
+                      20231023               Plain packaging                          0.52
+
+                      20241229               Nothing special                          0.51
+
+                      20230829              Adequate for now                          0.53
+
+                      20230904            Highly recommended                          0.87
+
+                      20250221                      Very bad                          0.30
+
+                      20250118                 Late delivery                          0.10
+
+                      20240222          Very good experience                          0.81
+
+                      20250209                   Very useful                          0.80
+
+                      20250518                    Fair price                          0.47
+
+                      20240522                 Too expensive                          0.10
+
+                      20240908       Stopped working quickly                          0.25
+
+                      20250323               Amazing product                          0.96
+
+                      20240625            Average experience                          0.47
+
+                      20250622          I don't recommend it                          0.08
+
+                      20231126                   Top quality                          0.89
+
+                      20250310               Nothing special                          0.47
+
+                      20250811                    Five stars                          0.90
+
+                      20241109              Standard quality                          0.51
+
+                      20250324                      Terrible                          0.03
+
+                      20250213              I didn't like it                          0.27
+
+                      20240326                  Disappointed                          0.29
+
+                      20241221           Everything was fine                          0.80
+
+                      20250723           Not worth the price                          0.12
+
+                      20250322          Neither good nor bad                          0.52
+
+                      20240710                   Very useful                          0.88
+
+                      20250415                   Top quality                          0.90
+
+                      20231109   Delighted with the purchase                          1.00
+
+                      20240425                Decent product                          0.49
+
+                      20250716                Arrived broken                          0.09
+
+                      20240919                It didn't work                          0.04
+
+                      20250728                Defective item                          0.09
+
+                      20240811             Works as expected                          0.85
+
+                      20240416                Arrived broken                          0.29
+
+                      20250503                  Unacceptable                          0.11
+
+                      20241002                Arrived broken                          0.17
+
+                      20230922               No major issues                          0.50
+
+                      20250106        Impressive performance                          0.95
+
+                      20240910   Delighted with the purchase                          1.00
+
+                      20250629     Will recommend to friends                          0.81
+
+                      20240620                 Too expensive                          0.11
+
+                      20231115                   Top quality                          0.93
+
+                      20250820                It didn't work                          0.20
+
+                      20240924          Very good experience                          1.00
+
+                      20231124                       Perfect                          0.90
+
+                      20241120            Highly recommended                          0.82
+
+                      20231205      Exceeded my expectations                          0.90
+
+                      20241106        Impressive performance                          0.94
+
+                      20250128             Excellent service                          0.92
+
+                      20231122           Everything was fine                          0.89
+
+                      20250425              Standard quality                          0.56
+
+                      20240920             Works as expected                          0.94
+
+                      20240923           Not worth the price                          0.26
+
+                      20240427          Neither good nor bad                          0.54
+
+                      20250724             I would buy again                          0.84
+
+                      20240524                    Five stars                          0.86
+
+                      20240119             Works as expected                          0.95
+
+                      20240531                    Five stars                          0.78
+
+                      20231109               Amazing product                          0.88
+
+                      20250524               Plain packaging                          0.48
+
+                      20240310               Neutral overall                          0.50
+
+                      20240629                   Top quality                          0.95
+
+                      20240728                   Never again                          0.17
+
+                      20240725             Works as expected                          0.85
+
+                      20250619                It didn't work                          0.04
+
+                      20240625                   Very useful                          0.91
+
+                      20241225                   Top quality                          0.90
+
+                      20240714                    Five stars                          1.00
+
+                      20250403                Arrived broken                          0.13
+
+                      20240911                   Top quality                          0.87
+
+                      20240830   Delighted with the purchase                          0.87
+
+                      20240314                   As expected                          0.59
+
+                      20240223                   As expected                          0.49
+
+                      20230919       Stopped working quickly                          0.17
+
+                      20250817                       Perfect                          0.90
+
+                      20250801             Works as expected                          0.86
+
+                      20250712                    Acceptable                          0.47
+
+                      20240426             I would buy again                          0.87
+
+                      20241029                 Too expensive                          0.24
+
+                      20241124                  Poor support                          0.07
+
+                      20250410        Remarkable improvement                          0.86
+
+                      20250731                    I loved it                          0.79
+
+                      20240825           Not worth the price                          0.25
+
+                      20250422            Average experience                          0.41
+
+                      20231212        Misleading description                          0.11
+
+                      20240209                     It's okay                          0.52
+
+                      20250321                   Never again                          0.28
+
+                      20240727                 Late delivery                          0.14
+
+                      20231209            Highly recommended                          0.81
+
+                      20240406                  Unremarkable                          0.60
+
+                      20250316                   Serviceable                          0.41
+
+                      20240405                   Top quality                          0.70
+
+                      20241209                  Disappointed                          0.19
+
+                      20250730                    Fair price                          0.47
+
+                      20230917                    Acceptable                          0.44
+
+                      20241021                 Too expensive                          0.21
+
+                      20231219                It didn't work                          0.17
+
+                      20240813          Super friendly staff                          0.80
+
+                      20240321                    Fair price                          0.42
+
+                      20241222          Super friendly staff                          0.92
+
+                      20240714                    I loved it                          0.90
+
+                      20250819                   Great value                          0.84
+
+                      20250616      Exceeded my expectations                          1.00
+
+                      20240428                   As expected                          0.44
+
+                      20240202             Works as expected                          0.73
+
+                      20241208                   Top quality                          0.79
+
+                      20250528             Works as expected                          0.85
+
+                      20241001     Will recommend to friends                          0.87
+
+                      20240312             Works as expected                          0.83
+
+                      20240924                   Very useful                          0.88
+
+                      20240320           Everything was fine                          0.75
+
+                      20250405        Impressive performance                          0.97
+
+                      20240301                   Very useful                          0.84
+
+                      20241203                    Five stars                          0.94
+
+                      20250213                Arrived broken                          0.18
+
+                      20250425                   Top quality                          0.89
+
+                      20250415                 Fast delivery                          0.90
+
+                      20241203                    Acceptable                          0.53
+
+                      20250513               Neutral overall                          0.54
+
+                      20240708                       Perfect                          0.96
+
+                      20231220             I would buy again                          0.87
+
+                      20250127     Will recommend to friends                          0.91
+
+                      20240111              Adequate for now                          0.49
+
+                      20240229                   As expected                          0.59
+
+                      20250802                   Low quality                          0.10
+
+                      20250313                       Perfect                          0.99
+
+                      20240113          Super friendly staff                          0.85
+
+                      20250518                 Fast delivery                          0.74
+
+                      20230901             Meets basic needs                          0.51
+
+                      20240919                Defective item                          0.10
+
+                      20250621               Could be better                          0.55
+
+                      20241021       Stopped working quickly                          0.10
+
+                      20250104   Delighted with the purchase                          0.81
+
+                      20230923              I didn't like it                          0.00
+
+                      20240617               Amazing product                          0.81
+
+                      20250223          Super friendly staff                          0.70
+
+                      20250324                  Poor support                          0.02
+
+                      20250307                   Serviceable                          0.55
+
+                      20231217        Impressive performance                          0.91
+
+                      20240901                     It's okay                          0.53
+
+                      20241116              Adequate for now                          0.44
+
+                      20231205              I didn't like it                          0.15
+
+                      20240622          I don't recommend it                          0.15
+
+                      20241125           Everything was fine                          0.76
+
+                      20241114                      Terrible                          0.27
+
+                      20240421   Delighted with the purchase                          0.92
+
+                      20250728     Will recommend to friends                          0.83
+
+                      20250531     Will recommend to friends                          0.85
+
+                      20240112                   Bad service                          0.17
+
+                      20231022                   As expected                          0.40
+
+                      20240605          Neither good nor bad                          0.49
+
+                      20240719                Waste of money                          0.10
+
+                      20240614                  Unremarkable                          0.44
+
+                      20250718                It didn't work                          0.13
+
+                      20241017           Horrible experience                          0.29
+
+                      20250624             I would buy again                          0.90
+
+                      20240504                   Great value                          0.80
+
+                      20240502                   Never again                          0.20
