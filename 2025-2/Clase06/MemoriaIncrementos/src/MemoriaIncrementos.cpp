@@ -59,7 +59,7 @@ void leer_datos(int* &codigos, int &n_datos){
         //2da : Realizar un proceso de RECORTE
     }
 }
-
+/*
 CHAR -> CARACTER E R A S M O
 CHAR* -> CADENA O ARREGLO DE CARACTERES ERASMO\0
 CHAR** -> ARREGLO DE CADENAS
@@ -97,3 +97,4 @@ INT** ARREGLO DE ARREGLO DE CODIGOS
             20082062
 
 VOID APUNTAR A CUALQUIER TIPO DE DATO
+ */
