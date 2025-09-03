@@ -100,9 +100,9 @@ void load_hashtags(int *dates, char ***&hashtags, const char *file_name) {
         hashtags[i] = new char *[20];
     }
 
-
     //Lectura
     read_hashtags(input, dates, hashtags, n_hashtag_tweets);
+    //Recorte
     cut_hashtags(n_tweets, hashtags, n_hashtag_tweets);
 }
 

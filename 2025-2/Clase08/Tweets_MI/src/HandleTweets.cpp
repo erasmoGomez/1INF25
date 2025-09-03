@@ -131,11 +131,11 @@ void reservar_memoria_incrementos(struct Tweets &tweets) {
     int *aux_dates;
     char **aux_tweets;
     tweets.capacity += INCREMENTO;
-    if (tweets.dates == nullptr and tweets.tweets == nullptr) {
+    if (tweets.dates == nullptr and tweets.tweets == nullptr) { //Cuando no hay elementos en los arreglos
         tweets.dates = new int[tweets.capacity]{};
         tweets.tweets = new char *[tweets.capacity]{};
-        tweets.n_tweets = 1;
-    } else {
+        tweets.n_tweets = 1; //Para considerar el tope
+    } else { //Cuando si hay elementos en los arreglos
         aux_dates = new int[tweets.capacity]{};
         aux_tweets = new char *[tweets.capacity]{};
         for (int i = 0; i < tweets.n_tweets; i++) {
@@ -181,8 +181,8 @@ void reservar_memoria_incrementos(char **&hashtags_tweet, int &cantidad, int &ca
         aux_hashtags = new char *[capacidad]{};
         for (int i = 0; i < cantidad; i++)
             aux_hashtags[i] = hashtags_tweet[i];
-        delete hashtags_tweet;
-        hashtags_tweet = aux_hashtags;
+        delete hashtags_tweet; //Rompo conexion a segundo nivel
+        hashtags_tweet = aux_hashtags; //Vuelvo a conectar a segundo nivel
     }
 }
 
