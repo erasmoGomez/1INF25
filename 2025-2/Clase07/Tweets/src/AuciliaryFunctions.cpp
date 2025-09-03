@@ -12,9 +12,9 @@ void open_file_read(ifstream &input, const char *nombre_archivo) {
     }
 }
 
-void open_file_write(ofstream &input, const char *nombre_archivo) {
-    input.open(nombre_archivo, ios::in);
-    if (!input.is_open()) {
+void open_file_write(ofstream &output, const char *nombre_archivo) {
+    output.open(nombre_archivo, ios::out);
+    if (!output.is_open()) {
         cout << "El archivo no se pudo abrir: " << nombre_archivo << endl;
         exit(1);
     }
@@ -32,12 +32,19 @@ double read_double(ifstream &input) {
     return d;
 }
 
-char *read_str(ifstream &in) {
+char *read_str(ifstream &in, char delim) {
     char *str;
     char buffer[100];
-    in.getline(buffer, 100);
+    in.getline(buffer, 100, delim);
     str = new char[strlen(buffer) + 1]{};
     strcpy(str, buffer);
+    return str;
+}
+
+char *assign_str(char* source) {
+    char *str;
+    str = new char[strlen(source) + 1]{};
+    strcpy(str, source);
     return str;
 }
 

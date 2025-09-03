@@ -5,4 +5,17 @@
 #ifndef TWEETS_HANDLETWEETS_HPP
 #define TWEETS_HANDLETWEETS_HPP
 
+#include "Utils.hpp"
+#include "AuciliaryFunctions.hpp"
+
+void load_tweets(int *&dates, char **&tweets, const char *file_name);
+
+void display_tweets(int *dates, char **tweets, const char *file_name);
+
+void display_tweets(int *dates, char **tweets, char ***hashtags, const char *file_name);
+
+void load_hashtags(int *dates, char ***&hashtags, const char *file_name);
+
+void read_hashtags(ifstream &input, int *dates, char ***hashtags, int *n_hashtag_tweets);
+
 #endif //TWEETS_HANDLETWEETS_HPP

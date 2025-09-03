@@ -9,5 +9,6 @@
 #include <fstream>
 #include <cstring>
 #include <iomanip>
+#define MAX_TWEETS 50
 using namespace std;
 #endif //TWEETS_UTILS_HPP
