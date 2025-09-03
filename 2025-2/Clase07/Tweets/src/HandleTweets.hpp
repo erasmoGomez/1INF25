@@ -6,7 +6,7 @@
 #define TWEETS_HANDLETWEETS_HPP
 
 #include "Utils.hpp"
-#include "AuciliaryFunctions.hpp"
+#include "AuxiliaryFunctions.hpp"
 
 void load_tweets(int *&dates, char **&tweets, const char *file_name);
 

@@ -2,7 +2,7 @@
 // Created by Erasmo on 2/09/25.
 //
 
-#include "AuciliaryFunctions.hpp"
+#include "AuxiliaryFunctions.hpp"
 
 void open_file_read(ifstream &input, const char *nombre_archivo) {
     input.open(nombre_archivo, ios::in);

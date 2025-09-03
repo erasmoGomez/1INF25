@@ -2,8 +2,8 @@
 // Created by Erasmo on 2/09/25.
 //
 
-#ifndef TWEETS_AUCILIARYFUNCTIONS_HPP
-#define TWEETS_AUCILIARYFUNCTIONS_HPP
+#ifndef TWEETS_AUXILIARYFUNCTIONS_HPP
+#define TWEETS_AUXILIARYFUNCTIONS_HPP
 
 #include "Utils.hpp"
 
@@ -21,4 +21,4 @@ int lookup_int(int to_look, int *source);
 
 char *assign_str(char* source);
 
-#endif //TWEETS_AUCILIARYFUNCTIONS_HPP
+#endif //TWEETS_AUXILIARYFUNCTIONS_HPP
