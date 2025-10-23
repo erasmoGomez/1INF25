@@ -104,5 +104,7 @@ void Juego::equipar_heroes(){
     heroes[heroe_seleccionado].equipar(tipo, "Scroll of Healing"); // 0:consumible, 1: armadura, 2: arma
     heroes[heroe_seleccionado].equipar(1, "Plate Armor"); //0 Consumibles , 1 Armas, 2 Armaduras
     heroes[heroe_seleccionado].equipar(2, "Bow"); //0 Consumibles , 1 Armas, 2 Armaduras
+
+    heroes[1].equipar(2, "Lightning Wand");
     // heroes[heroe_seleccionado].mostrar_heroe(cout);
 }
