@@ -4,6 +4,7 @@
 
 #ifndef JUEGO_EQUIPOLISTA_HPP
 #define JUEGO_EQUIPOLISTA_HPP
+
 #include "NodoLista.hpp"
 
 class EquipoLista {
@@ -18,10 +19,13 @@ public:
 
     void insertar(const class Heroe &);
 
-    // void imprimir(const char *);
+    void imprimir(const char *);
+
 
 private:
     class NodoLista *lista;
+
+    void imprimir_recursivo(class NodoLista *ptr, ofstream &output);
 };
 
 

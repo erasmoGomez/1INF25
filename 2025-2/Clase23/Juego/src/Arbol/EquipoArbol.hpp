@@ -13,11 +13,13 @@ public:
     virtual ~EquipoArbol();
     void crear(const char*);
     void mostrar_en_orden(const char*);
-    // void mostrar_post_orden(const char*);
+    void mostrar_post_orden(const char*);
 private:
     class NodoArbol* arbol;
     void insertar_recursivo(class NodoArbol*&, const class Heroe h);
     void mostrar_en_orden_recursivo(class NodoArbol*&, ofstream& output);
+    void mostrar_post_orden_recursivo(class NodoArbol*&, ofstream& output);
+    void mostrar_pre_orden_recursivo(class NodoArbol*&, ofstream& output);
 };
 
 

@@ -86,19 +86,26 @@ int Juego::conseguir_indice(char h){
 //}
 
 void Juego::jugar() {
-    EquipoLista equipo_lista_1, equipo_lista_2;
-    // equipo_lista_1.crear("heroes_dataset_1.csv");
-    // equipo_lista_2.crear("heroes_dataset_2.csv");
-    cout<<"EQUIPO1"<<endl;
-    // equipo_lista_1.imprimir("equipo1.txt");
-    cout<<"EQUIPO2"<<endl;
-    // equipo_lista_2.imprimir("equipo2.txt");
+//    EquipoLista equipo_lista_1, equipo_lista_2;
+//    equipo_lista_1.crear("Data/heroes_dataset_1.csv");
+//    equipo_lista_2.crear("Data/heroes_dataset_2.csv");
+//    cout<<"EQUIPO1"<<endl;
+//    equipo_lista_1.imprimir("Reports/equipo1.txt");
+//    cout<<"EQUIPO2"<<endl;
+//    equipo_lista_2.imprimir("Reports/equipo2.txt");
 
     EquipoArbol equipo_arbol_1, equipo_arbol_2;
-    // equipo_arbol_1.crear("heroes_dataset_1.csv");
-    // equipo_arbol_2.crear("heroes_dataset_2.csv");
-    // equipo_arbol_1.mostrar_en_orden("equipo1_arbol.txt");
-    // equipo_arbol_2.mostrar_post_orden("equipo2_arbol.txt");
+    equipo_arbol_1.crear("Data/heroes_dataset_1.csv");
+    equipo_arbol_2.crear("Data/heroes_dataset_2.csv");
+    equipo_arbol_1.mostrar_en_orden("Reports/equipo1_arbol.txt");
+    equipo_arbol_2.mostrar_post_orden("Reports/equipo2_arbol.txt");
+    /*
+     * Mostrar en Orden inorder HI R HD
+     * Mostrar en Post Orden HI HD R
+     * Mostrar en Pre Orden R HI HD
+     * Mostrar por Nivel : Cola
+     * Mostrar por Profundidad.
+     */
 }
 
 void Juego::cargar_items() {

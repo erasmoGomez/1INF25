@@ -45,3 +45,16 @@ void EquipoLista::insertar(const Heroe & h) {
     else
         lista = nuevo;
 }
+
+// Estructura Nodal :> tiene nodos consecutivos
+// si yo imprimo cabeza(L) - recursivo imprima el resto (sig).
+void EquipoLista::imprimir(const char *nombre_archivo) {
+    ofstream output(nombre_archivo, ios::out);
+    imprimir_recursivo(lista, output); //Esta funcion tiene que ser PRIVATE
+}
+
+void EquipoLista::imprimir_recursivo(class NodoLista* ptr, ofstream& output){
+    if(ptr == nullptr) return; //Caso Base
+    output<<ptr->dato; // Imprimimos la Cabeza
+    imprimir_recursivo(ptr->sig, output); // Llamamos a la recursiva con el resto
+}

@@ -6,7 +6,7 @@
 using namespace std;
 
 Heroe::Heroe() {
-    cout<<"Estoy en el constructor por defecto"<<endl;
+    //cout<<"Estoy en el constructor por defecto"<<endl;
     this->id = nullptr; // Totalmente obligatorio para char*
     this->nombre = nullptr; //Totalmente obligatorio para char*
     // Para los demas atributos es deci del programador.
