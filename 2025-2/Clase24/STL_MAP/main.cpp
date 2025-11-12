@@ -1,43 +1,59 @@
 #include "src/Persona.hpp"
 
 int main() {
-    list<int> codigos{20082060, 20082061, 20082131};
-    list<string> nombres{"Erasmo", "Marcia", "Cyndi"};
+    vector<string> edades;
+    map<string, int> edades_profesores;
+    map<int, string> profesores_edades;
+    // map<class Persona, string> personas;  // Sobrecargar <
+    //insertar datos por default inserta de manera ascendente por el KEY
+    edades_profesores.insert({"erasmo", 32});
+    edades_profesores.insert({"rony", 52});
+    edades_profesores.insert({"miguel", 62});
 
-    for(int codigo: codigos) // Qué es esto? For Each
-        cout<<codigo<<endl;
+    profesores_edades.insert({32, "erasmo"});
+    profesores_edades.insert({52, "rony"});
 
-    for(auto &nombre: nombres)
-        cout<<nombre<<endl;
+    //imprimir un solo elemento
+    cout << edades_profesores["erasmo"] << endl;
+    cout << profesores_edades[32] << endl;
+    //imprimir todo el mapa
+    cout<<"Imprimiendo el mapa"<<endl;
+    for(auto& elemento:edades_profesores){
+        cout<<setw(20)<<elemento.first; //Devolver el KEY
+        cout<<setw(5)<<elemento.second<<endl; //Devolver el VALUE
+    }
+//
+//    edades_profesores["erasmo"] = 50;
+//    edades_profesores["erasmos"] = 50;
+//    cout<<"Imprimiendo el mapa 2"<<endl;
+//    for(auto& elemento:edades_profesores){
+//        cout<<setw(20)<<elemento.first; //Devolver el KEY
+//        cout<<setw(5)<<elemento.second<<endl; //Devolver el VALUE
+//    }
+//
+    cout<<edades_profesores.size()<<endl;
+    auto it = edades_profesores.find("rony");
+    cout<<"La edad del profesor Rony es : "<< it->second <<endl;
+//
+    map<string, Persona>personas;
 
-    list<list<list<string>>> empresa{
-            {   // Departamento 1: Ingeniería
-                    {{"Carlos", "María", "Erasmo"}},       // Equipo Backend
-                    {{"Lucía", "José", "Rony"}}            // Equipo Frontend
-            },
-            {   // Departamento 2: Ventas
-                    {{"Diana", "Rafael", "Esteban"}},      // Equipo Lima
-                    {{"Martina", "Kevin", "Camila"}}       // Equipo Cusco
-            },
-            {   // Departamento 3: Soporte
-                    {{"Rosa", "Jorge", "Patricia"}},       // Equipo Telefónico
-                    {{"Pedro", "Andrea", "Valeria"}}       // Equipo en campo
-            }
-    };
-
-    // Mostrar todo el contenido
-    int d = 1;
-    for (auto &departamento : empresa) {
-        cout << "Departamento " << d++ << ":" << endl;
-        int e = 1;
-        for (auto &equipo : departamento) {
-            cout << "  Equipo " << e++ << ": ";
-            for (auto &nombre : equipo) {
-                cout << nombre << " ";
-            }
-            cout << endl;
-        }
-        cout << endl;
+    Persona h1, h2, h3;
+    h1.SetSueldo(500);
+    h2.SetSueldo(600);
+    h1.SetNombre("Andres");
+    h2.SetNombre("Eric");
+    h3.SetSueldo(800);
+    h3.SetNombre("Ana");
+    personas.insert({h1.GetNombre(), h1});
+    personas.insert({h2.GetNombre(), h2});
+    personas.insert({h3.GetNombre(), h3});
+////    personas["Andres"] = h1;
+////    personas["Huiza"] = h2;
+//
+    cout<<"Imprimiendo el mapa 3"<<endl;
+    for(auto& elemento:personas){
+        cout<<setw(20)<<elemento.first; //Devolver el KEY
+        cout<<setw(5)<<elemento.second<<endl; //Devolver el VALUE
     }
     return 0;
 }

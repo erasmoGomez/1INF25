@@ -8,6 +8,7 @@ Persona::Persona() {
 }
 
 Persona::Persona(const Persona &orig) {
+    *this = orig;
 }
 
 Persona::~Persona() {
@@ -53,6 +54,12 @@ void Persona::imprimir() const {
     cout << fixed;
     cout << right << setw(10) << dni << " " << left << setw(30) << nombre;
     cout << right << setw(10) << sueldo << endl;
+}
+
+void Persona::operator=(const Persona &orig) {
+    this->sueldo = orig.sueldo;
+    this->dni = orig.dni;
+    this->nombre = orig.nombre;
 }
 
 void operator>>(istream &input, class Persona &p) {

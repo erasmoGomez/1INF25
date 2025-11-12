@@ -11,6 +11,8 @@
 #include <string>
 #include <list>
 #include <iterator>
-
+#include <vector>
+#include <map>
+#include <algorithm>
 using namespace std;
 #endif //STL_LIST_UTILS_HPP

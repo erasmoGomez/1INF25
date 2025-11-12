@@ -17,7 +17,7 @@ public:
 
     void operator=(const class Persona &);
 
-    bool operator<(const class Persona &);
+    bool operator<(const class Persona &) const;
 
     void SetSueldo(double sueldo);
 
