@@ -1,0 +1,35 @@
+R 20160658 Arca/Amezquita/Edric-Ronald Ingenieria_Mecanica FCI
+R 20119778 Morales/Valverde/Ines-Martha Ingenieria_Informatica EEGGCC
+I 5258 Gavidia/Mendoza/Ronald-Johnny Japon Japones 2
+R 20150564 Auris/Zimic/Javier-Daniel Matematicas FCI
+R 20080667 Lozada/Yino/Martha Matematicas FCI
+R 20127352 Justino/Cruz/Williams Ingenieria_Mecanica EEGGCC
+I 5395 Alamo/Pairazaman/Miguel-Roberto Austria Aleman Ingles Castellano Frances Italiano 1
+R 20120476 Henriquez/Espino/Beatriz Ingenieria_Informatica EEGGCC
+R 20160119 Paredes/Patino/Christian Ingenieria_Informatica FCI
+R 20109738 Caro/Polo/Sandro Ingenieria_Mecanica EEGGCC
+R 20003541 Cabrera/Canales/Guillermo-Edric Ingenieria_Informatica FCI
+I 4450 Vega/Munoz/Gonzalo Filipinas Ingles Castellano 1
+I 7613 Cortez/Segura/Carmela-Ines Alemania Aleman Catalan Espanol 3
+R 20170596 Portugal/Benavente/Johana-Gloria Ingenieria_Mecanica FCI
+I 9442 Florian/Morales/Ydali Brasil Portuges Italiano Japones Chino 1
+I 2075 Moya/Aranda/Johnny Colombia Castellano Ingles 2
+R 20083333 Laura/Wong/Melvin-Henrry Ingenieria_Mecanica FCI
+I 6702 Calixto/Tomasiche/Monica-Doris Australia Ingles Quechua Aymara Castellano Frances 3
+I 1994 Ruiz/Gordillo/Carola-Erika Puerto_Rico Ingles 2
+R 20097877 Coronel/Chumpitaz/Heli Fisica FCI
+I 8528 Zarate/Del_Pozo/Humberto-Antonio Ucrania Ruso Polaco Chino 3
+R 20164217 Palomares/Vera/Henrry-Humberto Fisica EEGGCC
+I 6553 Coronado/Figueroa/Johan EEUUAA Inges Chino Coreano 2
+I 1346 Hijar/Pairazaman/Jenny-Delicia Camerun Frances Italiano 1
+R 20110165 Landeo/Sueldo/Adolfo Ingenieria_Informatica EEGGCC
+I 6965 Antezano/Segura/Teresa-Delia Bolivia Castellano Quechua Aymara Aleman Ingles 3
+R 20167828 Pasquel/Quio/Surami-Janet Fisica EEGGCC
+0 0 0
+123
+23
+23
+32
+3
+3
+3
