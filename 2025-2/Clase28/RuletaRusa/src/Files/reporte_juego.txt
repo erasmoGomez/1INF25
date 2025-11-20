@@ -1,9 +1,9 @@
-Turno de ERASMO | pasos = 3 | dir = izquierda
-   -> Muere: MIGUEL
-Turno de RONY | pasos = 1 | dir = derecha
-   -> Muere: ANDRES
-Turno de ERICK | pasos = 0 | dir = izquierda
+Turno de ERASMO | pasos = 1 | dir = izquierda
    -> Muere: ERICK
-Turno de RONY | pasos = 0 | dir = derecha
+Turno de ANDRES | pasos = 1 | dir = derecha
+   -> Muere: ERASMO
+Turno de RONY | pasos = 1 | dir = derecha
+   -> Muere: MIGUEL
+Turno de ANDRES | pasos = 1 | dir = derecha
    -> Muere: RONY
-Sobreviviente: ERASMO
+Sobreviviente: ANDRES

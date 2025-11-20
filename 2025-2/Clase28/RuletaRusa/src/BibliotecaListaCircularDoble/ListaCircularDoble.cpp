@@ -72,7 +72,7 @@ void ListaCircularDoble::avanzar(Nodo *&p, int pasos, bool derecha) {
 }
 
 void ListaCircularDoble::jugar(ofstream &output) {
-    if (!cola || tam <= 1) return;
+    if (!cola or tam <= 1) return;
 
     srand(time(nullptr));
 
@@ -86,7 +86,7 @@ void ListaCircularDoble::jugar(ofstream &output) {
         bool derecha = j->eligeDerecha(); //Metodo Virtual Puro que devuelve true si es Pagador y false si es Deudor
 
         int k = 1 + (rand() % tam);    // k ∈ [1, tam]
-        int pasos = (k - 1) % tam;         // reducir vueltas
+        int pasos = (k - 1) % tam;     // reducir vueltas
 
         output << "Turno de " << j->getNombre()
                << " | pasos = " << pasos
