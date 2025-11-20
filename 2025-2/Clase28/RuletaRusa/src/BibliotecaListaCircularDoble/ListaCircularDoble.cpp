@@ -65,7 +65,7 @@ void ListaCircularDoble::imprimir_jugadores(ofstream &output) {
 
 }
 
-void ListaCircularDoble::avanzar(Nodo* &p, int pasos, bool derecha) {
+void ListaCircularDoble::avanzar(Nodo *&p, int pasos, bool derecha) {
     while (pasos-- > 0) {
         p = derecha ? p->sig : p->ant;
     }
@@ -85,7 +85,7 @@ void ListaCircularDoble::jugar(ofstream &output) {
         // dirección elegida por el jugador polimórfico
         bool derecha = j->eligeDerecha(); //Metodo Virtual Puro que devuelve true si es Pagador y false si es Deudor
 
-        int k     = 1 + (rand() % tam);    // k ∈ [1, tam]
+        int k = 1 + (rand() % tam);    // k ∈ [1, tam]
         int pasos = (k - 1) % tam;         // reducir vueltas
 
         output << "Turno de " << j->getNombre()
@@ -93,19 +93,18 @@ void ListaCircularDoble::jugar(ofstream &output) {
                << " | dir = " << (derecha ? "derecha" : "izquierda")
                << endl;
 
-        // avanzamos desde el jugador actual hasta la víctima
-        Nodo *victima = actual;
-        avanzar(victima, pasos, derecha);
+        Nodo *victima = actual; // inicializamos desde el jugador actual
+        avanzar(victima, pasos, derecha); // avanzamos hasta la victima, sin perder el puntero al actual
 
         output << "   -> Muere: "
                << victima->jugador->getNombre() << endl;
 
-        // decidir desde dónde se sigue contando según la dirección
+        // Este nuevo_actual nos sirve para ver desde donde se sigue contando según la dirección
         Nodo *nuevo_actual =
                 derecha ? victima->sig   // siguiente a la derecha
                         : victima->ant;  // siguiente a la izquierda
 
-        // eliminar a la víctima de la lista
+        // eliminar a la víctima de la lista circular doble
         eliminarNodo(victima);
 
         // si ya no queda nadie, salimos
@@ -122,7 +121,7 @@ void ListaCircularDoble::jugar(ofstream &output) {
 }
 
 void ListaCircularDoble::eliminarNodo(Nodo *victima) {
-    if (!victima || tam == 0) return;
+    if (!victima or tam == 0) return;
 
     if (tam == 1) {
         delete victima->jugador;
@@ -133,13 +132,13 @@ void ListaCircularDoble::eliminarNodo(Nodo *victima) {
     }
 
     Nodo *siguiente = victima->sig;
-    Nodo *anterior  = victima->ant;
+    Nodo *anterior = victima->ant;
 
     anterior->sig = siguiente;
     siguiente->ant = anterior;
 
     if (victima == cola) {
-        cola = anterior; // o siguiente, como prefieras
+        cola = anterior;
     }
 
     delete victima->jugador;
