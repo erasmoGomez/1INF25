@@ -23,11 +23,13 @@ public:
 
     int get_size();
 
-    void imprimir_jugadores(ofstream& output);
+    void imprimir_jugadores(ofstream &output);
 
-    void jugar();
+    void jugar(ofstream& output);
 
-    void lista_avanzar(Nodo* p, int pasos);
+    void avanzar(Nodo* &p, int pasos, bool derecha);
+
+    void eliminarNodo(Nodo *victima);
 };
 
 

@@ -4,6 +4,6 @@ int main() {
     GestorRussianRoulette grr;
     grr.cargar_jugadores("Data/jugadores.csv");
     grr.imrprimir_jugadores("Reports/ruleta_rusa.txt");
-    //grr.jugar();
+    grr.jugar("Reports/reporte_juego.txt");
     return 0;
 }

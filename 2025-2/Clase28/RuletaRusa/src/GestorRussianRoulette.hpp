@@ -12,7 +12,7 @@ private:
 public:
     void cargar_jugadores(const char* file_name);
     void imrprimir_jugadores(const char* file_name);
-    void jugar();
+    void jugar(const char* file_name);
 };
 
 

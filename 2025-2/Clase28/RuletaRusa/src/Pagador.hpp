@@ -14,6 +14,8 @@ public:
 
     void setSaldo(double saldo);
 
+    bool eligeDerecha() const;
+
 public:
     void leer(ifstream& input);
     void imprimir(ofstream& output);

@@ -34,3 +34,7 @@ void Jugador::setEstado(bool estado) {
 Jugador::Jugador() {
 
 }
+
+Jugador::~Jugador() {
+
+}

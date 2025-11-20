@@ -25,9 +25,15 @@ public:
 private:
     bool estado;
 public:
+    virtual ~Jugador();
+
     virtual void leer(ifstream &input);
 
     virtual void imprimir(ofstream &output);
+
+    // true = derecha (sig), false = izquierda (ant)
+    virtual bool eligeDerecha() const = 0;
+
 };
 
 

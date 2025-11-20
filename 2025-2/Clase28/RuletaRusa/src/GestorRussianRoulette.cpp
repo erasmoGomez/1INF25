@@ -22,6 +22,8 @@ void GestorRussianRoulette::imrprimir_jugadores(const char *file_name) {
     ruleta.imprimir_jugadores(output);
 }
 
-void GestorRussianRoulette::jugar() {
-    ruleta.jugar();
+void GestorRussianRoulette::jugar(const char* file_name) {
+    ofstream output;
+    output.open(file_name, ios::out);
+    ruleta.jugar(output);
 }

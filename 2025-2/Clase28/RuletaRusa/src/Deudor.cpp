@@ -22,3 +22,7 @@ double Deudor::getDeuda() const {
 void Deudor::setDeuda(double deuda) {
     Deudor::deuda = deuda;
 }
+
+bool Deudor::eligeDerecha() const {
+    return false;
+}

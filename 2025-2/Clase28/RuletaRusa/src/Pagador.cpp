@@ -22,3 +22,7 @@ double Pagador::getSaldo() const {
 void Pagador::setSaldo(double saldo) {
     Pagador::saldo = saldo;
 }
+
+bool Pagador::eligeDerecha() const {
+    return true;
+}

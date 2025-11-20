@@ -14,6 +14,8 @@ public:
 
     void setDeuda(double deuda);
 
+    bool eligeDerecha() const;
+
 public:
     void leer(ifstream& input);
     void imprimir(ofstream& output);
