@@ -62,5 +62,11 @@ int main() {
     for(auto& persona: personas)
         cout<<persona;
     cout<<endl;
+
+    personas.sort();
+
+    for(auto& persona: personas)
+        cout<<persona;
+    cout<<endl;
     return 0;
 }

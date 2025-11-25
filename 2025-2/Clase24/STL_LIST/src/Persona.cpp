@@ -56,6 +56,9 @@ void Persona::imprimir() const {
     cout << right << setw(10) << sueldo << endl;
 }
 
+bool Persona::operator<(const Persona & otro) const {
+    return dni < otro.dni;
+}
 
 
 void operator>>(istream &input, class Persona &p) {
