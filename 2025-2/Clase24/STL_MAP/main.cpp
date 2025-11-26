@@ -61,5 +61,8 @@ int main() {
     cout<<personas.end()->first<<endl;
     cout<<prev(personas.end())->first<<endl;
 
+    auto ite = personas.find("Ana");
+    cout<<ite->first<<endl;
+
     return 0;
 }
