@@ -55,5 +55,11 @@ int main() {
         cout<<setw(20)<<elemento.first; //Devolver el KEY
         cout<<setw(5)<<elemento.second<<endl; //Devolver el VALUE
     }
+
+    cout<<personas.size()<<endl;
+    cout<<personas.begin()->first<<endl;
+    cout<<personas.end()->first<<endl;
+    cout<<prev(personas.end())->first<<endl;
+
     return 0;
 }
