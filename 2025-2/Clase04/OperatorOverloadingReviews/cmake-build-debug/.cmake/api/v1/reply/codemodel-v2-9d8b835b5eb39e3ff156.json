@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OperatorOverloadingReviews",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OperatorOverloadingReviews::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OperatorOverloadingReviews-Debug-ae05c66e375984b9caf6.json",
+					"name" : "OperatorOverloadingReviews",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/erasmo/Documents/erasmo/pucp/git/1INF25/2025-2/Clase04/OperatorOverloadingReviews/cmake-build-debug",
+		"source" : "/Users/erasmo/Documents/erasmo/pucp/git/1INF25/2025-2/Clase04/OperatorOverloadingReviews"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

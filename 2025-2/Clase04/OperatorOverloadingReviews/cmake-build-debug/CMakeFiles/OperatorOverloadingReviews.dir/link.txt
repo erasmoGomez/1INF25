@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/OperatorOverloadingReviews.dir/main.cpp.o CMakeFiles/OperatorOverloadingReviews.dir/src/Overloads.cpp.o CMakeFiles/OperatorOverloadingReviews.dir/src/AuxiliaryFunctions.cpp.o -o OperatorOverloadingReviews

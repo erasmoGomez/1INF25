@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Clase01.dir/main.cpp.o CMakeFiles/Clase01.dir/Librerias/Funciones.cpp.o -o Clase01

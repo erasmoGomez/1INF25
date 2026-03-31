@@ -21,5 +21,13 @@ int main() {
     //Ordenar
     ++reviews;
     reviews<<"Reports/reporte_reviews_ordenado.txt";
+
+
+    // Si trabajo con C -> .c y .h
+    // Si trabajo con C++ -> .cpp y .hpp
+
+    // Programas complejos MULTI LENGUAJES
+
+
     return 0;
 }
