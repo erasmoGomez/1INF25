@@ -7,8 +7,8 @@
 #include "Utils.hpp"
 #include "Estructura.hpp"
 
-void operator ! (struct CadenaDeCaracteres &cadena);
-void operator <= (struct CadenaDeCaracteres &cadena,const char* cad);
+void operator ! (struct CadenaDeCaracteres &cadena); // !cadena
+void operator <= (struct CadenaDeCaracteres &cadena,const char* cad); //cadena <= cad o cadena <= "erasmo"
 void operator <= (struct CadenaDeCaracteres &cadena, int espacio);
 void operator <= (struct CadenaDeCaracteres &cad1,
         struct CadenaDeCaracteres &cad2);

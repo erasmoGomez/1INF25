@@ -71,7 +71,7 @@ bool operator += (struct CadenaDeCaracteres &cadena,const char* cad){
 }
 
 bool operator += (struct CadenaDeCaracteres &cad1,
-        struct CadenaDeCaracteres cad2){
+        struct CadenaDeCaracteres &cad2){
     return cad1+=cad2.cadena;
 }
 
