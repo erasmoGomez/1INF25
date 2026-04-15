@@ -127,7 +127,7 @@ void display_tweets(int *dates, char **tweets, char ***hashtags, const char *fil
 
 }
 
-void reservar_memoria_incrementos(struct Tweets &tweets) {
+void reservar_memoria_incrementos(struct Tweets  tweets) {
     int *aux_dates;
     char **aux_tweets;
     tweets.capacity += INCREMENTO;
