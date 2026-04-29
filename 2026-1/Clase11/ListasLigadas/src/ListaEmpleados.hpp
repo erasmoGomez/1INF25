@@ -8,14 +8,16 @@
  * File:   ListaEmpleados.hpp
  * Author: Erasmo G. Montoya
  *
- * Created on September 23, 2025, 5:58 PM
+ * Created on April 28, 2026, 5:01 PM
  */
 
 #ifndef LISTAEMPLEADOS_HPP
 #define LISTAEMPLEADOS_HPP
-#include "utils.hpp"
-void* lee_empleado(ifstream &);
-int compara_empleado_nombre(const void*,const void*);
-void imprime_empleado(void*);
-#endif /* LISTAEMPLEADOS_HPP */
+#include "ListaGenerica.hpp"
 
+void *lee_empleado(ifstream &);
+
+int compara_empleado_nombre(const void *, const void *);
+
+void imprime_empleado(void *, ofstream &);
+#endif /* LISTAEMPLEADOS_HPP */

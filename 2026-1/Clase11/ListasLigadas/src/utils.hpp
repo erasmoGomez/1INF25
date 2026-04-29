@@ -14,11 +14,11 @@
 #ifndef UTILS_HPP
 #define UTILS_HPP
 
-#include <iostream>
-#include <fstream>
-#include <cstring>
-#include <iomanip>
 #include <cstdlib>
+#include <cstring>
+#include <fstream>
+#include <iomanip>
+#include <iostream>
 using namespace std;
 
 enum Nodo {DATO, SIGUIENTE};

@@ -8,19 +8,19 @@
  * File:   ListaGenerica.hpp
  * Author: Erasmo G. Montoya
  *
- * Created on September 23, 2025, 5:01 PM
+ * Created on April 28, 2026, 5:01 PM
  */
 
 #ifndef LISTAGENERICA_HPP
 #define LISTAGENERICA_HPP
-#include "utils.hpp"
+#include "Helpers.hpp"
 
-void crear_lista(const char*, 
-                 void*&, 
-                 void*(*)(ifstream&), 
-                 int (*)(const void*, const void*));
+void crear_lista(const char *,
+                 void *&,
+                 void *(*)(ifstream &),
+                 int (*)(const void *, const void *));
 
-void insertar(void *, void*&, int(*)(const void*, const void*));
-void imprimir_lista(void* lista, void(*imprime)(void*));
+void insertar(void *, void *&, int (*)(const void *, const void *));
+
+void imprimir_lista(const char *, void *lista, void (*imprime)(void *, ofstream &));
 #endif /* LISTAGENERICA_HPP */
-
