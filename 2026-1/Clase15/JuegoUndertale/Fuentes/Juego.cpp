@@ -14,9 +14,9 @@ Juego::Juego() {
 
 void Juego::cargar_personajes(const char *nombre_archivo) {
     ifstream input(nombre_archivo, ios::in);
-    Personaje p;
     while (true) {
         // Leer Personaje
+        Personaje p;
         input>>p;
         // Validar EOF
         if (input.eof()) break;
@@ -58,6 +58,14 @@ void Juego::imprimir_mapa(int indice) {
 
 void Juego::jugar() {
 
+}
+
+void Juego::colocar_heroes() {
+    for (int i = 0; i < cantidad_personajes; i++) {
+        int indice_mapa = i % cantidad_mapas;
+        // personajes[i].imprimir();
+        mapas[indice_mapa]+=personajes[i];
+    }
 }
 
 

@@ -8,9 +8,6 @@ int main() {
     // erasmo.get_nombre(nombre);
     // cout<<nombre<<endl;
     Juego juego;
-    juego.cargar_personajes("ArchivosEntrada/Personajes/heroes_undertale.csv");
-    juego.imprimir_personajes("ArchivosSalida/reporte_personajes.txt");
-    juego.cargar_mapas("ArchivosEntrada/Mapas/mapas.txt");
-    juego.imprimir_mapa(0);
+    juego.jugar();
     return 0;
 }

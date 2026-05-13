@@ -4,6 +4,7 @@
 
 #ifndef JUEGOUNDERTALE_JUEGO_HPP
 #define JUEGOUNDERTALE_JUEGO_HPP
+#include "Utils.hpp"
 #include "Mapa.hpp"
 #include "Personaje.hpp"
 class Juego {
@@ -19,5 +20,7 @@ public:
     void cargar_mapas(const char*);
     void imprimir_mapa(int);
     void jugar();
+
+    void colocar_heroes();
 };
 #endif //JUEGOUNDERTALE_JUEGO_HPP

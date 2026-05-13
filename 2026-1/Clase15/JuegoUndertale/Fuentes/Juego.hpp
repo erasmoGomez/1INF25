@@ -19,5 +19,7 @@ public:
     void cargar_mapas(const char*);
     void imprimir_mapa(int);
     void jugar();
+
+    void colocar_heroes();
 };
 #endif //JUEGOUNDERTALE_JUEGO_HPP

@@ -5,7 +5,7 @@
 #ifndef JUEGOUNDERTALE_CASILLA_HPP
 #define JUEGOUNDERTALE_CASILLA_HPP
 
-#include "Utils.hpp"
+#include "Utils2.hpp"
 
 class Casilla {
 private:
@@ -25,7 +25,7 @@ public:
 
     Casilla(bool transitable, char sprite);
 
-    virtual ~Casilla();
+    virtual ~Casilla(); //Destructor
 
     void imprimir(ostream& output) const;
 };

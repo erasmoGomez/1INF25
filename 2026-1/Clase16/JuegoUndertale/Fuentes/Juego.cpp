@@ -13,11 +13,12 @@ Juego::Juego() {
 
 
 void Juego::cargar_personajes(const char *nombre_archivo) {
-    ifstream input(nombre_archivo, ios::in);
-    Personaje p;
+    ifstream input;
+    Utils::apertura_archivo_lectura(input, nombre_archivo);
     while (true) {
         // Leer Personaje
-        input>>p;
+        Personaje p;
+        input >> p;
         // Validar EOF
         if (input.eof()) break;
         // Insertar Personaje
@@ -48,16 +49,29 @@ void Juego::cargar_mapas(const char *nombre_archivo) {
         mapas[cantidad_mapas].set_nombre(nombre_mapa);
         mapas[cantidad_mapas].cargar_mapa(input_mapa);
         cantidad_mapas++;
+        input_mapa.close();
     }
-
+    input.close();
 }
 
 void Juego::imprimir_mapa(int indice) {
     mapas[indice].mostrar_mapa();
 }
 
-void Juego::jugar() {
 
+void Juego::colocar_heroes() {
+    for (int i = 0; i < cantidad_personajes; i++) {
+        int indice_mapa = i % cantidad_mapas;
+        // personajes[i].imprimir();
+        mapas[indice_mapa] += personajes[i];
+    }
 }
 
-
+void Juego::jugar() {
+    cargar_personajes("ArchivosEntrada/Personajes/heroes_undertale.csv");
+    imprimir_personajes("ArchivosSalida/reporte_personajes.txt");
+    cargar_mapas("ArchivosEntrada/Mapas/mapas.txt");
+    imprimir_mapa(1);
+    colocar_heroes();
+    imprimir_mapa(1);
+}

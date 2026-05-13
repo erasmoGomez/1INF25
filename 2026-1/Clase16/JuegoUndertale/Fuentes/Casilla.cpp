@@ -21,6 +21,8 @@ void Casilla::set_sprite(char sprite) {
 }
 
 Casilla::Casilla() {
+    sprite = '.';
+    transitable = true;
 }
 
 Casilla::Casilla(bool transitable, char sprite) {
@@ -29,6 +31,8 @@ Casilla::Casilla(bool transitable, char sprite) {
 }
 
 Casilla::~Casilla() {
+    //Todo puntero debe destruirse -> Delete o Delete []
+    //cout<<"Estoy eliminando Casilla"<<endl;
 }
 
 void Casilla::imprimir(ostream& output) const{

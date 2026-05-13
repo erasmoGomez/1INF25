@@ -5,7 +5,7 @@
 #ifndef JUEGOUNDERTALE_HEROE_HPP
 #define JUEGOUNDERTALE_HEROE_HPP
 
-#include "Utils.hpp"
+#include "Utils2.hpp"
 
 class Personaje {
 public:

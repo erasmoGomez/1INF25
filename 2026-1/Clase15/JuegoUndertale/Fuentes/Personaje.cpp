@@ -122,6 +122,7 @@ void Personaje::leer(ifstream &input) {
     input>>fila;
     input.get();
     input>>columna;
+    input.get();
 }
 
 //Fuera de la CLASE

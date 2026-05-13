@@ -13,6 +13,7 @@ private:
     int alto;
     class Casilla *casillas;
     char* nombre;
+    int cantidad_personajes;
 
 public:
     Mapa();
