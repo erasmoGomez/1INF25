@@ -1,0 +1,10 @@
+| Símbolo | Significado                |
+| ------- | -------------------------- |
+| `#`     | Muro                       |
+| `.`     | Piso transitable           |
+| `H`     | Posición inicial del héroe |
+| `E`     | Enemigo                    |
+| `B`     | Boss                       |
+| `M`     | Medicina o poción          |
+| `T`     | Árbol/decoración           |
+| `~`     | Lava/zona peligrosa        |

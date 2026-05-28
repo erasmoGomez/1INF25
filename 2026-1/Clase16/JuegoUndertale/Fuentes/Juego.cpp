@@ -7,6 +7,8 @@
 Juego::Juego() {
     cantidad_personajes = 0;
     cantidad_mapas = 0;
+    // personajes_ptr = nullptr;
+    // personajes_ptr = new Personaje[20];
     //codigos = nullptr;
     //codigos = new int[20];
 }
@@ -21,6 +23,7 @@ void Juego::cargar_personajes(const char *nombre_archivo) {
         input >> p;
         // Validar EOF
         if (input.eof()) break;
+        // Reserva de memoria (Con el metodo q uds quieran)
         // Insertar Personaje
         personajes[cantidad_personajes] = p;
         cantidad_personajes++;

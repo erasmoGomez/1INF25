@@ -6,14 +6,17 @@
 #define JUEGOUNDERTALE_JUEGO_HPP
 #include "Utils.hpp"
 #include "Mapa.hpp"
+#include "Guerrero.hpp"
+#include "Mago.hpp"
 #include "Personaje.hpp"
-class Juego{
+class Juego {
 private:
     Personaje personajes[20]{};
     Personaje* personajes_ptr;
     int cantidad_personajes;
     Mapa mapas[10]{};
     int cantidad_mapas;
+    int mapa_actual;
 public:
     Juego(); //Constructor
     void cargar_personajes(const char*);
@@ -21,8 +24,10 @@ public:
     void cargar_mapas(const char*);
     void imprimir_mapa(int);
     void jugar();
-
-    void colocar_heroes();
+    int conseguir_indice(char p);
+    void colocar_personajes();
+    void pintar();
+    void cargar_items(const char*);
 
 };
 #endif //JUEGOUNDERTALE_JUEGO_HPP
