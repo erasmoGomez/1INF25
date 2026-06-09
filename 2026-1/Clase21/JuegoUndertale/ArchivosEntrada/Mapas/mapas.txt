@@ -1,0 +1,4 @@
+Info del Personaje
+NOMBRE ->Frisk
+ATAQUE ->178
+DEFENSA ->3
