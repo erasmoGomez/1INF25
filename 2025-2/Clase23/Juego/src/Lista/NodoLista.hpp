@@ -16,7 +16,7 @@ public:
 
     virtual ~NodoLista();
 
-    friend class EquipoLista;
+    friend class EquipoLista; //Clausula Friend
 
 private:
     class Heroe dato;

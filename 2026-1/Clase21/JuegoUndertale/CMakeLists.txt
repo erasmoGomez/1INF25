@@ -29,4 +29,12 @@ add_executable(JuegoUndertale main.cpp
         Fuentes/Consumible.hpp
         Fuentes/Mochila.cpp
         Fuentes/Mochila.hpp
+        Fuentes/Lista/NodoLista.cpp
+        Fuentes/Lista/NodoLista.hpp
+        Fuentes/Lista/EquipoLista.cpp
+        Fuentes/Lista/EquipoLista.hpp
+        Fuentes/Arbol/NodoArbol.cpp
+        Fuentes/Arbol/NodoArbol.hpp
+        Fuentes/Arbol/EquipoArbol.cpp
+        Fuentes/Arbol/EquipoArbol.hpp
 )

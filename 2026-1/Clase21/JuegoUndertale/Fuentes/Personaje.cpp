@@ -163,6 +163,30 @@ void Personaje::leer(ifstream &input) {
     input.get();
 }
 
+void Personaje::operator=(const Personaje &p) {
+    //Priorizar los char*
+    char _nombre[60];
+    vida = p.get_vida();
+    ataque = p.get_ataque();
+    defensa = p.get_defensa();
+    p.get_nombre(_nombre);
+    set_nombre(_nombre);
+    fila = p.get_fila();
+    columna = p.get_columna();
+}
+
+bool Personaje::operator>(const class Personaje &h) {
+    char _nombre[60];
+    h.get_nombre(_nombre);
+    return strcmp(this->nombre, _nombre)>0;
+}
+
+
+Personaje::Personaje(const Personaje &orig) {
+    nombre = nullptr;
+    *this = orig;
+}
+
 //Fuera de la CLASE
 
 void operator >>(ifstream &input, class Personaje &personaje) {

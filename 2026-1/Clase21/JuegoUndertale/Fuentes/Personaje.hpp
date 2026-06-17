@@ -14,13 +14,15 @@ public:
     Personaje(); // Constructor por defecto - Constructor sin parametros;
     // void imprimir();
 
+    Personaje(const Personaje &orig);
+
     void imprimir(ofstream &);
 
     void leer(ifstream &);
 
-    void get_nombre(char* nombre) const;
+    void get_nombre(char *nombre) const;
 
-    void set_nombre(const char*nombre) ;
+    void set_nombre(const char *nombre);
 
     int get_vida() const;
 
@@ -50,15 +52,19 @@ public:
 
     void atacar();
 
-    void leer_item(char*, ifstream&);
+    void leer_item(char *, ifstream &);
 
-    void equipar(int, const char*);
+    void equipar(int, const char *);
 
     //Sobrecargas
     void operator++(); //w
     void operator++(int); //S
     void operator--(); //D
     void operator--(int); //I
+
+    void operator =(const Personaje &h);
+
+    bool operator >(const class Personaje &h);
 
 private:
     char *nombre;
@@ -72,6 +78,7 @@ private:
 };
 
 //Seccion FUERA DE LA CLASE
-void operator >>(ifstream& input, class Personaje& personaje);
-void operator <<(ofstream& output, class Personaje& personaje);
+void operator >>(ifstream &input, class Personaje &personaje);
+
+void operator <<(ofstream &output, class Personaje &personaje);
 #endif //JUEGOUNDERTALE_HEROE_HPP

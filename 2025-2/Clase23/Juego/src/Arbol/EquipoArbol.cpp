@@ -45,7 +45,7 @@ void EquipoArbol::insertar_recursivo(NodoArbol *&arbol, const struct Heroe h) {
     }
     // ABB -> Arbol Binario de Busqueda.
     // Quiero insertar ya sea a la derecha o a la izq dependiendo de la comparacion
-    if (arbol->dato > h)
+    if (arbol->dato > h) // Comparacion sobrecarga
         insertar_recursivo(arbol->izq, h);
     else
         insertar_recursivo(arbol->der, h);

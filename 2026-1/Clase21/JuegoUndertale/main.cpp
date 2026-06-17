@@ -19,6 +19,7 @@ int main() {
     Item* item;
     item = new Consumible;
     int modificador = item->get_modificador();
+    cout<<modificador<<endl;
 
     //
     //
