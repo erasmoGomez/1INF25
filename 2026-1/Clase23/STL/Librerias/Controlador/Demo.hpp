@@ -9,17 +9,27 @@
 
 class Demo {
 private:
-    vector <int> codigos;
-    vector <string> nombres;
-    vector <Alumno> alumnos;
-    list <Alumno*> lista_alumnos;
+    vector<int> codigos;
+    vector<string> nombres;
+    vector<Alumno> alumnos;
+    list<Alumno> lista_alumnos;
+    list<list<list<string>>> semestre_informatica;
     map<string, Alumno> dicionario_alumnos;
+
 public:
     void demo_vector_lectura();
+
+    void demo_list_lectura();
+
+    void demo_map_lectura();
 
     void demo_lectura();
 
     void demo_vector_escritura();
+
+    void demo_list_escritura();
+
+    void demo_map_escritura();
 
     void demo_escritura();
 };

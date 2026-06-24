@@ -30,9 +30,14 @@ public:
 
     void set_aprobado(bool aprobado);
 
-    void imprimir(ostream&);
+    void leer(ifstream &);
 
+    void imprimir(ostream &);
+
+    bool operator<(const Alumno & otro) const;
 };
 
-void operator<<(ostream &,Alumno& alumno);
+void operator<<(ostream &, Alumno &alumno);
+
+void operator>>(ifstream &, Alumno &alumno);
 #endif //STL_ALUMNO_HPP
