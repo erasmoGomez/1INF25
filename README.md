@@ -223,28 +223,6 @@ The repository contains material from different editions of **1INF25 — Program
 
 Each semester may contain examples, exercises, laboratory material and other resources used during the course.
 
-
-## ⚠️ A friendly warning
-
-C++ will let you do many things.
-
-That does **not** mean you should do them.
-
-```cpp
-int *ptr = nullptr;
-
-*ptr = 10;
-```
-
-C++:
-
-> Sure.
-
-Operating System:
-
-> **Segmentation fault.**
-
-
 ## 🧑‍💻 The Programmer's Evolution
 
 ```text
