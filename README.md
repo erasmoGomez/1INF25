@@ -5,7 +5,7 @@
 
 Welcome to **Programación 2**.
 
-This is where programming starts getting... interesting.
+This is where programming starts getting... interesting in C++.
 
 You'll allocate memory.
 You'll lose memory.
