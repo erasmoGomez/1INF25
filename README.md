@@ -14,8 +14,6 @@ You'll probably dereference the wrong pointer.
 
 And eventually, you'll understand **why Java decided that maybe programmers shouldn't be trusted with memory.**
 
----
-
 ## 🧠 What is this course about?
 
 Programación 2 is not just about learning more C++ syntax.
@@ -51,7 +49,6 @@ C++
             Java ☕
 ```
 
----
 
 ## 💀 Memory Management
 
@@ -92,7 +89,6 @@ And, most importantly:
 
 > **Why did my program compile perfectly and still explode?**
 
----
 
 ## 👉 Pointers
 
@@ -111,7 +107,6 @@ But underneath all the `*`, `&`, `**` and questionable life decisions, there is 
 
 Once that idea clicks, a lot of C++ suddenly starts making sense.
 
----
 
 ## 🕳️ The `void*` Arc
 
@@ -140,7 +135,6 @@ That's your problem.
 
 Good luck.
 
----
 
 ## 🧱 Object-Oriented Programming
 
@@ -191,7 +185,6 @@ The **Garbage Collector** handles memory management for you.
 
 But now you'll understand what it is actually saving you from.
 
----
 
 ## 🎯 By the end of the course
 
@@ -209,7 +202,6 @@ you'll stop and think:
 
 That's progress.
 
----
 
 ## 📂 Repository Structure
 
@@ -231,7 +223,6 @@ The repository contains material from different editions of **1INF25 — Program
 
 Each semester may contain examples, exercises, laboratory material and other resources used during the course.
 
----
 
 ## ⚠️ A friendly warning
 
@@ -253,7 +244,6 @@ Operating System:
 
 > **Segmentation fault.**
 
----
 
 ## 🧑‍💻 The Programmer's Evolution
 
@@ -276,7 +266,6 @@ SEGMENTATION FAULT
        Java
 ```
 
----
 
 ## 🚀 Final Rule
 
