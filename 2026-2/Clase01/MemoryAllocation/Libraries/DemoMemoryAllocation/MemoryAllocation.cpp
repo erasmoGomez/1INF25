@@ -123,7 +123,7 @@ void demo_static_string() {
     print_centered_text(cout, "STATIC STRING");
     print_line(cout, '=', OUTPUT_WIDTH);
 
-    char name[20];
+    char name[20]; //Reserva de memoria estatica
 
     strcpy(name, "Erasmo");
 

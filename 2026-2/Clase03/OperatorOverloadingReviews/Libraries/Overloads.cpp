@@ -12,14 +12,17 @@ void operator<<(const char *file_name, struct Reviews &reviews) {
     int &n_reviews = reviews.n_reviews;
     while (true) {
         input >> review; //Necesita otra sobrecarga para leer un solo review
-        //input >> review;
-        //tipo_dato_resultando operator (operando1, operando2)
-        //void operator >> (input, review)
-        //void operator >> (ifstream& input, struct Review& review);
         if (input.eof())break;
         reviews.reviews[n_reviews] = review;
         n_reviews++;
     }
+    //     //tipo_dato_resultando operator (operando1, operando2)
+    //     //void operator >> (input, review)
+    //     //void operator >> (ifstream& input, struct Review& review);
+    //     if (input.eof())break;
+    //     reviews.reviews[n_reviews] = review;
+    //     n_reviews++;
+    // }
 }
 
 void operator>>(ifstream &input, struct Review &review) {
@@ -34,12 +37,12 @@ void operator>>(ifstream &input, struct Review &review) {
 void operator<<(ofstream &output, const struct Review review) {
     output<<fixed;
     output<<setprecision(2)<<endl;
-    output<<setw(REPORT_WITH/3)<<review.date;
-    output<<setw(REPORT_WITH/3)<<review.review;
-    output<<setw(REPORT_WITH/3)<<review.rating<<endl;
+    output<<setw(OUTPUT_WIDTH/3)<<review.date;
+    output<<setw(OUTPUT_WIDTH/3)<<review.review;
+    output<<setw(OUTPUT_WIDTH/3)<<review.rating<<endl;
 }
 
-void operator<<(struct Reviews &reviews, const char *file_name) {
+void operator<<(const struct Reviews &reviews, const char *file_name) {
     ofstream output;
     open_file_write(output, file_name);
     for(int i=0; i<reviews.n_reviews; i++){
@@ -47,7 +50,7 @@ void operator<<(struct Reviews &reviews, const char *file_name) {
     }
 }
 
-void operator+=(Reviews &reviews, int *estadisticas) {
+void operator+=(const struct Reviews &reviews, int *estadisticas) {
     for(int i=0; i<reviews.n_reviews; i++){
         if(reviews.reviews[i].rating < 0.4) estadisticas[0]++;
         if(reviews.reviews[i].rating >= 0.4 and reviews.reviews[i].rating < 0.6 ) estadisticas[1]++;

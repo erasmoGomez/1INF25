@@ -1,4 +1,4 @@
-#include "src/Overloads.hpp"
+#include "Libraries/Overloads.hpp"
 
 int main() {
     struct Reviews reviews{};
@@ -7,7 +7,7 @@ int main() {
     //LLenar/Leer la estructura reviews
     "Data/reviews.csv"<<reviews; //Realizar una sobrecarga
     cout<<reviews.n_reviews<<endl;
-    reviews<<"Reports/reporte_reviews.txt";
+    reviews<<"Reports/reviews_report.txt";
 //    void operator <<(const char* file_name, struct Reviews & reviews);
 //    "hola"<<reviews
 //    void operator <<(struct Reviews & reviews, const char* file_name);
