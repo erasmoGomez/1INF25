@@ -6,5 +6,4 @@
 #define MEMORIAINCREMENTOS_MEMORIAINCREMENTOS_HPP
 #include "Utils.hpp"
 void leer_datos(int* &codigos, int &n_datos);
-void leer_datos_nombres(char** &nombres, int &n_datos);
 #endif //MEMORIAINCREMENTOS_MEMORIAINCREMENTOS_HPP

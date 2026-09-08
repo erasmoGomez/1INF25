@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="084117cf-29cd-4a31-bb00-49087acdd818" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase05/MemoriaExacta/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/Data/nombres.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase05/MemoriaExacta/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/src/MemoriaIncrementos.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase05/MemoriaExacta/src/MemoriaExacta.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase05/MemoriaExacta/src/MemoriaIncrementos.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase05/MemoriaExacta/src/MemoriaExacta.hpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3In28qyaA5pIgPNh8RZrBGsodIV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/erasmo/Documents/erasmo/pucp/git/1INF25/2026-2/Clase06",
+    "settings.editor.selected.configurable": "preferences.general",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084117cf-29cd-4a31-bb00-49087acdd818" name="Changes" comment="" />
+      <created>1788385856705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788385856705</updated>
+      <workItem from="1788385858406" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -62,3 +62,9 @@ void tokenize(const char *input_string, const int n_token) {
 
     print_line(OUTPUT_WIDTH, '=');
 }
+
+void ver_contador() {
+    static int identificador = 0; // static SOLO se ejecuta una vez en toooodo el programa
+    cout<<identificador<<endl;
+    identificador++;
+}

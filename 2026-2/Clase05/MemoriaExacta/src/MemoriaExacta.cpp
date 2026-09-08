@@ -2,7 +2,7 @@
 // Created by Erasmo on 29/08/25.
 //
 
-#include "MemoriaIncrementos.hpp"
+#include "MemoriaExacta.hpp"
 void apertura_archivo_lectura(ifstream& input, const char* nombre_archivo){
     input.open(nombre_archivo, ios::in);
     if(!input.is_open()){
@@ -43,7 +43,7 @@ void incrementar_espacios(int *&codigos, int &n_datos, int &capacidad){
 void leer_datos(int* &codigos, int &n_datos){
     int codigo = 0;
     int buffer_enteros[10];
-    codigos = nullptr; // Inicializar o en el main int* codidos{}
+    codigos = nullptr; // Inicializar
     ifstream input;
     apertura_archivo_lectura(input, "Data/codigos.txt");
     while(true){
@@ -55,22 +55,5 @@ void leer_datos(int* &codigos, int &n_datos){
     codigos = new int[n_datos];
     for(int i = 0; i<n_datos; i++) {
         codigos[i] = buffer_enteros[i];
-    }
-}
-
-void leer_datos_nombres(char** &nombres, int &n_datos){
-    //Primer Paso: Estimar 10 aprox
-    char* buffer_nombres[10];
-    //Segundo Paso: Conseguir la cantidad real
-    ifstream input; apertura_archivo_lectura(input, "Data/nombres.txt");
-    while(true) {
-        char *nombre_leido = leer_cadena(input);
-        if(input.eof())break;
-        buffer_nombres[n_datos] = nombre_leido;
-        n_datos++;
-    }
-    nombres = new char*[n_datos];
-    for(int i = 0; i<n_datos; i++) {
-        nombres[i] = buffer_nombres[i];
     }
 }
