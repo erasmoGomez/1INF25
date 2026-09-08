@@ -69,6 +69,7 @@ void allocate_inc_memory(char ** &player_videogames, int &siz, int &capacity) {
 }
 
 void add_videogame(ifstream &input, char ** &player_videogames, int &siz, int &capacity) {
+    //1001,Tekken 8,Fighting,239.9,27.7,PLAYING
     char *videogame = read_str(input);
     if (siz == capacity)
         allocate_inc_memory(player_videogames, siz, capacity);
@@ -89,7 +90,10 @@ void load_videogames_memoria_incremental(const struct Players &players, ifstream
         input_videogames.ignore();
         index = lookup(players.codes, code_read);
         if (index != -1) {
-            add_videogame(input_videogames, players.video_games[index], sizes[index], capacities[index]);
+            add_videogame(input_videogames,
+                          players.video_games[index],
+                          sizes[index],
+                          capacities[index]);
         } else
             input_videogames.ignore(200, '\n');
     }
