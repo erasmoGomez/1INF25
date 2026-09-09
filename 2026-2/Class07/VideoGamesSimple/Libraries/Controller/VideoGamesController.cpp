@@ -57,13 +57,17 @@ void load_players_memoria_exacta(struct Players &players,
 
 int lookup(int **source, int to_look) {
     for (int i = 0; source[i]; i++) {
+        // ATERRIZAJE
         const int *arr = source[i];
-        if ( arr[0] == to_look) return i;
+        if (arr[0] == to_look) return i;
     }
     return -1;
 }
 
-void allocate_inc_memory(char ** &player_videogames, double**&player_stats, int &siz, int &capacity) {
+void allocate_inc_memory(char ** &player_videogames,
+                         double ** &player_stats,
+                         int &siz,
+                         int &capacity) {
     capacity += INC;
     if (player_videogames == nullptr) {
         player_videogames = new char *[capacity]{};
@@ -95,12 +99,19 @@ double *read_player_stats(ifstream &input) {
     return stats;
 }
 
-void add_videogame_info(ifstream &input, double **&player_stats, char ** &player_videogames, int &siz, int &capacity) {
+void add_videogame_info(ifstream &input,
+                        double ** &player_stats,
+                        char ** &player_videogames,
+                        int &siz,
+                        int &capacity) {
     //1001,Dota 2,MOBA,90.7,77.7,COMPLETED
     char *videogame = read_str(input);
     double *stats = read_player_stats(input);
     if (siz == capacity)
-        allocate_inc_memory(player_videogames, player_stats, siz, capacity);
+        allocate_inc_memory(player_videogames,
+                            player_stats,
+                            siz,
+                            capacity);
     player_videogames[siz - 1] = videogame;
     player_stats[siz - 1] = stats;
     siz++;
@@ -112,6 +123,31 @@ int get_size(const struct Players &players) {
     for (i = 0; players.info_int[i]; i++) {
     }
     return i;
+}
+
+void cut_videogames_stats(char **&videogames,
+                          double **&info_double,
+                          int siz) {
+    char** aux_videogames = new char *[siz]{};
+    double** aux_double = new double *[siz]{};
+    for (int i = 0; i < siz; i++) {
+        aux_double[i] = info_double[i];
+        aux_videogames[i] = videogames[i];
+    }
+    delete [] info_double;
+    delete [] videogames;
+    info_double = aux_double;
+    videogames = aux_videogames;
+}
+
+void cut_videogames(struct Players &players,
+                    int *capacities,
+                    int *sizes) {
+    for (int i = 0; players.info_int[i]; i++) {
+        cut_videogames_stats(players.videogames[i],
+                             players.info_doubles[i],
+                             sizes[i]);
+    }
 }
 
 void load_videogames_memoria_incremental(struct Players &players, ifstream &input_videogames) {
@@ -126,14 +162,15 @@ void load_videogames_memoria_incremental(struct Players &players, ifstream &inpu
         index = lookup(players.info_int, code_read);
         if (index != -1) {
             add_videogame_info(input_videogames,
-                                players.info_doubles[index],
-                                players.videogames[index],
-                                sizes[index],
-                                capacities[index]);
+                               players.info_doubles[index],
+                               players.videogames[index],
+                               sizes[index],
+                               capacities[index]);
         } else
             input_videogames.ignore(200, '\n');
         //players.info_str[index] = info_str_player;
     }
+    cut_videogames(players, capacities, sizes);
 }
 
 
@@ -149,12 +186,14 @@ void load_players(struct Players &players,
     load_players_memoria_exacta(players, input_players);
     // A segundo Nivel vamos a usar Memoria Incremental
     load_videogames_memoria_incremental(players, input_videogames);
+
+    //HACER TODAS LAS COMBINACIONES!
 }
 
 void display_players(const struct Players &players, const char *filename) {
     ofstream output_players;
     open_file_write(output_players, filename);
-    output_players<<fixed;
+    output_players << fixed;
     output_players.precision(2);
     for (int i = 0; players.info_int[i]; ++i) {
         int *info_int_player = players.info_int[i];
@@ -169,11 +208,11 @@ void display_players(const struct Players &players, const char *filename) {
         //Imprimir Video Games
         if (info_videogames_player) {
             for (int j = 0; info_videogames_player[j] != nullptr; ++j) {
-                double* info_doubles = info_stats_player[j];
+                double *info_doubles = info_stats_player[j];
                 output_players << setw(10) << right << j + 1 << ") "
                         << setw(30) << left << info_videogames_player[j]
-                        << setw(10) << left << info_doubles[j]
-                        << setw(10) << left << info_doubles[j]
+                        << setw(10) << left << info_doubles[0]
+                        << setw(10) << left << info_doubles[1]
                         << '\n';
             }
         } else {
@@ -184,5 +223,25 @@ void display_players(const struct Players &players, const char *filename) {
     }
 }
 
-void calculate_stats(const struct Players &players) {
+double calculate_stats_by_player(double ** info_double) {
+    double sum_average = 0;
+    int n_videogames = 0;
+    for (int i = 0; info_double[i] != nullptr; ++i) {
+        double *info_stats = info_double[i];
+        double promedio = (info_stats[0] + info_stats[1])/2;
+        sum_average += promedio;
+        n_videogames++;
+    }
+
+    return sum_average?sum_average/(double)n_videogames:0.0;
+}
+
+void calculate_print_stats(struct Players &players) {
+    const int n_players = get_size(players);
+    players.stats = new double[n_players];
+    for (int i=0; i < n_players; i++) {
+        players.stats[i] = calculate_stats_by_player(players.info_doubles[i]);
+        cout<<fixed<<endl;
+        cout<<i+1<<") "<<setw(6)<<setprecision(2)<<players.stats[i]<<endl;
+    }
 }

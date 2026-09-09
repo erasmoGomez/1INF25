@@ -13,5 +13,5 @@ void load_videgames(struct Players &);
 
 void display_players(const struct Players &, const char *);
 
-void calculate_stats(const struct Players &);
+void calculate_print_stats(struct Players &);
 #endif //VIDEOGAMES_VIDEOGAMESCONTROLLER_HPP

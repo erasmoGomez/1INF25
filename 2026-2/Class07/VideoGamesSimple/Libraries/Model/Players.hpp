@@ -10,5 +10,6 @@ struct Players {
     char*** info_str;
     double*** info_doubles;
     char*** videogames;
+    double* stats;
 };
 #endif //PLAYERS_PLAYERS_HPP
