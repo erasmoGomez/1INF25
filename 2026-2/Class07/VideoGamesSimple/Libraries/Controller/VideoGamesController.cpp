@@ -314,15 +314,15 @@ void load_players(struct Players &players,
 
     ifstream input_videogames;
     open_file_read(input_videogames, videogames_filename);
-    // // En primer Nivel vamos a usar Memoria Exacta
-    // load_players_memoria_exacta(players, input_players);
-    // // A segundo Nivel vamos a usar Memoria Incremental
-    // load_videogames_memoria_incremental(players, input_videogames);
-
-    // En primer Nivel vamos a usar Memoria Incremental
-    load_players_memoria_incremental(players, input_players);
+    // En primer Nivel vamos a usar Memoria Exacta
+    load_players_memoria_exacta(players, input_players);
     // A segundo Nivel vamos a usar Memoria Incremental
-    load_videogames_memoria_exacta(players, input_videogames);
+    load_videogames_memoria_incremental(players, input_videogames);
+
+    // // En primer Nivel vamos a usar Memoria Incremental
+    // load_players_memoria_incremental(players, input_players);
+    // // A segundo Nivel vamos a usar Memoria Incremental
+    // load_videogames_memoria_exacta(players, input_videogames);
 
     //HACER TODAS LAS COMBINACIONES!
 }
