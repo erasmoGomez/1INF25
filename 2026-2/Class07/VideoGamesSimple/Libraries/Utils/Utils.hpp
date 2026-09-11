@@ -12,5 +12,7 @@
 #define STR_SIZE 100
 #define OUTPUT_WIDTH 90
 #define INC 2
+#define INCREMENT 5
+#define VIDEOGAMES_SIZE 10
 using namespace std;
 #endif //OPERATOROVERLOADINGREVIEWS_UTILS_HPP
