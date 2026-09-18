@@ -221,21 +221,19 @@ void calcular_promedio(void *alumnos) {
 }
 
 void cambiar(void *&alumno1, void *&alumno2) {
-    void *aux;
-    aux = alumno1;
+    void *aux = alumno1;
     alumno1 = alumno2;
     alumno2 = aux;
 }
 
 bool comparar_orden(void *a1, void *a2) {
-    void **registro1 = (void **) a1;
-    void **registro2 = (void **) a2;
+    void **registro1 = static_cast<void **>(a1);
+    void **registro2 = static_cast<void **>(a2);
 
-    char *nombre_a1, *nombre_a2;
     //int* codigo_a1, *codigo_a2;
 
-    nombre_a1 = (char *) registro1[NOMBRE];
-    nombre_a2 = (char *) registro2[NOMBRE];
+    char *nombre_a1 = static_cast<char *>(registro1[NOMBRE]);
+    char *nombre_a2 = static_cast<char *>(registro2[NOMBRE]);
     // En este punto es donde la mayoria se equivoca.
     cout << nombre_a1 << " CON " << nombre_a2<<endl;
     //    int cantidad_cursos_a1, int cantidad_cursos_a2;
@@ -263,7 +261,7 @@ void quick_sort(void **alumnos, int izq, int der) {
 }
 
 void ordenar(void *alumnos) {
-    void **arreglo_alumnos = (void **) alumnos;
+    void **arreglo_alumnos = static_cast<void **>(alumnos);
     int cantidad = 0;
     for (cantidad = 0; arreglo_alumnos[cantidad]; cantidad++);
     quick_sort(arreglo_alumnos, 0, cantidad - 1);
