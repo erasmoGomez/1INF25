@@ -4,7 +4,7 @@ int main() {
     void *alumnos;
     cargar_alumnos(alumnos, "Data/Alumnos.csv");
     cargar_notas(alumnos, "Data/CursosNotas.csv");
-    calcular_promedio(alumnos);
+    //calcular_promedio(alumnos);
     probar_carga(alumnos, "Reports/reporte1_promedio.txt");
     ordenar(alumnos);
     probar_carga(alumnos, "Reports/reporte_ordenado.txt");

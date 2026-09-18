@@ -32,6 +32,11 @@ void *leer_registro(ifstream &input) {
     return registro;
 }
 
+void incrementar_memoria(void *&alumnos, int &n, int &capacidad) {
+    void ** alumnos_2 = (void**)alumnos;
+
+}
+
 void incrementar_memoria(void **&alumnos, int &n, int &capacidad) {
     void **aux_alumnos;
     capacidad += INCREMENTO;
@@ -42,9 +47,18 @@ void incrementar_memoria(void **&alumnos, int &n, int &capacidad) {
         aux_alumnos = new void *[capacidad]{};
         for (int i = 0; i < n; i++)
             aux_alumnos[i] = alumnos[i];
-        delete alumnos;
+        delete[] alumnos;
         alumnos = aux_alumnos;
     }
+}
+
+void recortar(void ** &alumnos_arreglo, int cantidad_alumnos) {
+    void **aux_alumnos_arreglo = new void *[cantidad_alumnos+1]{};
+    for (int i = 0; i < cantidad_alumnos; i++) {
+        aux_alumnos_arreglo[i] = alumnos_arreglo[i];
+    }
+    delete[] alumnos_arreglo;
+    alumnos_arreglo = aux_alumnos_arreglo;
 }
 
 void cargar_alumnos(void *&alumnos, const char *nombre_archivo) {
@@ -60,6 +74,7 @@ void cargar_alumnos(void *&alumnos, const char *nombre_archivo) {
         alumnos_arreglo[cantidad_alumnos - 1] = registro;
         cantidad_alumnos++;
     }
+    recortar(alumnos_arreglo, cantidad_alumnos);
     alumnos = alumnos_arreglo;
 }
 
@@ -167,7 +182,10 @@ void cargar_notas(void *alumnos, const char *nombre_archivo) {
         input.get();
         pos = buscar_alumno(codigo, arr_alumnos);
         if (pos != -1) {
-            colocar_curso(input, arr_alumnos[pos], n_datos[pos], cap[pos]);
+            colocar_curso(input,
+                arr_alumnos[pos],
+                n_datos[pos],
+                cap[pos]);
         } else
             while (input.get() != '\n');
     }
@@ -227,7 +245,7 @@ bool comparar_orden(void *a1, void *a2) {
     //    codigo_a1 = (int*)registro1[CODIGO];
     //    codigo_a2 = (int*)registro2[CODIGO];
     //    return *codigo_a1<*codigo_a2
-    return strcmp(nombre_a1, nombre_a2) < 0;
+    return strcmp(nombre_a1, nombre_a2) < 0; //alfabeticamente
 }
 
 void quick_sort(void **alumnos, int izq, int der) {
