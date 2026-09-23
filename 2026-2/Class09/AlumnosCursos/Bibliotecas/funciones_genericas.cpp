@@ -110,6 +110,14 @@ void probar_carga(void *alumnos, const char *archivo_nombre) {
         imprimir_alumno(arreglo_alumnos[i], output);
 }
 
+int compara_alumnos(const void *a, const void *b) {
+    void** alumno_1 = (void**)*(void**)a; //xq qsort nos manda un nivel adicional
+    void** alumno_2 = (void**)*(void**)b; //xq qsort nos manda un nivel adicional
+    int* ptr_codigo_a = (int*)alumno_1[CODIGO];
+    int* ptr_codigo_b = (int*)alumno_2[CODIGO];
+    return *ptr_codigo_a - *ptr_codigo_b;
+}
+
 void* leer_curso(ifstream &input){
     char* codigo;
     int* nota = new int;

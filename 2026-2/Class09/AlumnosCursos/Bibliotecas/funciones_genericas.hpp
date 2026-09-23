@@ -10,4 +10,5 @@ void cargar_notas(void*, const char*);
 void calcular_promedio(void*);
 void probar_carga(void*, const char*);
 void ordenar(void*);
+int compara_alumnos(const void*, const void*);
 #endif //PUNTEROSVOIDALUMNOSCURSOS_FUNCIONES_GENERICAS_HPP

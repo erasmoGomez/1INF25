@@ -13,4 +13,5 @@ void ordenar(void*);
 int obtener_cantidad(void *alumnos);
 void quick_sort_generico(void *alumnos, int izq, int der, int(*cmp)(const void *, const void *));
 int comparar_orden_generico(const void *al1, const void *al2);
+int comparar_orden_generico_qsort(const void *al1, const void *al2);
 #endif //PUNTEROSVOIDALUMNOSCURSOS_FUNCIONES_GENERICAS_HPP

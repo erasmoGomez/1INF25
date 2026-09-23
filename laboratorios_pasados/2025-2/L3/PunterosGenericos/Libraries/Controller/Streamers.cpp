@@ -59,7 +59,7 @@ void load_streamers(void *&streamers, const char *filename) {
 }
 
 void *read_comment(ifstream &input_file) {
-    //ab7f2910,Can someone please help me understand [Castro_1021 loltyler1]
+    //ab7f2910,Can someone please help me understand [Castro_1021 loltyler1]\r\n
     char *code = read_str(input_file, ',');
     if (input_file.eof())return nullptr;
     char *text = read_str(input_file, '[');

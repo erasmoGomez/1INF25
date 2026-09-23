@@ -81,7 +81,7 @@ void cargar_alumnos(void *&alumnos, const char *nombre_archivo) {
 bool son_iguales(int codigo, void *alumno) {
     void **registro = (void **) alumno;
     int *codigo_ptr = (int *) registro[CODIGO];
-    cout<< *codigo_ptr<<endl;
+    //cout<< *codigo_ptr<<endl;
     return codigo == *codigo_ptr; //int == int
 }
 
@@ -235,7 +235,7 @@ bool comparar_orden(void *a1, void *a2) {
     char *nombre_a1 = static_cast<char *>(registro1[NOMBRE]);
     char *nombre_a2 = static_cast<char *>(registro2[NOMBRE]);
     // En este punto es donde la mayoria se equivoca.
-    cout << nombre_a1 << " CON " << nombre_a2<<endl;
+    //cout << nombre_a1 << " CON " << nombre_a2<<endl;
     //    int cantidad_cursos_a1, int cantidad_cursos_a2;
     //    cantidad_cursos_a1 = calcular_cantidad(registro1[CURSOS]);
     //    cantidad_cursos_a2 = calcular_cantidad(registro2[CURSOS]);
@@ -288,8 +288,8 @@ int compara_cadenas(const void *al1, const void *al2) {
     nombre_a = (char *) registro_a[NOMBRE];
     nombre_b = (char *) registro_b[NOMBRE];
 
-    cout << "Nommbre A : " << nombre_a << endl;
-    cout << "Nommbre B : " << nombre_b << endl;
+    //cout << "Nommbre A : " << nombre_a << endl;
+    //cout << "Nommbre B : " << nombre_b << endl;
 
     return strcmp(nombre_a, nombre_b);
 }
@@ -315,6 +315,16 @@ int comparar_orden_generico(const void *al1, const void *al2) {
     // NO debo realizar el salto extra.
     void **registro1 = (void **) al1;
     void **registro2 = (void **) al2;
+    char *nombre_al1 = (char *) registro1[NOMBRE];
+    char *nombre_al2 = (char *) registro2[NOMBRE];
+    return strcmp(nombre_al1, nombre_al2);
+}
+
+int comparar_orden_generico_qsort(const void *al1, const void *al2) {
+    //Esta si va a ser llamada por qsort de cstdlib
+    // SI debo realizar el salto extra.
+    void **registro1 = (void**)*(void **) al1;
+    void **registro2 = (void**)(*(void **) al2);
     char *nombre_al1 = (char *) registro1[NOMBRE];
     char *nombre_al2 = (char *) registro2[NOMBRE];
     return strcmp(nombre_al1, nombre_al2);

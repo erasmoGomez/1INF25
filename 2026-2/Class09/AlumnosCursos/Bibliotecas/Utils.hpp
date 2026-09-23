@@ -8,6 +8,7 @@
 #include <iomanip>
 #include <fstream>
 #include <cstring>
+#include <cstdlib>
 #define INCREMENTO 5
 enum registroAlumno {CODIGO, NOMBRE, CURSOS, PROMEDIO};
 enum registroCurso {CODIGOCURSO, NOTA};

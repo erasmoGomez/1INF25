@@ -17,7 +17,9 @@ double calcular_promedio(int x, int y){
     return (double)(x+y)/2;
 }
 
-double operacion_generica(int x, int y, double(*funcion_generica)(int, int)){
+double operacion_generica(  int x,
+                            int y,
+                            double(*funcion_generica)(int, int)){
     return funcion_generica(x, y);
 }
 
@@ -27,6 +29,7 @@ int main() {
 
     //Declaro un puntero a funcion
     int (*ptr_funcion) (int, int);
+    double (*ptr_funcion_2) (int, int);
     //
     ptr_funcion = suma_2;
     //
@@ -35,15 +38,15 @@ int main() {
     double (*arr_ptr_funcion[2])(int, int);
     arr_ptr_funcion[0] = multiplica;
     arr_ptr_funcion[1] = calcular_promedio;
-    //
+    // //
     for(int i = 0; i<2; i++)
         cout<<arr_ptr_funcion[i](x, y)<<endl;
-    //
-    // //Llamar a operacion generica
+    // //
+    // Llamar a operacion generica
     cout<< "Funcion Generica con la SUMA: "<< operacion_generica(x, y, suma)<<endl;
     cout<< "Funcion Generica con la CalcularPromedio: "<< operacion_generica(x, y, calcular_promedio)<<endl;
     cout<< "Funcion Generica con la Multiplica : "<< operacion_generica(x, y, multiplica)<<endl;
-
-
+    //
+    qsort()
     return 0;
 }
