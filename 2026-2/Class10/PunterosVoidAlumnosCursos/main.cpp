@@ -16,12 +16,12 @@ int main() {
 
 
     // QuickSort Genérico
-    // quick_sort_generico(alumnos, 0, cantidad - 1, comparar_orden_generico);
-    // probar_carga(alumnos, "Reports/reporte_ordenado_generio.txt");
+    quick_sort_generico(alumnos, 0, cantidad - 1, comparar_orden_generico);
+    probar_carga(alumnos, "Reports/reporte_ordenado_generio.txt");
 
     // QSORT
-    qsort(alumnos, cantidad, sizeof(void*), comparar_orden_generico_qsort);
-    probar_carga(alumnos, "Reports/reporte_ordenado_generio_qsort.txt");
+    // qsort(alumnos, cantidad, sizeof(void*), comparar_orden_generico_qsort);
+    // probar_carga(alumnos, "Reports/reporte_ordenado_generio_qsort.txt");
 
 
     return 0;

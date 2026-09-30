@@ -1,0 +1,36 @@
+#include "GameView.hpp"
+#include <iostream>
+using namespace std;
+
+void GameView::display_welcome() {
+    cout << "==========================" << endl;
+    cout << "      MINECRAFT C++        " << endl;
+    cout << "==========================" << endl;
+}
+
+void GameView::display_menu() {
+    cout << endl;
+    cout << "1. Show world" << endl;
+    cout << "2. Move player" << endl;
+    cout << "3. Attack" << endl;
+    cout << "4. Show player" << endl;
+    cout << "5. Exit" << endl;
+    cout << "Option: ";
+}
+
+void GameView::display_world(World &world) {
+    cout << endl << "WORLD" << endl;
+    cout << "Creepers: " << world.get_number_of_creepers() << endl;
+    cout << "Zombies: " << world.get_number_of_zombies() << endl;
+}
+
+void GameView::display_player(Player &player) {
+    cout << "Player: " << player.get_name() << endl;
+    cout << "Health: " << player.get_health() << endl;
+    cout << "Position: (" << player.get_x()
+         << ", " << player.get_y() << ")" << endl;
+}
+
+void GameView::display_message(const char *message) {
+    cout << message << endl;
+}
