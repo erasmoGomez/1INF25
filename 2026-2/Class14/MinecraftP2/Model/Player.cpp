@@ -3,9 +3,11 @@
 Player::Player() {
     x = 10;
     y = 10;
+    z = 10;
     health = 100;
     name = nullptr;
     experience = 0;
+    inventario = new Item[28]{};
 }
 
 Player::Player(const char *name, int health, int x, int y) {
@@ -18,7 +20,9 @@ Player::Player(const char *name, int health, int x, int y) {
 }
 
 Player::~Player() {
+    cout<<"Destructor de Player"<<endl;
     delete []name;
+    delete []inventario;
 }
 
 void Player::move(int dx, int dy, int dz) {
@@ -34,24 +38,4 @@ void Player::receive_damage(int damage) {
 
 void Player::attack() {
 
-}
-
-const char *Player::get_name() {
-    return name;
-}
-
-int Player::get_experience() const {
-    return experience;
-}
-
-int Player::get_health() const {
-    return health;
-}
-
-int Player::get_x() const {
-    return x;
-}
-
-int Player::get_y() const {
-    return y;
 }

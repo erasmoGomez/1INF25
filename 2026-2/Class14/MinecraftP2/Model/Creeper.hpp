@@ -30,6 +30,14 @@ private:
 public:
     Creeper();
 
+    Creeper(const int health, const int damage, const bool charged);
+
+    Creeper(bool charged);
+
+    Creeper(const Creeper& c);
+
+    ~Creeper();
+
     //Metodos
     void explode();
 };

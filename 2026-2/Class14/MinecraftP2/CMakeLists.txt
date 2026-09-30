@@ -11,4 +11,6 @@ add_executable(MinecraftP2 main.cpp
         Utilities/Utils.cpp
         Utilities/Utils.hpp
         Model/Creeper.cpp
-        Model/Creeper.hpp)
+        Model/Creeper.hpp
+        Model/Item.cpp
+        Model/Item.hpp)

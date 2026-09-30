@@ -2,7 +2,7 @@
 #define WORLD_HPP
 #include "Player.hpp"
 #include "Creeper.hpp"
-#include "Zombie.hpp"
+//#include "Zombie.hpp"
 
 class World {
 private:

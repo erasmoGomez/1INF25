@@ -10,9 +10,9 @@ private:
     GameView view;
 
     void load_game();
-    void process_option(int option);
-    void move_player();
-    void attack();
+    //void process_option(int option);
+    // void move_player();
+    // void attack();
 
 public:
     void start();

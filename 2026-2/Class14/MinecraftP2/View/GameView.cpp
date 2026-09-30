@@ -25,10 +25,6 @@ void GameView::display_world(World &world) {
 }
 
 void GameView::display_player(Player &player) {
-    cout << "Player: " << player.get_name() << endl;
-    cout << "Health: " << player.get_health() << endl;
-    cout << "Position: (" << player.get_x()
-         << ", " << player.get_y() << ")" << endl;
 }
 
 void GameView::display_message(const char *message) {
