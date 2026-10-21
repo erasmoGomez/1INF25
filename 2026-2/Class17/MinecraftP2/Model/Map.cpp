@@ -82,7 +82,7 @@ void Map::operator+=(class Player p) {
     bloques[p.get_x()*largo + p.get_y()] = b;
 }
 
-void Map::operator+=(class Mob m) {
+void Map::operator+=(class Mob m) const {
     char buffer[20];
     m.get_type(buffer);
     Block b;
@@ -90,6 +90,7 @@ void Map::operator+=(class Mob m) {
     if (strcmp(buffer, "Spider") == 0) b.set_sprite('#');
     if (strcmp(buffer, "Zombie") == 0) b.set_sprite('Z');
     if (strcmp(buffer, "Creeper") == 0) b.set_sprite('*');
+    b.set_transitable(false);
     bloques[m.get_x()*largo + m.get_y()] = b;
 }
 

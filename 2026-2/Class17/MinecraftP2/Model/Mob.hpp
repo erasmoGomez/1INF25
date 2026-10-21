@@ -57,6 +57,8 @@ public:
 
     Mob(const int id, char * const type, const int x, const int y, const int z);
 
+    Mob(const Mob & m);
+
     ~Mob();
 
     void read(ifstream &input);

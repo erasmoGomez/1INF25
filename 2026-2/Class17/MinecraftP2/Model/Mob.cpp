@@ -108,6 +108,18 @@ Mob::Mob(const int id, char * const type, const int x, const int y, const int z)
     this->set_type(type); // set_type(type)
 }
 
+Mob::Mob(const Mob &m) {
+    char type_buffer[20];
+    m.get_type(type_buffer);
+    this->type = nullptr;
+    set_type(type_buffer);
+    this->id = m.id;
+    this->health = m.get_health();
+    this->x = m.get_x();
+    this->y = m.get_y();
+    this->z = m.get_z();
+}
+
 Mob::~Mob() {
     // cout<<"Destructor MOB!"<<endl;
     delete [] this->type;

@@ -40,7 +40,7 @@ public:
 
     //Sobrecarga de +=
     void operator+=(class Player);
-    void operator+=(class Mob);
+    void operator+=(class Mob) const;
 
 private:
     int ancho;
