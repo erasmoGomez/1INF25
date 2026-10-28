@@ -1,0 +1,7 @@
+N, ABC123, El libro de la Selva, 2, 5, Aventura, 0.75
+E, EFG123, La enciclopedia de la Vida, 2, 4, 1, 6.30
+N, ABC321, El libro de la Costa, 2, 4, Historia, 1.0
+E, EFG321, La enciclopedia de la Muerte, 2, 3, 2, 2.0
+N, CBA123, El libro de la Sierra, 4, 4, Comedia, 0.75
+N, CBA321, El libro del Peru, 2, 7, Terror, 1.5
+E, EFG333, La enciclopedia de la Resurreccion, 6, 6, 3, 8.7

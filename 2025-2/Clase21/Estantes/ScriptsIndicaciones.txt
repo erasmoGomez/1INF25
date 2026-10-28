@@ -1,0 +1,15 @@
+Buenas tardes, les comparto los links y en enlaces a los archivos para el uso del Robot NAO:
+
+Choregraphe: https://drive.google.com/file/d/1fJHgV-SHTfVJ_lM82l8ei6bFOo7mlqRH/view?usp=sharing
+
+NAOqi: https://drive.google.com/drive/folders/1qV5SQoCFunSMaVyAQVcsozLhM4F6K4zx?usp=sharing
+
+Vdll: https://drive.google.com/drive/folders/1y1T7HlkoGxP-lgyb8pyAzL5pXkTXXhUU?usp=sharing
+
+Scripts base: https://drive.google.com/drive/folders/1cgIeUwiDxqelanEELUuaCcokgLulpFkL?usp=sharing
+
+Scripts yolo: https://drive.google.com/drive/folders/1rQiEbcsG4sj1XsLtzvLa5xZsKN76p1uU?usp=sharing
+
+Documentación: 
+http://doc.aldebaran.com/1-14/dev/python/tutorials.html
+https://doc.nao6.maxtronics.com/family/nao_technical/index_naov6.html

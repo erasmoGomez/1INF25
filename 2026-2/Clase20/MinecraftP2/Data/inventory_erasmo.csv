@@ -1,0 +1,15 @@
+Tool,3,Diamond Pickaxe,Mines obsidian and hard blocks,45,1
+Tool,5,Shears,Collects wool and leaves,77,1
+Tool,2,Diamond Shovel,Digs dirt and sand quickly,101,1
+Food,4,Golden Apple,Grants regeneration and absorption,67,6
+Food,2,Cooked Salmon,Restores hunger,103,5
+Food,2,Bread,Restores hunger,44,4
+Block,5,Obsidian,Strong block for Nether portals,71,41
+Block,1,Crafting Table,Allows crafting items,76,8
+Block,3,Torch,Provides light to nearby blocks,118,31
+Weapon,4,Diamond Sword,Powerful melee weapon,65,1
+Weapon,2,Trident,Can be thrown or used in melee,90,1
+Weapon,3,Netherite Sword,Highly durable melee weapon,104,1
+Potion,1,Potion of Healing,Restores health instantly,23,1
+Potion,4,Potion of Fire Resistance,Protects against fire and lava,53,3
+Potion,2,Potion of Regeneration,Restores health over time,101,2
