@@ -1,0 +1,16 @@
+Type,Level,Name,Description,Value,Quantity
+Tool,2,Iron Pickaxe,Mines iron and valuable ores,47,1
+Tool,4,Iron Axe,Chops wood efficiently,66,1
+Tool,1,Fishing Rod,Catches fish in water,77,1
+Food,1,Apple,Restores a small amount of hunger,33,7
+Food,3,Cooked Beef,Restores substantial hunger,43,9
+Food,5,Carrot,Restores hunger and can be planted,64,7
+Block,1,Oak Planks,Used to build wooden structures,18,17
+Block,4,Glass,Transparent building block,52,15
+Block,2,Furnace,Smelts ores and cooks food,93,37
+Weapon,2,Stone Sword,Melee weapon with improved damage,45,1
+Weapon,5,Bow,Ranged weapon that shoots arrows,74,1
+Weapon,1,Crossbow,Ranged weapon with charged shots,88,1
+Potion,2,Potion of Swiftness,Increases movement speed,32,2
+Potion,5,Potion of Night Vision,Improves vision in darkness,85,1
+Potion,3,Potion of Invisibility,Makes the player invisible,115,1

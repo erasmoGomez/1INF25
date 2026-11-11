@@ -1,0 +1,16 @@
+Type,Level,Name,Description,Value,Quantity
+Tool,1,Wooden Pickaxe,Mines stone and basic ores,23,1
+Tool,2,Iron Pickaxe,Mines iron and valuable ores,30,1
+Tool,3,Hoe,Prepares farmland for crops,106,1
+Food,2,Bread,Restores hunger,49,5
+Food,1,Baked Potato,Restores hunger,79,3
+Food,3,Pumpkin Pie,Restores hunger,117,9
+Block,2,Cobblestone,Common building material,34,32
+Block,3,Dirt,Basic terrain block,44,29
+Block,1,Crafting Table,Allows crafting items,89,42
+Weapon,1,Wooden Sword,Basic melee weapon,25,1
+Weapon,3,Iron Sword,Reliable melee weapon,51,1
+Weapon,5,Bow,Ranged weapon that shoots arrows,78,1
+Potion,1,Potion of Healing,Restores health instantly,28,3
+Potion,3,Potion of Strength,Increases melee damage,55,2
+Potion,1,Potion of Water Breathing,Allows breathing underwater,84,2
