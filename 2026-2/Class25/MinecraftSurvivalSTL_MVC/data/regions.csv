@@ -1,0 +1,7 @@
+region,type
+Village,Safe
+Forest,Safe
+Cave,Dangerous
+Mountain,Dangerous
+Desert,Dangerous
+Swamp,Dangerous

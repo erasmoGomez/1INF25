@@ -1,0 +1,8 @@
+origin,destination
+Village,Forest
+Village,Cave
+Forest,Mountain
+Forest,Cave
+Cave,Desert
+Mountain,Desert
+Desert,Swamp
