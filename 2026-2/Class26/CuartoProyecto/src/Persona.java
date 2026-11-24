@@ -4,14 +4,13 @@ import java.util.Scanner;
 
 public class Persona {
     private int codigo;
-    private String nombre;
-    private String apellido;
-    private int edad;
-    private boolean estado;
-    private char sexo;
 
-    public Persona() {
-        estado = false;
+    public int getCodigo() {
+        return codigo;
+    }
+
+    public void setCodigo(int codigo) {
+        this.codigo = codigo;
     }
 
     public String getNombre() {
@@ -54,9 +53,15 @@ public class Persona {
         this.sexo = sexo;
     }
 
-    public int getCodigo() {return codigo;}
+    private String nombre;
+    private String apellido;
+    private int edad;
+    private boolean estado;
+    private char sexo;
 
-    public void setCodigo(int codigo) {this.codigo = codigo;}
+    public Persona() {
+        estado = false;
+    }
 
     public Persona(String nombre, String apellido, int edad) {
         this.nombre = nombre;
@@ -77,10 +82,11 @@ public class Persona {
         buffer = input.next();
         sexo = buffer.charAt(0);
         nombre = input.next();
+        apellido = nombre; //Tarea repartir el nombre y el apellido
         edad = input.nextInt();
-        if(edad>40){
+        if (edad > 40) {
             estado = false;
-        }else{
+        } else {
             estado = true;
         }
     }

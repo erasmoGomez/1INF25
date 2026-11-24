@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ListaPersonas {
-    private ArrayList<Persona> personas;
+    private ArrayList<Persona> personas; // Contenedores: List, Vector, Map
+    // Siempre un ArrayList debe reservarse memoria en el constructor por defecto de la clase contenedora
 
     public ListaPersonas() {
         personas = new ArrayList<Persona>();
@@ -16,7 +17,7 @@ public class ListaPersonas {
         while(input.hasNext()){
             Persona persona = new Persona();
             persona.leer(input);
-            personas.add(persona);
+            personas.add(persona); // Agregarlo a mi contenedor
         }
         input.close();
     }
