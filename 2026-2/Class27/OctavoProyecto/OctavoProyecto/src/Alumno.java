@@ -7,7 +7,7 @@ class Alumno {
     private int codigo;
     private String nombre;
 
-    //Metodo polimorfico
+    //Metodo QUE SE VA A SOBREESCRIBIR
     public void leerDatos(Scanner arch) {
         //20160658 Arca/Amezquita/Edric-Ronald
         codigo = arch.nextInt();

@@ -1,0 +1,82 @@
+1 CinePlus Canal_dedicado_a_películas 2020-05-10 150000 Entretenimiento
+2 TechWorld Tecnología_y_review_de_gadgets 2018-11-22 87000 Tecnologia
+3 FitnessPro Entrenamientos_y_salud 2021-01-15 56000 Salud
+4 CocinaMaster Recetas_y_clases_de_cocina 2019-08-03 120000 Gastronomia
+5 MusicLive Conciertos_en_vivo_y_sessions 2021-09-12 98000 Musica
+6 GameZone Gameplay_y_streams 2020-02-18 210000 Videojuegos
+7 TravelNow Viajes_y_experiencias 2017-06-30 45000 Viajes
+8 EduMaster Cursos_y_tutoriales 2019-11-10 76000 Educacion
+9 AutoTech Autos_y_tecnologia 2022-03-05 35000 Tecnologia
+10 FashionStyle Moda_y_tendencias 2021-04-22 68000 Moda
+FIN
+1 Ana_Paredes 74581236 28 Lima 1997-03-14 987654321 ana@gmail.com Ingeniera_Sistemas
+2 Luis_Rojas 81245960 32 Arequipa 1993-07-22 953214876 lrojas@gmail.com Administrador
+3 Marta_Salas 70125648 27 Cusco 1998-01-05 981234567 martasalas@gmail.com Contadora
+4 Jorge_Quispe 78451230 35 Lima 1990-11-18 999111222 jquispe@gmail.com Analista_Datos
+5 Elena_Torres 76543218 29 Trujillo 1996-04-09 912345678 etorres@gmail.com Diseñadora_Grafica
+6 Daniel_Medina 78654321 30 Piura 1995-09-13 934567812 dmedina@gmail.com Profesor
+7 Sofia_Herrera 75412680 26 Lima 1999-06-01 901234568 sherrera@gmail.com Enfermera
+8 Pedro_Vargas 72145896 33 Arequipa 1992-12-21 987321654 pvargas@gmail.com Ingeniero_Mecanico
+9 Lucia_Fuentes 74458931 24 Cusco 2001-02-27 932154768 lfuentes@gmail.com Estudiante
+10 Marcos_Soto 73124589 31 Lima 1994-10-30 945876123 msoto@gmail.com Abogado
+11 Gabriela_Ramirez 71234589 29 Piura 1996-05-12 976543210 gramirez@gmail.com Marketera
+12 Andres_Castro 79874512 34 Trujillo 1991-03-03 965412378 acastro@gmail.com Economista
+13 Carla_Morales 70214569 25 Lima 2000-09-19 987654120 cmorales@gmail.com Arquitecta
+14 Diego_Flores 71548962 38 Arequipa 1987-07-16 954231678 dflores@gmail.com Contador
+15 Paola_Ruiz 75698412 27 Cusco 1998-08-25 967890123 pruiz@gmail.com Comunicadora
+16 Ricardo_Cardenas 79812345 36 Lima 1989-02-11 943218765 rcardenas@gmail.com Ingeniero_Industrial
+17 Valeria_Ortega 74568912 23 Trujillo 2002-12-09 988761234 vortega@gmail.com Estudiante
+18 Fernando_Palomino 73214587 37 Piura 1988-01-22 967431258 fpalomino@gmail.com Administrador
+19 Bianca_Mendoza 71025648 28 Lima 1997-06-14 999888777 bmendoza@gmail.com Chef
+20 Hector_Salinas 76541238 30 Arequipa 1995-04-28 934512789 hsalinas@gmail.com Programador
+FIN
+BASICA 1 1
+PREMIUM 1 4
+VIP 1 7
+BASICA 2 2
+PREMIUM 2 6
+BASICA 3 3
+VIP 3 5
+PREMIUM 3 9
+BASICA 3 10
+PREMIUM 4 1
+BASICA 4 8
+VIP 5 2
+BASICA 5 4
+PREMIUM 5 6
+BASICA 6 3
+VIP 7 1
+PREMIUM 7 5
+BASICA 7 7
+PREMIUM 7 9
+BASICA 8 4
+VIP 8 6
+BASICA 9 2
+BASICA 9 3
+PREMIUM 9 10
+BASICA 10 5
+VIP 11 1
+PREMIUM 11 8
+BASICA 11 9
+PREMIUM 12 3
+BASICA 12 6
+VIP 12 10
+BASICA 13 4
+PREMIUM 13 7
+BASICA 14 2
+PREMIUM 15 1
+BASICA 15 5
+PREMIUM 15 9
+VIP 15 10
+VIP 16 6
+BASICA 16 8
+PREMIUM 17 2
+VIP 17 3
+BASICA 17 7
+PREMIUM 18 4
+BASICA 18 5
+BASICA 18 10
+BASICA 19 1
+PREMIUM 19 6
+BASICA 20 3
+VIP 20 8

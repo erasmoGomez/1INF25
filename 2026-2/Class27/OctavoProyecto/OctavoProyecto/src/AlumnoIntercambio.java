@@ -1,3 +1,4 @@
+import java.awt.event.HierarchyBoundsAdapter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -39,10 +40,12 @@ public class AlumnoIntercambio extends Alumno {
         output.write("Idiomas:");
         output.write(String.valueOf(idiomas.size()));
         //output.write(idiomas.size()+"");
+        //System.out.println(idiomas.size());
 
         for (String id : idiomas) {
             output.write(" " + id);
         }
+
         output.write(System.lineSeparator());
         output.write("Permanecera: " + numeroDeSemestres + " Semestres\n");
     }

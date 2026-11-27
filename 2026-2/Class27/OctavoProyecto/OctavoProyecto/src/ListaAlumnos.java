@@ -19,8 +19,8 @@ class ListaDeAlumnos {
     public void leer_alumnos() throws IOException {
         Scanner input = crearScannerEntrada("Alumnos.txt");
         String tipoAlumno;
-        Alumno alumno;
         while (input.hasNext()) {
+            Alumno alumno;
             tipoAlumno = input.next(); //"R" o "I"
             if (tipoAlumno.compareTo("R") == 0) {
                 alumno = new AlumnoRegular();
